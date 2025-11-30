@@ -1,0 +1,800 @@
+entity_id,nace_level_1_code,nace_level_1_name,nace_level_2_code,nace_level_2_name,revenue_pct
+1735,A,"Agriculture, Forestry And Fishing",1,"Crop and animal production, hunting and related service activities",0.031104959
+1195,A,"Agriculture, Forestry And Fishing",1,"Crop and animal production, hunting and related service activities",0.362905898
+4092,A,"Agriculture, Forestry And Fishing",1,"Crop and animal production, hunting and related service activities",0.222189506
+3592,A,"Agriculture, Forestry And Fishing",1,"Crop and animal production, hunting and related service activities",0.063878628
+3169,A,"Agriculture, Forestry And Fishing",1,"Crop and animal production, hunting and related service activities",0.422809972
+3536,A,"Agriculture, Forestry And Fishing",1,"Crop and animal production, hunting and related service activities",1
+3958,A,"Agriculture, Forestry And Fishing",1,"Crop and animal production, hunting and related service activities",1
+1383,A,"Agriculture, Forestry And Fishing",2,Forestry and logging,0.009548184
+3356,B,Mining And Quarrying,6,Extraction of crude petroleum and natural gas,1
+3035,B,Mining And Quarrying,6,Extraction of crude petroleum and natural gas,0.333333333
+1283,B,Mining And Quarrying,6,Extraction of crude petroleum and natural gas,0.145158079
+1843,B,Mining And Quarrying,7,Mining of metal ores,0.208593786
+10054,B,Mining And Quarrying,8,Other mining and quarrying,0.216891219
+1456,B,Mining And Quarrying,9,Mining support service activities,0.5
+3742,C,Manufacturing,10,Manufacture of food products,1
+2165,C,Manufacturing,24,Manufacture of basic metals,0.131
+2066,C,Manufacturing,24,Manufacture of basic metals,0.19053463
+1074,C,Manufacturing,10,Manufacture of food products,1
+1735,C,Manufacturing,10,Manufacture of food products,0.031104959
+1195,C,Manufacturing,10,Manufacture of food products,0.362905898
+4037,C,Manufacturing,10,Manufacture of food products,1
+1824,C,Manufacturing,10,Manufacture of food products,1
+1064,C,Manufacturing,10,Manufacture of food products,1
+2728,C,Manufacturing,10,Manufacture of food products,1
+1249,C,Manufacturing,10,Manufacture of food products,0.02295506
+2693,C,Manufacturing,10,Manufacture of food products,1
+10702,C,Manufacturing,10,Manufacture of food products,1
+10184,C,Manufacturing,10,Manufacture of food products,1
+1211,C,Manufacturing,10,Manufacture of food products,1
+3725,C,Manufacturing,10,Manufacture of food products,1
+2199,C,Manufacturing,10,Manufacture of food products,1
+1179,C,Manufacturing,10,Manufacture of food products,1
+1710,C,Manufacturing,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.333333333
+1248,C,Manufacturing,10,Manufacture of food products,0.131396046
+1851,C,Manufacturing,10,Manufacture of food products,1
+3346,C,Manufacturing,10,Manufacture of food products,1
+10307,C,Manufacturing,10,Manufacture of food products,0.050973123
+97,C,Manufacturing,10,Manufacture of food products,1
+2998,C,Manufacturing,11,Manufacture of beverages,1
+10765,C,Manufacturing,11,Manufacture of beverages,1
+1493,C,Manufacturing,13,Manufacture of textiles,0.072451218
+1283,C,Manufacturing,14,Manufacture of wearing apparel,0.059838934
+4205,C,Manufacturing,13,Manufacture of textiles,0.164354644
+2739,C,Manufacturing,14,Manufacture of wearing apparel,1
+3337,C,Manufacturing,14,Manufacture of wearing apparel,1
+1529,C,Manufacturing,14,Manufacture of wearing apparel,1
+2465,C,Manufacturing,14,Manufacture of wearing apparel,1
+1248,C,Manufacturing,14,Manufacture of wearing apparel,0.065698023
+1589,C,Manufacturing,15,Manufacture of leather and related products of other materials,1
+4205,C,Manufacturing,15,Manufacture of leather and related products of other materials,0.662092883
+1418,C,Manufacturing,15,Manufacture of leather and related products of other materials,1
+1504,C,Manufacturing,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1
+46,C,Manufacturing,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.928682768
+910,C,Manufacturing,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.82
+2627,C,Manufacturing,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1
+1711,C,Manufacturing,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.03030303
+2165,C,Manufacturing,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.476
+2066,C,Manufacturing,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.029264609
+1252,C,Manufacturing,17,Manufacture of paper and paper products,1
+2416,C,Manufacturing,17,Manufacture of paper and paper products,0.5
+1312,C,Manufacturing,17,Manufacture of paper and paper products,0.333333333
+1478,C,Manufacturing,17,Manufacture of paper and paper products,1
+1076,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+1314,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+3217,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+3489,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+3616,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+1925,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.06484936
+1484,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+3169,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.422809972
+1327,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+2365,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+1575,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.773468365
+2416,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.5
+3232,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.25
+2744,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+3227,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.83
+4098,C,Manufacturing,17,Manufacture of paper and paper products,1
+3789,C,Manufacturing,17,Manufacture of paper and paper products,0.5
+910,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.18
+1268,G,Wholesale And Retail Trade,47,Retail trade,0.971761628
+3723,G,Wholesale And Retail Trade,47,Retail trade,1
+60,C,Manufacturing,17,Manufacture of paper and paper products,1
+1277,C,Manufacturing,17,Manufacture of paper and paper products,1
+2051,C,Manufacturing,17,Manufacture of paper and paper products,0.5
+3542,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.648333401
+1301,C,Manufacturing,18,Printing and reproduction of recorded media,1
+4213,C,Manufacturing,18,Printing and reproduction of recorded media,1
+2805,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.8059
+107,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+3086,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.000318575
+3148,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.3864
+10282,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+2090,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.969387762
+1511,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+1791,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.5
+1722,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.101442741
+4092,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.777810494
+1055,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+4225,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+1644,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+2216,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+1213,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.8194
+1276,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+102,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+3555,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+1078,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.666666667
+1248,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.234012383
+10727,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.121859929
+1493,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.144902436
+1170,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.62
+3157,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.420139896
+2215,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.571696932
+1747,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+3114,C,Manufacturing,20,Manufacture of chemicals and chemical products,0.333333333
+90,C,Manufacturing,20,Manufacture of chemicals and chemical products,1
+3540,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.355
+1328,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+3769,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+1650,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.5
+2090,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.030612238
+10451,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+3785,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+3992,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+2876,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+3005,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+2645,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.333333333
+1785,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+2209,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.920982736
+1782,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+1618,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+3343,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+3086,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.999681425
+3320,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.977514391
+3389,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+10307,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.949026877
+2977,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.265479983
+1207,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+1142,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.5
+1762,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.5
+1722,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.898557259
+1538,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+3232,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.25
+10727,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.378140071
+1332,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+2775,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+1213,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.1806
+2067,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.58
+3148,C,Manufacturing,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.6136
+1750,C,Manufacturing,22,Manufacture of rubber and plastic products,0.5
+1302,C,Manufacturing,22,Manufacture of rubber and plastic products,0.255
+3642,C,Manufacturing,22,Manufacture of rubber and plastic products,1
+3564,C,Manufacturing,22,Manufacture of rubber and plastic products,0.5
+1711,C,Manufacturing,22,Manufacture of rubber and plastic products,0.045454545
+1363,C,Manufacturing,22,Manufacture of rubber and plastic products,0.5
+1456,C,Manufacturing,27,Manufacture of electrical equipment,0.201333333
+4192,G,Wholesale And Retail Trade,47,Retail trade,1
+3345,C,Manufacturing,22,Manufacture of rubber and plastic products,0.98
+3540,C,Manufacturing,22,Manufacture of rubber and plastic products,0.645
+2901,C,Manufacturing,22,Manufacture of rubber and plastic products,1
+3789,C,Manufacturing,22,Manufacture of rubber and plastic products,0.5
+2865,C,Manufacturing,22,Manufacture of rubber and plastic products,1
+2051,C,Manufacturing,22,Manufacture of rubber and plastic products,0.5
+10234,C,Manufacturing,22,Manufacture of rubber and plastic products,0.210721868
+3518,C,Manufacturing,22,Manufacture of rubber and plastic products,0.333333333
+1777,C,Manufacturing,22,Manufacture of rubber and plastic products,1
+1796,C,Manufacturing,22,Manufacture of rubber and plastic products,1
+2121,C,Manufacturing,22,Manufacture of rubber and plastic products,0.5
+1312,C,Manufacturing,22,Manufacture of rubber and plastic products,0.666666667
+1710,C,Manufacturing,22,Manufacture of rubber and plastic products,0.333333333
+10054,C,Manufacturing,23,Manufacture of other non-metallic mineral products,0.093900273
+3916,C,Manufacturing,23,Manufacture of other non-metallic mineral products,0.957114626
+2918,C,Manufacturing,23,Manufacture of other non-metallic mineral products,1
+3606,C,Manufacturing,23,Manufacture of other non-metallic mineral products,0.95455
+3053,G,Wholesale And Retail Trade,47,Retail trade,0.48230043
+1226,G,Wholesale And Retail Trade,47,Retail trade,0.5
+1281,G,Wholesale And Retail Trade,47,Retail trade,1
+1245,C,Manufacturing,23,Manufacture of other non-metallic mineral products,1
+4130,C,Manufacturing,23,Manufacture of other non-metallic mineral products,1
+10234,C,Manufacturing,23,Manufacture of other non-metallic mineral products,0.146496815
+3601,C,Manufacturing,23,Manufacture of other non-metallic mineral products,1
+2066,C,Manufacturing,23,Manufacture of other non-metallic mineral products,0.118844205
+2165,C,Manufacturing,23,Manufacture of other non-metallic mineral products,0.131
+1843,C,Manufacturing,23,Manufacture of other non-metallic mineral products,0.145529472
+3395,H,Transportation And Storage,49,Land transport and transport via pipelines,0.42498413
+1182,C,Manufacturing,24,Manufacture of basic metals,0.11
+1843,C,Manufacturing,24,Manufacture of basic metals,0.582812428
+2084,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.0591
+10234,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.210721868
+2805,C,Manufacturing,24,Manufacture of basic metals,0.1941
+1835,C,Manufacturing,24,Manufacture of basic metals,0.374060764
+1926,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",1
+2690,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",1
+10054,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.47231729
+2605,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.265000757
+2066,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.366798829
+2165,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.262
+3342,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.905864827
+3468,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",1
+2897,C,Manufacturing,32,Other manufacturing,0.329960098
+3606,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.04545
+1205,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",1
+1246,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",1
+3518,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.333333333
+2121,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",0.5
+2605,C,Manufacturing,27,Manufacture of electrical equipment,0.734999243
+3989,C,Manufacturing,25,"Manufacture of fabricated metal products, except machinery and equipment",1
+1334,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.140809915
+3705,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.061115784
+2684,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.419695982
+2377,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",1
+10801,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.333333333
+1214,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.5
+1283,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.059838934
+10368,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.583549851
+3595,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",1
+2014,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.983361207
+2215,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.428303068
+2953,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",1
+3551,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",1
+1929,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",0.159907641
+1863,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",1
+10432,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",1
+3256,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",0.052370166
+3683,C,Manufacturing,26,"Manufacture of computer, electronic and optical products",1
+1198,C,Manufacturing,27,Manufacture of electrical equipment,1
+2174,C,Manufacturing,27,Manufacture of electrical equipment,0.955675402
+1268,C,Manufacturing,27,Manufacture of electrical equipment,0.004205881
+1929,C,Manufacturing,27,Manufacture of electrical equipment,0.165449202
+3114,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.333333333
+1289,C,Manufacturing,27,Manufacture of electrical equipment,1
+1493,C,Manufacturing,27,Manufacture of electrical equipment,0.782646346
+1843,C,Manufacturing,27,Manufacture of electrical equipment,0.063064314
+2084,C,Manufacturing,27,Manufacture of electrical equipment,0.3967
+1264,C,Manufacturing,27,Manufacture of electrical equipment,0.5
+3157,C,Manufacturing,27,Manufacture of electrical equipment,0.079860104
+1242,C,Manufacturing,27,Manufacture of electrical equipment,0.851329887
+2986,C,Manufacturing,27,Manufacture of electrical equipment,1
+2098,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.023700459
+1495,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,1
+3546,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,1
+3671,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.225551007
+1367,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.013131
+1415,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.335484407
+2897,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.670039902
+1929,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.177413938
+3169,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",39,Remediation activities and other waste management service activities,0.030876011
+2066,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.117184304
+3342,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.094135173
+1954,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,1
+1229,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.188333333
+2790,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.9151
+10727,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.378140071
+10234,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.210721868
+1242,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.148670113
+1975,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,1
+10589,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,1
+1272,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,1
+1204,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.817
+2951,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,1
+1337,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.538689606
+10233,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,1
+1776,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.999736422
+3542,C,Manufacturing,28,Manufacture of machinery and equipment n.e.c.,0.27833326
+1171,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.1061
+1869,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",1
+4051,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.999245744
+1647,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",1
+2030,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.848627661
+10054,C,Manufacturing,32,Other manufacturing,0.216891219
+1132,C,Manufacturing,32,Other manufacturing,1
+1182,C,Manufacturing,32,Other manufacturing,0.36
+1750,C,Manufacturing,32,Other manufacturing,0.5
+1195,C,Manufacturing,32,Other manufacturing,0.091396068
+1302,C,Manufacturing,32,Other manufacturing,0.745
+1190,C,Manufacturing,32,Other manufacturing,0.31
+3749,C,Manufacturing,32,Other manufacturing,0.005061711
+3598,C,Manufacturing,32,Other manufacturing,1
+1380,C,Manufacturing,32,Other manufacturing,1
+3564,C,Manufacturing,32,Other manufacturing,0.5
+1791,C,Manufacturing,32,Other manufacturing,0.5
+1711,C,Manufacturing,32,Other manufacturing,0.924242424
+1363,C,Manufacturing,32,Other manufacturing,0.5
+2684,C,Manufacturing,32,Other manufacturing,0.21138586
+1406,C,Manufacturing,32,Other manufacturing,1
+2041,C,Manufacturing,32,Other manufacturing,0.164
+2645,C,Manufacturing,32,Other manufacturing,0.333333333
+4176,C,Manufacturing,32,Other manufacturing,1
+4058,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.857870301
+2098,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.952599081
+1813,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",1
+1401,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",1
+1284,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",1
+1415,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.664515593
+2084,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.5442
+1691,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.983787957
+1274,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",1
+1929,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.005982368
+4205,C,Manufacturing,29,"Manufacture of motor vehicles, trailers and semi-trailers",0.173552473
+2098,C,Manufacturing,30,Manufacture of other transport equipment,0.023700459
+1182,C,Manufacturing,30,Manufacture of other transport equipment,0.53
+1367,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",0.012144596
+3419,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",0.4
+2030,C,Manufacturing,30,Manufacture of other transport equipment,0.151372339
+3647,C,Manufacturing,30,Manufacture of other transport equipment,1
+1929,C,Manufacturing,30,Manufacture of other transport equipment,0.331339211
+2774,C,Manufacturing,30,Manufacture of other transport equipment,0.800658345
+1171,C,Manufacturing,30,Manufacture of other transport equipment,0.861266667
+3036,C,Manufacturing,30,Manufacture of other transport equipment,0.183685446
+2246,C,Manufacturing,30,Manufacture of other transport equipment,1
+4109,C,Manufacturing,31,Manufacture of furniture,0.315350395
+1264,C,Manufacturing,31,Manufacture of furniture,0.5
+1226,C,Manufacturing,32,Other manufacturing,0.5
+3295,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",1
+1676,C,Manufacturing,32,Other manufacturing,1
+2426,C,Manufacturing,32,Other manufacturing,1
+4215,C,Manufacturing,32,Other manufacturing,0.94
+10764,C,Manufacturing,32,Other manufacturing,0.612154381
+2149,C,Manufacturing,32,Other manufacturing,1
+2601,C,Manufacturing,32,Other manufacturing,1
+1575,C,Manufacturing,32,Other manufacturing,0.226531635
+1060,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",0.265734104
+3035,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",0.333333333
+2193,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",1
+3542,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",0.073333339
+1170,C,Manufacturing,32,Other manufacturing,0.19
+1929,C,Manufacturing,32,Other manufacturing,0.159907641
+4082,C,Manufacturing,33,"Repair, maintenance and installation of machinery and equipment",1
+1275,C,Manufacturing,33,"Repair, maintenance and installation of machinery and equipment",0.116818558
+1204,C,Manufacturing,33,"Repair, maintenance and installation of machinery and equipment",0.183
+1799,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",1
+2174,C,Manufacturing,33,"Repair, maintenance and installation of machinery and equipment",0.044324598
+1973,C,Manufacturing,33,"Repair, maintenance and installation of machinery and equipment",0.333333333
+2210,C,Manufacturing,33,"Repair, maintenance and installation of machinery and equipment",1
+2774,C,Manufacturing,33,"Repair, maintenance and installation of machinery and equipment",0.099670828
+1776,C,Manufacturing,33,"Repair, maintenance and installation of machinery and equipment",0.000263578
+1337,C,Manufacturing,33,"Repair, maintenance and installation of machinery and equipment",0.461310394
+3669,D,"Electricity, Gas, Steam And Air Conditioning Supply",35,"Electricity, gas, steam and air conditioning supply",0.425389002
+3535,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",37,Sewerage,0.230110159
+3850,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",37,Sewerage,0.065
+10204,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",37,Sewerage,0.288861689
+1318,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",38,"Waste collection, recovery and disposal activities",1
+1798,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",38,"Waste collection, recovery and disposal activities",0.13
+1367,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",38,"Waste collection, recovery and disposal activities",0.974724405
+1609,G,Wholesale And Retail Trade,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,1
+1744,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",38,"Waste collection, recovery and disposal activities",0.97465
+10234,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",38,"Waste collection, recovery and disposal activities",0.11066879
+1366,F,Construction,41,Construction of residential and non-residential buildings,1
+3850,F,Construction,41,Construction of residential and non-residential buildings,0.165
+4075,F,Construction,41,Construction of residential and non-residential buildings,0.107647086
+46,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",38,"Waste collection, recovery and disposal activities",0.049273762
+1457,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",38,"Waste collection, recovery and disposal activities",0.883
+3345,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",38,"Waste collection, recovery and disposal activities",0.02
+1457,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",39,Remediation activities and other waste management service activities,0.117
+1203,F,Construction,41,Construction of residential and non-residential buildings,1
+3535,F,Construction,42,Civil engineering,0.769889841
+2041,F,Construction,42,Civil engineering,0.164
+2380,F,Construction,42,Civil engineering,0.168258834
+2132,F,Construction,42,Civil engineering,0.870517928
+4155,F,Construction,42,Civil engineering,0.052075376
+10204,F,Construction,42,Civil engineering,0.5
+3850,F,Construction,42,Civil engineering,0.77
+3498,F,Construction,42,Civil engineering,1
+4146,F,Construction,42,Civil engineering,0.8
+1835,F,Construction,42,Civil engineering,0.076118915
+2708,F,Construction,42,Civil engineering,0.5
+3429,F,Construction,43,Specialised construction activities,1
+3256,F,Construction,43,Specialised construction activities,0.947629834
+4155,F,Construction,43,Specialised construction activities,0.318309142
+4146,F,Construction,43,Specialised construction activities,0.2
+10699,F,Construction,43,Specialised construction activities,0.255
+1958,F,Construction,43,Specialised construction activities,0.123502229
+1060,F,Construction,43,Specialised construction activities,0.734265896
+1229,F,Construction,43,Specialised construction activities,0.811666667
+1710,F,Construction,43,Specialised construction activities,0.333333333
+1835,F,Construction,43,Specialised construction activities,0.54982032
+2581,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+1181,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+1535,G,Wholesale And Retail Trade,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,0.373
+3311,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.5
+2279,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.081426909
+4051,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.000754256
+3232,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.5
+3053,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.51769957
+1249,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.48852247
+3419,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.382113821
+1476,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+3157,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.5
+1170,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.19
+1078,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.333333333
+1227,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+2126,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.065718391
+2827,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.364448898
+1491,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+10100,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.215008494
+3694,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.189648929
+3985,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.058928571
+2339,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.110049333
+3042,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+1672,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+1224,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.29468599
+1432,G,Wholesale And Retail Trade,47,Retail trade,1
+2790,G,Wholesale And Retail Trade,47,Retail trade,0.0849
+1283,G,Wholesale And Retail Trade,47,Retail trade,0.735164052
+1249,G,Wholesale And Retail Trade,47,Retail trade,0.48852247
+1267,G,Wholesale And Retail Trade,47,Retail trade,0.333333333
+4134,G,Wholesale And Retail Trade,47,Retail trade,1
+4109,G,Wholesale And Retail Trade,47,Retail trade,0.684649605
+1157,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+2066,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.148108814
+3309,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+3410,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",1
+10615,G,Wholesale And Retail Trade,46,"Wholesale trade, except of motor vehicles and motorcycles",0.133294942
+4102,G,Wholesale And Retail Trade,47,Retail trade,1
+3351,G,Wholesale And Retail Trade,47,Retail trade,1
+1483,G,Wholesale And Retail Trade,47,Retail trade,1
+1303,G,Wholesale And Retail Trade,47,Retail trade,0.182049676
+1263,G,Wholesale And Retail Trade,47,Retail trade,0.949929909
+2349,G,Wholesale And Retail Trade,47,Retail trade,0.5
+4090,G,Wholesale And Retail Trade,47,Retail trade,0.195180176
+4131,G,Wholesale And Retail Trade,47,Retail trade,1
+1807,G,Wholesale And Retail Trade,47,Retail trade,0.098819757
+2289,G,Wholesale And Retail Trade,47,Retail trade,0.212894286
+3311,G,Wholesale And Retail Trade,47,Retail trade,0.5
+1557,G,Wholesale And Retail Trade,47,Retail trade,0.05
+2633,G,Wholesale And Retail Trade,47,Retail trade,0.843080826
+10727,G,Wholesale And Retail Trade,47,Retail trade,0.121859929
+10695,G,Wholesale And Retail Trade,47,Retail trade,1
+3858,G,Wholesale And Retail Trade,47,Retail trade,1
+1535,G,Wholesale And Retail Trade,47,Retail trade,0.373
+1248,G,Wholesale And Retail Trade,47,Retail trade,0.299710405
+10615,G,Wholesale And Retail Trade,47,Retail trade,0.057817449
+3169,H,Transportation And Storage,49,Land transport and transport via pipelines,0.061752022
+3908,H,Transportation And Storage,49,Land transport and transport via pipelines,0.394880403
+1557,H,Transportation And Storage,49,Land transport and transport via pipelines,0.316666667
+3035,H,Transportation And Storage,49,Land transport and transport via pipelines,0.333333333
+3419,H,Transportation And Storage,49,Land transport and transport via pipelines,0.217886179
+2807,H,Transportation And Storage,50,Water transport,0.824919688
+4075,H,Transportation And Storage,50,Water transport,0.725142966
+58,H,Transportation And Storage,50,Water transport,0.718942559
+3169,H,Transportation And Storage,50,Water transport,0.030876011
+3908,H,Transportation And Storage,50,Water transport,0.298363407
+4061,H,Transportation And Storage,51,Air transport,0.265786215
+2545,H,Transportation And Storage,51,Air transport,1
+2616,I,Accommodation And Food Service Activities,56,Food and beverage service activities,0.194410265
+1375,I,Accommodation And Food Service Activities,56,Food and beverage service activities,1
+3908,H,Transportation And Storage,51,Air transport,0.298363407
+2209,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",0.079017264
+2226,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",1
+3169,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",0.030876011
+3908,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",0.008392782
+4049,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",0.220137404
+46,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",0.02204347
+10760,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",0.351069886
+98,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",1
+1349,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",1
+1588,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",1
+1239,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",1
+4075,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",0.074058385
+3976,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",1
+10615,H,Transportation And Storage,52,"Warehousing, storage and support activities for transportation",0.808887609
+10153,H,Transportation And Storage,53,Postal and courier activities,1
+3395,H,Transportation And Storage,53,Postal and courier activities,0.163675867
+10773,H,Transportation And Storage,53,Postal and courier activities,0.5
+1735,I,Accommodation And Food Service Activities,55,Accommodation,0.809806947
+4061,I,Accommodation And Food Service Activities,55,Accommodation,0.265786215
+3592,I,Accommodation And Food Service Activities,55,Accommodation,0.038004895
+3618,I,Accommodation And Food Service Activities,55,Accommodation,1
+3634,I,Accommodation And Food Service Activities,55,Accommodation,0.853722556
+1748,I,Accommodation And Food Service Activities,55,Accommodation,1
+1973,I,Accommodation And Food Service Activities,55,Accommodation,0.333333333
+2889,I,Accommodation And Food Service Activities,55,Accommodation,1
+2616,I,Accommodation And Food Service Activities,55,Accommodation,0.805589735
+3387,I,Accommodation And Food Service Activities,55,Accommodation,1
+58,I,Accommodation And Food Service Activities,55,Accommodation,0.281057441
+3435,I,Accommodation And Food Service Activities,55,Accommodation,1
+1267,I,Accommodation And Food Service Activities,56,Food and beverage service activities,0.333333333
+1263,I,Accommodation And Food Service Activities,56,Food and beverage service activities,0.050070091
+1268,I,Accommodation And Food Service Activities,56,Food and beverage service activities,0.018518374
+1768,I,Accommodation And Food Service Activities,56,Food and beverage service activities,1
+37,I,Accommodation And Food Service Activities,56,Food and beverage service activities,1
+3591,J,Information and communication,58,Publishing activities,1
+1852,J,Information and communication,58,Publishing activities,0.5
+3576,J,Information and communication,58,Publishing activities,0.333333333
+3671,J,Information and communication,58,Publishing activities,0.078319481
+2578,J,Information and communication,58,Publishing activities,0.325458436
+1757,J,Information and communication,58,Publishing activities,0.429856544
+3665,J,Information and communication,58,Publishing activities,1
+3918,J,Information and communication,58,Publishing activities,0.862102273
+10704,J,Information and communication,58,Publishing activities,0.5
+4030,J,Information and communication,58,Publishing activities,1
+3377,J,Information and communication,58,Publishing activities,1
+3289,J,Information and communication,58,Publishing activities,0.528301887
+3539,J,Information and communication,58,Publishing activities,1
+2037,J,Information and communication,58,Publishing activities,1
+1141,J,Information and communication,58,Publishing activities,0.666666667
+3753,J,Information and communication,58,Publishing activities,0.102717763
+3308,J,Information and communication,58,Publishing activities,0.911359215
+10100,J,Information and communication,58,Publishing activities,0.5
+10299,J,Information and communication,58,Publishing activities,1
+3395,J,Information and communication,58,Publishing activities,0.411340003
+3236,J,Information and communication,58,Publishing activities,1
+10368,J,Information and communication,58,Publishing activities,0.416450149
+1925,J,Information and communication,58,Publishing activities,0.870301281
+3689,J,Information and communication,58,Publishing activities,0.262248996
+2014,J,Information and communication,58,Publishing activities,0.012309052
+3673,J,Information and communication,58,Publishing activities,0.73889414
+1958,J,Information and communication,58,Publishing activities,0.876497771
+2258,J,Information and communication,58,Publishing activities,1
+3937,J,Information and communication,58,Publishing activities,1
+10600,J,Information and communication,58,Publishing activities,1
+1140,J,Information and communication,58,Publishing activities,1
+10760,J,Information and communication,58,Publishing activities,0.366318205
+10773,J,Information and communication,58,Publishing activities,0.5
+2827,J,Information and communication,58,Publishing activities,0.364448898
+3102,J,Information and communication,58,Publishing activities,0.5
+3179,J,Information and communication,58,Publishing activities,0.033478894
+1262,J,Information and communication,58,Publishing activities,1
+3438,J,Information and communication,58,Publishing activities,0.045821049
+87,J,Information and communication,58,Publishing activities,1
+2957,J,Information and communication,58,Publishing activities,0.821983599
+3381,J,Information and communication,58,Publishing activities,1
+2026,J,Information and communication,58,Publishing activities,1
+2862,J,Information and communication,58,Publishing activities,0.311598558
+1939,J,Information and communication,58,Publishing activities,1
+10699,J,Information and communication,58,Publishing activities,0.18
+3942,J,Information and communication,58,Publishing activities,0.9339254
+2132,J,Information and communication,58,Publishing activities,0.129482072
+2589,J,Information and communication,58,Publishing activities,1
+3312,J,Information and communication,59,"Motion picture, video and television programme production, sound recording and music publishing activities",1
+66,J,Information and communication,59,"Motion picture, video and television programme production, sound recording and music publishing activities",0.696919234
+2169,J,Information and communication,59,"Motion picture, video and television programme production, sound recording and music publishing activities",1
+1334,J,Information and communication,60,"Programming, broadcasting, news agency and other content distribution activities",0.140809915
+1467,J,Information and communication,60,"Programming, broadcasting, news agency and other content distribution activities",0.45021645
+3990,J,Information and communication,60,"Programming, broadcasting, news agency and other content distribution activities",0.065973103
+4090,J,Information and communication,60,"Programming, broadcasting, news agency and other content distribution activities",0.257502042
+1063,J,Information and communication,61,Telecommunications,1
+1334,J,Information and communication,61,Telecommunications,0.71838017
+3705,J,Information and communication,61,Telecommunications,0.938884216
+1303,J,Information and communication,61,Telecommunications,0.817950324
+3985,J,Information and communication,61,Telecommunications,0.941071429
+3669,J,Information and communication,61,Telecommunications,0.574610998
+2349,J,Information and communication,61,Telecommunications,0.5
+2041,J,Information and communication,61,Telecommunications,0.672
+106,J,Information and communication,61,Telecommunications,0.5
+1214,J,Information and communication,61,Telecommunications,0.5
+2708,J,Information and communication,61,Telecommunications,0.5
+1331,J,Information and communication,61,Telecommunications,1
+3694,J,Information and communication,61,Telecommunications,0.472499286
+3749,J,Information and communication,61,Telecommunications,0.994938289
+4090,J,Information and communication,61,Telecommunications,0.515004085
+4021,J,Information and communication,61,Telecommunications,1
+3990,J,Information and communication,61,Telecommunications,0.934026897
+972,J,Information and communication,61,Telecommunications,0.727491667
+1658,J,Information and communication,61,Telecommunications,1
+999,J,Information and communication,61,Telecommunications,1
+1206,J,Information and communication,61,Telecommunications,1
+29,J,Information and communication,61,Telecommunications,0.75
+1463,J,Information and communication,61,Telecommunications,0.010433061
+1807,J,Information and communication,61,Telecommunications,0.901180243
+2435,J,Information and communication,61,Telecommunications,1
+2289,J,Information and communication,61,Telecommunications,0.787105714
+972,J,Information and communication,63,Information service activities,0.272508333
+1248,J,Information and communication,63,Information service activities,0.134591572
+1456,J,Information and communication,63,Information service activities,0.298666667
+3694,J,Information and communication,63,Information service activities,0.151448929
+2862,J,Information and communication,63,Information service activities,0.208533654
+3355,J,Information and communication,63,Information service activities,0.944625407
+29,J,Information and communication,63,Information service activities,0.25
+4049,J,Information and communication,63,Information service activities,0.559725193
+1655,J,Information and communication,63,Information service activities,0.562946718
+2339,J,Information and communication,61,Telecommunications,0.889950667
+2756,J,Information and communication,61,Telecommunications,1
+1443,K,Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",0.772508958
+10045,J,Information and communication,61,Telecommunications,1
+1400,J,Information and communication,62,"Computer programming, consultancy and related activities",1
+1852,J,Information and communication,62,"Computer programming, consultancy and related activities",0.5
+1378,J,Information and communication,62,"Computer programming, consultancy and related activities",1
+3576,J,Information and communication,62,"Computer programming, consultancy and related activities",0.333333333
+1665,J,Information and communication,62,"Computer programming, consultancy and related activities",0.803451582
+2578,J,Information and communication,62,"Computer programming, consultancy and related activities",0.325458436
+1757,J,Information and communication,62,"Computer programming, consultancy and related activities",0.429856544
+1162,J,Information and communication,62,"Computer programming, consultancy and related activities",1
+3942,J,Information and communication,62,"Computer programming, consultancy and related activities",0.0660746
+10801,J,Information and communication,62,"Computer programming, consultancy and related activities",0.333333333
+1160,J,Information and communication,62,"Computer programming, consultancy and related activities",0.114895309
+2285,J,Information and communication,62,"Computer programming, consultancy and related activities",1
+2509,J,Information and communication,62,"Computer programming, consultancy and related activities",0.316666667
+2709,J,Information and communication,62,"Computer programming, consultancy and related activities",1
+1443,J,Information and communication,62,"Computer programming, consultancy and related activities",0.227491042
+3694,J,Information and communication,62,"Computer programming, consultancy and related activities",0.186402857
+3313,J,Information and communication,62,"Computer programming, consultancy and related activities",0.895069907
+1645,J,Information and communication,62,"Computer programming, consultancy and related activities",1
+1655,J,Information and communication,62,"Computer programming, consultancy and related activities",0.437053282
+10100,J,Information and communication,62,"Computer programming, consultancy and related activities",0.284991506
+1691,J,Information and communication,62,"Computer programming, consultancy and related activities",0.016212043
+2957,J,Information and communication,62,"Computer programming, consultancy and related activities",0.178016401
+3689,J,Information and communication,62,"Computer programming, consultancy and related activities",0.737751004
+2785,J,Information and communication,62,"Computer programming, consultancy and related activities",1
+3954,J,Information and communication,62,"Computer programming, consultancy and related activities",0.41165
+3355,J,Information and communication,62,"Computer programming, consultancy and related activities",0.055374593
+1860,J,Information and communication,63,Information service activities,0.5
+10704,J,Information and communication,63,Information service activities,0.5
+106,J,Information and communication,63,Information service activities,0.5
+1794,J,Information and communication,63,Information service activities,1
+3490,J,Information and communication,63,Information service activities,1
+10372,J,Information and communication,63,Information service activities,1
+3308,J,Information and communication,63,Information service activities,0.088640785
+1866,K,Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",0.109542888
+2677,K,Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",1
+1437,K,Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",0.569989422
+2324,K,Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",1
+4058,K,Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",0.041785233
+2306,K,Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",1
+3800,K,Financial and insurance activities,64,"Financial service activities, except insurance and pension funding",1
+4233,K,Financial and insurance activities,65,"Insurance, reinsurance and pension funding, except compulsory social security",1
+4188,K,Financial and insurance activities,65,"Insurance, reinsurance and pension funding, except compulsory social security",1
+3668,K,Financial and insurance activities,65,"Insurance, reinsurance and pension funding, except compulsory social security",0.09
+2925,K,Financial and insurance activities,65,"Insurance, reinsurance and pension funding, except compulsory social security",0.960168573
+4215,K,Financial and insurance activities,65,"Insurance, reinsurance and pension funding, except compulsory social security",0.06
+1275,K,Financial and insurance activities,65,"Insurance, reinsurance and pension funding, except compulsory social security",0.116818558
+2265,K,Financial and insurance activities,65,"Insurance, reinsurance and pension funding, except compulsory social security",0.856643357
+2292,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,1
+2254,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,1
+1535,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,0.049
+2703,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,1
+1079,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,1
+68,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,1
+3438,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,0.954178951
+3673,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,0.26110586
+2862,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,0.479867788
+1091,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,1
+1320,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,0.71768008
+2265,K,Financial and insurance activities,66,Activities auxiliary to financial services and insurance activities,0.143356643
+1383,L,Financial And Insurance Activities,68,Real estate activities,0.990451816
+3991,L,Financial And Insurance Activities,68,Real estate activities,1
+1320,L,Financial And Insurance Activities,68,Real estate activities,0.14115996
+4049,L,Financial And Insurance Activities,68,Real estate activities,0.220137404
+3981,L,Financial And Insurance Activities,68,Real estate activities,1
+3160,L,Financial And Insurance Activities,68,Real estate activities,0.03
+4075,L,Financial And Insurance Activities,68,Real estate activities,0.093151562
+10061,L,Financial And Insurance Activities,68,Real estate activities,1
+1866,L,Financial And Insurance Activities,68,Real estate activities,0.890457112
+2929,M,"Professional, scientific and technical activities",69,Legal and accounting activities,1
+2467,M,"Professional, scientific and technical activities",69,Legal and accounting activities,0.224082421
+10477,M,"Professional, scientific and technical activities",69,Legal and accounting activities,0.667884879
+1735,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.096878177
+3573,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.813472823
+3576,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.333333333
+1665,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.196548418
+1368,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.86442902
+2578,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.349083129
+1757,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.140286913
+2684,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.078766149
+2467,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.775917579
+1860,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.5
+3918,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.137897727
+2645,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.333333333
+10699,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.015
+2977,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.234520017
+1296,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,1
+1358,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,1
+2827,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.271102203
+2509,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.341666667
+1248,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.134591572
+10477,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,0.332115121
+1637,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,1
+2944,M,"Professional, scientific and technical activities",70,Activities of head offices and management consultancy,1
+3310,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,1
+4155,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,0.266233766
+10204,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,0.211138311
+3036,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,0.183685446
+1798,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,0.87
+3632,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,1
+10699,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,0.55
+2380,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,0.168258834
+10700,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,1
+4198,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,1
+3936,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,1
+10801,M,"Professional, scientific and technical activities",71,Architectural and engineering activities; technical testing and analysis,0.333333333
+1238,N,"Professional, Scientific And Technical Activities",80,Investigation and security activities,0.904671676
+2977,M,"Professional, scientific and technical activities",72,Scientific research and development,0.265479983
+63,M,"Professional, scientific and technical activities",72,Scientific research and development,0.5
+1925,M,"Professional, scientific and technical activities",72,Scientific research and development,0.06484936
+1142,M,"Professional, scientific and technical activities",72,Scientific research and development,0.5
+3916,M,"Professional, scientific and technical activities",72,Scientific research and development,0.042885374
+2067,M,"Professional, scientific and technical activities",72,Scientific research and development,0.42
+10764,M,"Professional, scientific and technical activities",72,Scientific research and development,0.387845619
+1171,M,"Professional, scientific and technical activities",72,Scientific research and development,0.032633333
+1077,M,"Professional, scientific and technical activities",72,Scientific research and development,0.5
+2977,M,"Professional, scientific and technical activities",73,"Activities of advertising, market research and public relations",0.234520017
+1535,M,"Professional, scientific and technical activities",73,"Activities of advertising, market research and public relations",0.205
+4090,M,"Professional, scientific and technical activities",73,"Activities of advertising, market research and public relations",0.032313697
+1160,M,"Professional, scientific and technical activities",73,"Activities of advertising, market research and public relations",0.885104691
+2509,M,"Professional, scientific and technical activities",73,"Activities of advertising, market research and public relations",0.341666667
+3036,M,"Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",0.632629108
+1077,M,"Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",0.5
+3227,M,"Professional, scientific and technical activities",74,"Other professional, scientific and technical activities",0.17
+1650,M,"Professional, scientific and technical activities",75,Veterinary activities,0.5
+2633,M,"Professional, scientific and technical activities",75,Veterinary activities,0.156919174
+1762,M,"Professional, scientific and technical activities",75,Veterinary activities,0.5
+1208,M,"Professional, scientific and technical activities",75,Veterinary activities,1
+1224,N,"Professional, Scientific And Technical Activities",77,Rental and leasing activities,0.70531401
+1343,N,"Professional, Scientific And Technical Activities",77,Rental and leasing activities,1
+1275,N,"Professional, Scientific And Technical Activities",77,Rental and leasing activities,0.766362883
+1557,N,"Professional, Scientific And Technical Activities",77,Rental and leasing activities,0.633333333
+2066,N,"Professional, Scientific And Technical Activities",77,Rental and leasing activities,0.029264609
+2279,N,"Professional, Scientific And Technical Activities",77,Rental and leasing activities,0.918573091
+3114,N,"Professional, Scientific And Technical Activities",77,Rental and leasing activities,0.333333333
+1190,N,"Professional, Scientific And Technical Activities",77,Rental and leasing activities,0.69
+3320,N,"Professional, Scientific And Technical Activities",77,Rental and leasing activities,0.022485609
+1615,N,"Professional, Scientific And Technical Activities",80,Investigation and security activities,0.648792614
+1225,N,"Professional, Scientific And Technical Activities",78,Employment activities,1
+2575,N,"Professional, Scientific And Technical Activities",78,Employment activities,1
+10314,N,"Professional, Scientific And Technical Activities",78,Employment activities,1
+1195,N,"Professional, Scientific And Technical Activities",78,Employment activities,0.091396068
+4061,N,"Professional, Scientific And Technical Activities",78,Employment activities,0.202641354
+3954,N,"Professional, Scientific And Technical Activities",78,Employment activities,0.523
+1238,N,"Professional, Scientific And Technical Activities",78,Employment activities,0.047664162
+3115,N,"Professional, Scientific And Technical Activities",78,Employment activities,1
+3179,N,"Professional, Scientific And Technical Activities",79,"Travel agency, tour operator and other reservation service and related activities",0.966521106
+4061,N,"Professional, Scientific And Technical Activities",79,"Travel agency, tour operator and other reservation service and related activities",0.265786215
+2807,N,"Professional, Scientific And Technical Activities",79,"Travel agency, tour operator and other reservation service and related activities",0.175080312
+1243,N,"Professional, Scientific And Technical Activities",80,Investigation and security activities,1
+1195,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,0.091396068
+1238,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,0.047664162
+2143,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,1
+1267,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,0.333333333
+4155,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,0.363381716
+3668,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,0.91
+3048,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,1
+10286,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,1
+10234,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,0.11066879
+1744,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,0.02535
+2380,N,"Professional, Scientific And Technical Activities",81,Services to buildings and landscape activities,0.663482333
+1368,N,"Professional, Scientific And Technical Activities",82,"Office administrative, office support and other business support activities",0.13557098
+3289,N,"Professional, Scientific And Technical Activities",82,"Office administrative, office support and other business support activities",0.471698113
+3313,N,"Professional, Scientific And Technical Activities",82,"Office administrative, office support and other business support activities",0.104930093
+3753,N,"Professional, Scientific And Technical Activities",82,"Office administrative, office support and other business support activities",0.897282237
+1564,N,"Professional, Scientific And Technical Activities",82,"Office administrative, office support and other business support activities",1
+1437,N,"Professional, Scientific And Technical Activities",82,"Office administrative, office support and other business support activities",0.430010578
+1320,N,"Professional, Scientific And Technical Activities",82,"Office administrative, office support and other business support activities",0.14115996
+3518,N,"Professional, Scientific And Technical Activities",82,"Office administrative, office support and other business support activities",0.333333333
+3954,N,"Professional, Scientific And Technical Activities",82,"Office administrative, office support and other business support activities",0.06535
+3003,O,Administrative And Support Service Activities,84,Public administration and defence; compulsory social security,1
+10213,O,Administrative And Support Service Activities,84,Public administration and defence; compulsory social security,1
+2774,O,Administrative And Support Service Activities,84,Public administration and defence; compulsory social security,0.099670828
+1615,O,Administrative And Support Service Activities,84,Public administration and defence; compulsory social security,0.351207386
+1129,P,Public Administration And Defence; Compulsory Social Security,85,Education,1
+2517,P,Public Administration And Defence; Compulsory Social Security,85,Education,0.5
+1295,P,Public Administration And Defence; Compulsory Social Security,85,Education,1
+2748,P,Public Administration And Defence; Compulsory Social Security,85,Education,1
+1784,P,Public Administration And Defence; Compulsory Social Security,85,Education,1
+1054,P,Public Administration And Defence; Compulsory Social Security,85,Education,1
+1141,P,Public Administration And Defence; Compulsory Social Security,85,Education,0.333333333
+2269,P,Public Administration And Defence; Compulsory Social Security,85,Education,1
+3102,P,Public Administration And Defence; Compulsory Social Security,85,Education,0.5
+2925,Q,Education,86,Human health activities,0.039831427
+2684,Q,Education,86,Human health activities,0.290152009
+1696,Q,Education,86,Human health activities,1
+1594,Q,Education,86,Human health activities,1
+2266,Q,Education,86,Human health activities,1
+1490,Q,Education,86,Human health activities,1
+1766,Q,Education,86,Human health activities,1
+3160,Q,Education,86,Human health activities,0.04
+10760,Q,Education,86,Human health activities,0.148930114
+63,Q,Education,86,Human health activities,0.5
+2126,Q,Education,86,Human health activities,0.934281609
+3350,Q,Education,87,Residential care activities,0.91
+3160,Q,Education,87,Residential care activities,0.87
+3350,Q,Education,88,Social work activities without accommodation,0.09
+10760,Q,Education,88,Social work activities without accommodation,0.133681795
+3160,Q,Education,88,Social work activities without accommodation,0.06
+2517,Q,Education,88,Social work activities without accommodation,0.5
+3634,R,Human Health And Social Work Activities,90,"Creative, arts and entertainment activities",0.146277444
+1316,R,Human Health And Social Work Activities,92,Gambling and betting activities,1
+1463,R,Human Health And Social Work Activities,92,Gambling and betting activities,0.989566939
+1419,R,Human Health And Social Work Activities,92,Gambling and betting activities,1
+1425,R,Human Health And Social Work Activities,92,Gambling and betting activities,1
+1639,R,Human Health And Social Work Activities,92,Gambling and betting activities,1
+3671,R,Human Health And Social Work Activities,92,Gambling and betting activities,0.696129512
+1553,R,Human Health And Social Work Activities,92,Gambling and betting activities,1
+1827,R,Human Health And Social Work Activities,92,Gambling and betting activities,1
+1494,R,Human Health And Social Work Activities,92,Gambling and betting activities,1
+1596,R,Human Health And Social Work Activities,92,Gambling and betting activities,1
+3592,R,Human Health And Social Work Activities,92,Gambling and betting activities,0.898116477
+66,R,Human Health And Social Work Activities,92,Gambling and betting activities,0.303080766
+1131,R,Human Health And Social Work Activities,92,Gambling and betting activities,1
+3573,R,Human Health And Social Work Activities,93,Sports activities and amusement and recreation activities,0.186527177
+1467,R,Human Health And Social Work Activities,93,Sports activities and amusement and recreation activities,0.54978355
+2301,R,Human Health And Social Work Activities,93,Sports activities and amusement and recreation activities,1
+4058,R,Human Health And Social Work Activities,93,Sports activities and amusement and recreation activities,0.100344466
+1973,R,Human Health And Social Work Activities,93,Sports activities and amusement and recreation activities,0.333333333
+2920,R,Human Health And Social Work Activities,93,Sports activities and amusement and recreation activities,1
+3173,R,Human Health And Social Work Activities,93,Sports activities and amusement and recreation activities,1
+10039,R,Human Health And Social Work Activities,93,Sports activities and amusement and recreation activities,1
+2014,S,"Arts, Sports And Recreation",95,"Repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",0.004329741
+1268,S,"Arts, Sports And Recreation",96,Other personal service activities,0.005514117
+1735,T,Other Service Activities,97,Activities of households as employers of domestic personnel,0.031104959

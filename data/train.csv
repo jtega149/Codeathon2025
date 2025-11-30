@@ -1,0 +1,430 @@
+entity_id,region_code,region_name,country_code,country_name,revenue,overall_score,environmental_score,social_score,governance_score,target_scope_1,target_scope_2
+1782,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,352806000,2.988,3.9,1.75,2.833,60,0
+3918,NAM,Northern America,US,United States of America,1513700000,2.77,3.004,2.942,2.143,265,0
+10299,WEU,Western Europe,FR,France,1.56E+09,2.501,2.979,2.56,1.571,1136,0
+2324,NAM,Northern America,US,United States of America,12385107000,3.207,3.776,3,2.429,1468,0
+1206,WEU,Western Europe,ES,Spain,2.98E+09,1.998,2.138,1.785,2,1802,0
+1418,NAM,Northern America,US,United States of America,3588600000,2.77,3.083,3,1.929,2659,0
+4021,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1.47E+09,2.466,2.45,2.5,2.452,2913,0
+1494,NAM,Northern America,US,United States of America,1.40E+10,3.383,3.022,4.9,2.214,4319,0
+3173,WEU,Western Europe,ES,Spain,857984000,3.397,3.815,3,3.119,10494,0
+1331,NAM,Northern America,US,United States of America,2.36E+09,2.499,2.65,2.45,2.286,10725,0
+10153,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1686002000,3.5,4.65,2.25,2.929,57313,0
+4037,WEU,Western Europe,IT,Italy,1276800000,3.028,3.569,3.013,2.071,59534,0
+1735,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,756321000,3.073,3.807,2.112,2.905,71077,0
+2862,NAM,Northern America,US,United States of America,203366562,3.039,3.258,2.9,2.81,6.11,1.76
+1618,WEU,Western Europe,DE,Germany,1.54E+09,2.843,3.9,1.9,2.071,112,3
+2306,WEU,Western Europe,IE,Ireland,2.47E+09,3.79,4.9,3,2.738,184,43
+1645,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,535412000,2.992,3.1,3,2.786,21,44
+2149,WEU,Western Europe,FR,France,580900000,2.915,3.65,2,2.69,1290.68,76.4
+4176,WEU,Western Europe,ES,Spain,9.36E+08,2.925,3.5,2.1,2.881,3342.11,88.81
+1227,WEU,Western Europe,JE,Jersey,6.61E+08,3.374,4,2.012,3.881,637,91
+1665,WEU,Western Europe,SE,Sweden,1.04E+09,2.743,2.948,3.053,2,354,93
+3800,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,4.69E+08,3.264,3.944,3,2.357,26,108
+1214,WEU,Western Europe,LU,Luxembourg,1116728000,2.449,2.465,2.143,2.786,747,111
+2279,WEU,Western Europe,IE,Ireland,7996644000,3.147,4.238,3,1.357,3478,118
+2929,NAM,Northern America,US,United States of America,1.12E+09,2.984,3.1,2.935,2.833,18.88,126
+1140,WEU,Western Europe,NL,Netherlands,4.17E+08,2.776,2.793,3,2.476,78,126
+3632,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1.38E+09,2.557,2.6,2.5,2.548,1037,126
+3954,NAM,Northern America,US,United States of America,2983781000,2.573,3.1,2.678,1.5,120,130
+106,WEU,Western Europe,DE,Germany,426258000,2.162,1.95,2.375,2.286,2223,131
+10600,NAM,Northern America,US,United States of America,775586000,2.865,3.25,3.008,2,131.2,145.8
+1794,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,458900000,3.15,3.105,2.966,3.452,89.58,154.55
+1807,WEU,Western Europe,NL,Netherlands,2272329000,2.347,2.598,2,2.31,2071,160
+1060,WEU,Western Europe,FR,France,563108000,2.769,2.798,2.434,3.119,16227,163
+10477,NAM,Northern America,US,United States of America,2.73E+09,3.016,2.988,2.95,3.143,424,166
+1268,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,5121400000,3.851,4.941,3.024,2.881,1051,180
+3539,WEU,Western Europe,DE,Germany,1847100000,2.4,2.994,1.9,1.929,2009,187
+1383,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1015900000,3.062,3.492,2.744,2.667,5640,199
+1588,WEU,Western Europe,ES,Spain,211200000,3.524,3.9,3,3.476,734,202
+999,WEU,Western Europe,NL,Netherlands,4.11E+09,1.987,2.12,2.014,1.714,3684,204
+3535,WEU,Western Europe,BE,Belgium,817500000,3.091,3.421,2.572,3.119,40732,215
+1467,WEU,Western Europe,ES,Spain,4.62E+08,3.359,3.594,3.086,3.262,49,226
+1320,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,387691000,3.237,3.893,3.027,2.31,290.5,231.3
+3850,WEU,Western Europe,SE,Sweden,1.64E+10,2.665,3.102,2.205,2.429,20943,257
+1249,WEU,Western Europe,LU,Luxembourg,515654000,3.439,3.734,3.461,2.881,1720,273
+3992,WEU,Western Europe,IT,Italy,266100000,2.907,4,1.906,2.143,679.44,306.87
+2285,WEU,Western Europe,FR,France,2.50E+09,2.949,3.058,2.92,2.786,6231,317
+3312,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,995153000,2.937,3.15,3,2.476,172,355
+1443,WEU,Western Europe,IT,Italy,435361000,2.861,3,2.953,2.5,666,369
+4233,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1.04E+09,2.477,2.442,2.889,2.048,210,371
+10204,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,610600000,2.441,3.017,2.042,1.881,22931.48,380.51
+3673,WEU,Western Europe,CH,Switzerland,422300000,2.956,3.218,3,2.429,883,400
+1242,WEU,Western Europe,IT,Italy,440714000,3.042,3.53,3,2.214,1962,400
+2365,WEU,Western Europe,FR,France,8.72E+08,3.339,4,2.769,2.833,1144,421
+2944,NAM,Northern America,US,United States of America,5.83E+08,2.851,3,2.9,2.524,92,432
+3668,WEU,Western Europe,SE,Sweden,1.69E+10,3.031,3.805,2.907,1.786,54334,443
+87,WEU,Western Europe,IT,Italy,568178000,2.726,3,2.677,2.286,2440,447.22
+4061,NAM,Northern America,US,United States of America,2.42E+09,3.274,4.084,3,2.143,425,448
+1295,WEU,Western Europe,IT,Italy,419900000,2.476,3.102,1.754,2.214,405,462
+2677,NAM,Northern America,CA,Canada,843323000,2.912,3.2,3,2.286,8,482
+10372,WEU,Western Europe,DE,Germany,571300000,3.264,3.469,3,3.214,1210,529
+3429,WEU,Western Europe,SE,Sweden,1.48E+10,2.479,2.62,2.607,2.071,10617,558
+2951,NAM,Northern America,US,United States of America,1576551000,1.803,1,3,1.81,375,574
+3546,WEU,Western Europe,NL,Netherlands,669369000,1.939,1,3,2.357,735,581
+1757,NAM,Northern America,US,United States of America,4183800000,2.902,3.086,2.9,2.571,254,584
+10589,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,20215000,3.446,3.876,2.915,3.31,570.2,598.2
+4051,NAM,Northern America,US,United States of America,1583900000,3.568,4.897,3,1.857,8574.81,599.49
+1784,WEU,Western Europe,BE,Belgium,506778000,2.651,3.213,1.833,2.619,484,610
+3048,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2955207000,3.13,3.25,2.8,3.31,17835,628
+3179,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,6.93E+08,3.134,3.633,2.992,2.405,81,636
+10233,WEU,Western Europe,IT,Italy,642500000,3.329,3.75,3.27,2.643,1344,690
+2193,NAM,Northern America,US,United States of America,3.01E+09,3.526,4.739,3,1.976,14499,780
+3289,WEU,Western Europe,NL,Netherlands,578600000,2.827,3.144,2.981,2.071,1969.17,784.22
+3498,WEU,Western Europe,SE,Sweden,1.03E+10,2.817,3.262,2.394,2.524,38927,853
+2292,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,7.73E+08,3.002,3.051,2.987,2.933,874,895
+10432,WEU,Western Europe,SE,Sweden,4006800000,3.255,3.5,3,3.119,97,909
+1170,NAM,Northern America,CA,Canada,2664900000,3.213,3.913,2.977,2.238,22879,910
+2545,WEU,Western Europe,SE,Sweden,5.67E+08,3.903,4.9,3,3.19,62.86,942.93
+1368,WEU,Western Europe,IT,Italy,502076000,2.953,3.136,2.86,2.738,1036.8,948.05
+1160,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,754600000,2.729,3,2.988,1.929,1293,1005
+4146,WEU,Western Europe,NL,Netherlands,1.07E+09,3.245,3.741,2.607,3.119,19413,1066
+3114,NAM,Northern America,US,United States of America,965617000,2.895,2.75,3.125,2.881,27859,1082
+3102,NAM,Northern America,US,United States of America,555124000,2.403,2.884,1.9,2.143,291,1086
+3985,WEU,Western Europe,DK,Denmark,1.45E+10,2.17,2.491,2.286,1.452,1057,1112
+10045,WEU,Western Europe,LU,Luxembourg,7.59E+08,3.022,3.65,2,3.119,134.8,1142.8
+1925,NAM,Northern America,US,United States of America,1318471000,2.948,3.097,3,2.619,358,1166
+3115,NAM,Northern America,US,United States of America,860205000,2.794,3.2,3,1.814,294,1178
+3555,NAM,Northern America,US,United States of America,1.02E+09,3.531,4.373,3.267,2.333,1471.12,1204.88
+1637,WEU,Western Europe,FR,France,1.16E+09,2.97,3,3,2.881,3389,1220
+1366,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2611800000,2.39,2.32,2.938,1.857,37827,1250
+10314,WEU,Western Europe,DE,Germany,1018100000,2.961,3.013,2.992,2.833,2295,1303
+1476,WEU,Western Europe,DE,Germany,1.23E+09,3.254,3.55,3,3.024,1500,1324
+1226,WEU,Western Europe,CH,Switzerland,828744000,3.128,3.6,3.1,2.31,441,1357
+2589,NAM,Northern America,US,United States of America,852427000,3.067,3.047,3.15,3.005,87.79,1375.38
+3705,WEU,Western Europe,BE,Belgium,2854600000,2.252,2.265,2.267,2.214,8072,1389
+98,WEU,Western Europe,DE,Germany,616338000,3.376,3.821,3,3.024,4709.6,1410.4
+4215,WEU,Western Europe,NL,Netherlands,4.17E+08,2.913,3.327,2,3.262,1560,1428
+3942,NAM,Northern America,US,United States of America,849300000,3.084,3.093,3,3.167,329,1476
+2265,WEU,Western Europe,FR,France,5.73E+08,3.071,3.638,2.419,2.833,987,1476
+3936,WEU,Western Europe,NL,Netherlands,4.68E+08,2.872,2.93,2.855,2.786,10900,1477
+3160,WEU,Western Europe,FR,France,1.60E+09,2.903,3.675,2,2.595,23843,1535
+2807,WEU,Western Europe,MT,Malta,435800000,4.006,4.699,3.309,3.595,84709,1537
+1358,WEU,Western Europe,DE,Germany,1058223000,2.317,2.182,2.783,2,141933,1558
+1078,NAM,Northern America,US,United States of America,6.12E+09,3.068,3.8,3.039,1.786,8825,1597
+1785,WEU,Western Europe,SE,Sweden,8.27E+08,3.01,4,1.95,2.5,22773,1600
+2132,WEU,Western Europe,FR,France,932923000,3.565,4.25,2.945,3.119,28423,1601
+1655,WEU,Western Europe,LU,Luxembourg,504771299,2.559,2.891,2.189,2.405,348,1608
+1425,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1706700000,3.382,3.351,4.818,1.714,2743,1630
+4188,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1216795000,2.821,3.565,2.43,1.952,79,1663
+1332,WEU,Western Europe,IT,Italy,2341600000,2.682,3.9,1.661,1.714,37280,1714
+3410,WEU,Western Europe,NL,Netherlands,2.40E+09,3.504,4,3.059,3.143,4815.7,1714.3
+1091,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2350200000,3.07,3.653,2.711,2.452,242.4,1726
+2575,WEU,Western Europe,DE,Germany,248316000,2.979,3.1,2.917,2.833,524,1726
+1866,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,9446500000,2.847,3.097,3,2.214,16309,1741
+3389,WEU,Western Europe,DE,Germany,4.12E+08,2.98,3.9,1.8,2.738,1655,1757
+3785,WEU,Western Europe,FR,France,599700000,3.028,4,1.75,2.81,1655.64,1757.36
+1504,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1402367000,3.156,3.744,3,2.286,31283,1758
+2254,WEU,Western Europe,LU,Luxembourg,5.57E+08,2.908,2.937,2.926,2.833,556,1783
+1064,WEU,Western Europe,FR,France,7.15E+08,3.177,3.742,2.617,2.833,12698,1814
+1375,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1529800000,3.522,3.775,3.598,2.976,8391,1823
+1264,WEU,Western Europe,IT,Italy,787770000,3.043,3.4,3,2.452,4485.4,1840.6
+1672,WEU,Western Europe,SE,Sweden,4.98E+10,2.789,3.25,2.596,2.19,4200,1852
+3311,WEU,Western Europe,NL,Netherlands,4.95E+09,2.85,3.35,2.65,2.19,35400,1880
+3573,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2240600000,2.848,3.287,2.938,1.952,5919,1945
+3647,WEU,Western Europe,ES,Spain,1.31E+09,3.853,4.9,3.25,2.69,7867,1949
+3753,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,51219000,3.224,3.699,2.974,2.667,82,1959
+3086,NAM,Northern America,US,United States of America,288945000,2.77,4,1.922,1.571,1548.82,1992.79
+1316,WEU,Western Europe,IT,Italy,1651017000,3.384,3.441,4.75,1.643,5020,2142
+1696,WEU,Western Europe,FI,Finland,2063500000,2.651,3.543,1.975,1.857,2096,2143
+3042,WEU,Western Europe,FR,France,1.95E+09,2.933,3.503,2,3.024,2682,2164
+4155,WEU,Western Europe,DE,Germany,3.61E+09,2.922,3.015,2.858,2.833,30240,2205
+2709,NAM,Northern America,US,United States of America,1126816000,2.577,3,2.9,1.429,1219,2226
+1564,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,5.81E+08,2.822,3,3,2.286,426,2280
+1079,WEU,Western Europe,LU,Luxembourg,7.15E+08,3.083,3.25,3,2.881,2203,2288
+1776,WEU,Western Europe,NO,Norway,645700000,3.017,3.509,3.006,2.143,180.1,2298.2
+1437,WEU,Western Europe,SE,Sweden,1.99E+10,3.032,3.643,3.034,1.929,37,2299
+1926,WEU,Western Europe,FR,France,569700000,2.96,3.084,3,2.69,7166,2386
+10286,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2.12E+09,2.928,3.269,3.011,2.214,16912,2388
+3438,NAM,Northern America,US,United States of America,1.68E+09,2.861,2.905,2.837,2.81,804,2456
+1553,WEU,Western Europe,GI,Gibraltar,1754500000,3.507,3.072,5,2.5,892,2497
+1054,WEU,Western Europe,FR,France,1.25E+09,2.885,3.46,1.984,2.929,1375,2510
+2708,WEU,Western Europe,FR,France,4.18E+09,2.662,3,2.25,2.548,84296,2526
+4192,WEU,Western Europe,IT,Italy,797200000,3.407,3.725,2.99,3.333,7.6,2549.4
+3232,WEU,Western Europe,NL,Netherlands,2210571000,3.467,4.05,3.08,2.881,4768,2550
+3310,WEU,Western Europe,FR,France,1476111000,2.836,3.042,2.886,2.405,30793,2598
+1799,NAM,Northern America,US,United States of America,2.24E+09,3.205,4.75,2.25,1.571,59459,2751
+10760,NAM,Northern America,US,United States of America,2787586000,2.736,3.33,2.281,2.214,1916,2808
+2616,WEU,Western Europe,FR,France,5.61E+09,2.845,3.405,2.985,1.667,612,2811
+1203,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1.63E+09,2.943,3.15,3,2.5,16965,2851
+4198,WEU,Western Europe,ES,Spain,2.21E+09,2.707,2.989,2.755,2.143,43950,2936
+1077,WEU,Western Europe,FR,France,1406689000,3.077,3.29,3.12,2.643,3008,3062
+3419,NAM,Northern America,US,United States of America,1.85E+09,3.77,4.804,3,2.833,568478,3064
+3683,WEU,Western Europe,DK,Denmark,2.37E+09,2.657,3.3,2,2.286,2673,3067
+1824,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,3044500000,3.226,3.625,3.233,2.5,108280,3070
+1852,WEU,Western Europe,LU,Luxembourg,678999000,2.687,3.098,3,1.571,415.63,3074.36
+10100,WEU,Western Europe,SE,Sweden,13538600000,2.824,3.176,2.943,2.048,614,3089
+3669,ANZ,Australia and New Zealand,NZ,New Zealand,475078000,2.531,3.04,2.11,2.119,176,3161
+4075,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,193600000,3.351,4.358,2.907,2.071,2487,3192
+1243,WEU,Western Europe,SE,Sweden,3.41E+09,2.752,2.961,2.9,2.2,48140,3215
+3769,WEU,Western Europe,DE,Germany,1.82E+09,2.901,4,1.942,2.071,18137,3248
+3309,WEU,Western Europe,DE,Germany,732700000,2.745,2.7,2.5,3.119,48719,3253
+1367,WEU,Western Europe,IE,Ireland,744117000,2.027,1.479,1.979,3.071,54564,3311
+2037,NAM,Northern America,US,United States of America,599383000,2.539,3,1.9,2.476,2841,3373
+2246,WEU,Western Europe,NL,Netherlands,635625000,2.327,2.25,2,2.857,8186,3378
+1400,WEU,Western Europe,IT,Italy,1.70E+09,2.853,3.045,2.857,2.5,5265,3400
+58,WEU,Western Europe,NO,Norway,655579000,3.682,4.566,3.084,2.81,231720,3401
+2645,NAM,Northern America,US,United States of America,1561252000,2.895,3.65,2.35,2.19,281,3425
+1415,EA,Eastern Asia,CN,China,1.82E+10,3.091,3.944,3.079,1.571,194982,3486
+1195,WEU,Western Europe,FR,France,6.05E+09,3.17,3.859,3.449,1.595,45800,3500
+10451,WEU,Western Europe,FR,France,5.28E+09,3.091,3.79,2.017,3.119,37806,3509
+2953,NAM,Northern America,US,United States of America,648407000,3.029,3.867,2.986,1.571,21400,3600
+1142,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,716484000,2.943,3.761,2.383,2.143,6347,3709
+1939,NAM,Northern America,US,United States of America,2907738000,2.725,2.984,3,1.929,29,3830
+1224,WEU,Western Europe,NL,Netherlands,1732400000,2.978,3.413,2.9,2.286,32666,3860
+1162,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1123600000,2.857,3.2,2.4,2.786,205.9,3932.5
+4205,WEU,Western Europe,IT,Italy,3.62E+08,3.304,3.9,3,2.595,14043,4081
+1225,WEU,Western Europe,BE,Belgium,3.36E+09,2.686,3.012,2.827,1.929,24256,4085
+3313,WEU,Western Europe,IT,Italy,462689000,3.064,3.094,2.974,3.119,1044,4099
+1349,WEU,Western Europe,NL,Netherlands,9.43E+08,3.284,3.895,3,2.524,2071,4120
+2703,NAM,Northern America,US,United States of America,2.55E+09,2.79,3.101,2.9,2.095,1506,4151
+3725,WEU,Western Europe,LU,Luxembourg,649600000,3.346,3.802,3.211,2.69,15211,4263
+2380,NAM,Northern America,US,United States of America,5693603000,2.64,3.168,2.042,2.405,441976,4397
+2690,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,7.20E+08,2.745,2.5,2.9,3,18069,4467
+3518,NAM,Northern America,US,United States of America,2849600000,3.504,3.953,3.15,3.119,2807,4488
+1281,WEU,Western Europe,FR,France,1089600000,3.011,3.407,3.1,2.19,828,4546
+1609,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,6253400000,3.329,3.836,2.92,2.905,95262,4562
+1181,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,3.05E+09,2.853,3.387,2.882,1.857,18199,4680
+3908,WEU,Western Europe,DK,Denmark,2.38E+09,3.219,4.235,2.653,2.071,6511,4695
+10702,WEU,Western Europe,LU,Luxembourg,534970000,3.322,3.9,3.1,2.548,5656.54,4697.11
+3991,WEU,Western Europe,SE,Sweden,9.85E+09,2.729,3.31,3,1.357,842,4743
+1262,WEU,Western Europe,IT,Italy,3.51E+09,2.67,3.1,3,1.5,6176.45,4761.1
+1190,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2.85E+09,2.548,2.495,2.905,2.214,134278,4842
+3256,WEU,Western Europe,SE,Sweden,1498917000,2.634,2.579,2.711,2.643,38064,4997
+1074,WEU,Western Europe,FR,France,1283277000,3.37,3.9,3.3,2.5,13537.81,5076.68
+1557,WEU,Western Europe,FR,France,2402800000,3.018,3.4,2.995,2.357,41609,5271
+2126,WEU,Western Europe,ES,Spain,8.43E+08,2.996,3.75,2,2.833,380.42,5296.02
+1208,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,3371500000,3.16,3.602,2.807,2.786,41015,5405
+1343,WEU,Western Europe,FI,Finland,4.94E+08,2.92,3.192,3,2.333,3301,5431
+1213,WEU,Western Europe,CH,Switzerland,4.44E+09,3.129,3.9,2.675,2.286,7600,5500
+1198,WEU,Western Europe,AT,Austria,1855872600,2.972,3.028,2.827,3.048,35049,5536
+66,WEU,Western Europe,FR,France,4.80E+09,2.971,3.215,3.593,1.786,17567,5803
+1491,NAM,Northern America,US,United States of America,1.87E+09,2.99,3.229,2.8,2.786,1012,5847
+2339,NAM,Northern America,US,United States of America,790723000,2.803,3.901,2.184,1.571,183,6091
+63,WEU,Western Europe,FR,France,1926233000,2.908,3.65,1.797,2.905,12879,6132
+2209,WEU,Western Europe,DE,Germany,306500000,3.007,3.968,1.948,2.548,6364,6257
+3665,NAM,Northern America,US,United States of America,4.30E+09,3.149,3,3,3.595,1034,6364.095
+10801,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1298700000,3.176,3.469,2.942,2.929,4326.6,6568
+1511,WEU,Western Europe,PT,Portugal,715595511,3.054,3.504,2.799,2.548,21603,6759
+2026,NAM,Northern America,US,United States of America,1.90E+09,2.96,3.25,2.65,2.81,66,7096
+1204,WEU,Western Europe,DE,Germany,1.49E+09,3.162,3.702,2.862,2.548,4920,7419
+2143,NAM,Northern America,US,United States of America,2767100000,2.668,3.159,2.768,1.667,161700,7500
+2977,NAM,Northern America,US,United States of America,721900000,2.845,3.633,2.049,2.381,404,7644
+1252,WEU,Western Europe,IT,Italy,1890600000,2.926,3.134,3.088,2.357,317414,7644
+1239,WEU,Western Europe,DE,Germany,1392163000,2.023,1,3,2.69,7650,7760
+2517,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,871900000,2.805,3.75,2,2.071,8153,7799
+3320,WEU,Western Europe,NL,Netherlands,338730000,2.998,3.988,1.67,2.81,3730,7845
+2169,NAM,Northern America,US,United States of America,6.43E+09,2.777,3.141,3,1.857,1877,7869
+3642,NAM,Northern America,US,United States of America,1.95E+08,3.376,3.75,2.87,3.31,196,7919
+10234,WEU,Western Europe,FR,France,6.29E+08,2.737,2.941,2.431,2.738,7065,8083
+1229,WEU,Western Europe,DE,Germany,9.30E+09,2.352,2.13,2.9,2.095,115383,8264
+1272,WEU,Western Europe,IT,Italy,2363600000,3.175,3.8,2.977,2.286,10729.51,8302.15
+3355,NAM,Northern America,US,United States of America,4573200000,2.474,2.947,2.236,1.905,832,8770
+1722,WEU,Western Europe,IT,Italy,3.55E+08,3.244,4,2.471,2.81,5242,8772
+1975,NAM,Northern America,US,United States of America,992452000,3.012,3.9,3,1.429,1605,8843
+10700,WEU,Western Europe,FR,France,568241000,3.04,3.243,3.028,2.69,14644,8895
+2226,WEU,Western Europe,LU,Luxembourg,926836000,3.081,3.562,2.251,3.214,37881,8966
+2581,NAM,Northern America,US,United States of America,5501907000,2.89,3.523,2.959,1.667,104515,8991
+1248,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42
+3342,WEU,Western Europe,BE,Belgium,976893000,3.294,3.944,3,2.476,19518,9123
+10764,NAM,Northern America,US,United States of America,656323000,2.815,3.939,2.124,1.619,4147,9989
+1766,NAM,Northern America,US,United States of America,782009000,2.996,3.75,2,2.833,1590,10254
+3916,WEU,Western Europe,ES,Spain,436699000,3.023,3.171,3,2.786,30446,10330
+3157,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380
+3595,NAM,Northern America,US,United States of America,3760500000,2.83,3.351,2.979,1.714,76040,10583
+10061,WEU,Western Europe,FI,Finland,624900000,2.768,2.972,2.901,2.238,35600,10600
+3356,NAM,Northern America,US,United States of America,702727000,3.698,4.75,3,2.643,63384,10645
+1303,WEU,Western Europe,LU,Luxembourg,451800000,2.348,2.669,2.455,1.643,2780,10680
+3958,NAM,Northern America,US,United States of America,19857200000,2.907,3.572,3.022,1.571,308000,11000
+1851,WEU,Western Europe,IE,Ireland,1392010000,3.56,3.855,3.583,3,48501,11141
+1378,WEU,Western Europe,SE,Sweden,737895000,2.698,3,2.864,1.952,2347,11307
+2957,NAM,Northern America,US,United States of America,514711000,2.907,3,2.65,3.048,378,11430
+2426,NAM,Northern America,US,United States of America,2071600000,2.893,3.6,2,2.69,1383,11467
+1490,WEU,Western Europe,DE,Germany,2.64E+09,2.502,3.5,1.9,1.429,19929,11527
+3236,NAM,Northern America,US,United States of America,3.81E+09,2.759,2.9,3,2.214,423,11583
+1589,WEU,Western Europe,IT,Italy,353567895,3.375,3.9,3,2.881,7593,11597
+3295,WEU,Western Europe,FR,France,1.93E+10,2.508,3.053,2.742,1.243,72515,12224
+2435,NAM,Northern America,US,United States of America,2679634000,2.119,2.543,1.938,1.571,10200,12300
+3308,WEU,Western Europe,DE,Germany,2.90E+09,2.956,3.14,2.624,3.024,5300,12496
+2920,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,5.49E+08,2.924,3.75,1.9,2.667,3217,12858
+2014,NAM,Northern America,US,United States of America,48040364000,2.787,3.652,2.502,1.571,9519,12919
+1958,NAM,Northern America,US,United States of America,4982659000,2.791,3.088,2.765,2.286,54129,13085
+1594,WEU,Western Europe,NL,Netherlands,8.57E+08,2.741,3.484,1.765,2.571,1683,13541
+2465,NAM,Northern America,US,United States of America,4102108000,2.974,3.577,3,1.857,4098,13651
+3053,NAM,Northern America,US,United States of America,4301200000,3.054,3.758,2.995,1.857,67853,13816
+1337,WEU,Western Europe,FR,France,2394700000,3.214,4.019,3.019,2,13839,14613
+1301,WEU,Western Europe,IE,Ireland,3291856000,2.895,3.348,2.9,2.071,6680,14714
+1457,WEU,Western Europe,IT,Italy,5.83E+08,2.454,2.437,2.263,2.714,187900,14900
+1129,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1041090000,3.119,3.714,1.988,3.405,11057,14914
+1131,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,5.10E+09,3.482,3.071,5,2.4,7455,14923
+1860,WEU,Western Europe,ES,Spain,1885982000,2.929,3,3,2.714,5139.36,15118.61
+3591,NAM,Northern America,US,United States of America,2628800000,2.746,2.95,2.783,2.333,180,15590
+1827,NAM,Northern America,US,United States of America,1.21E+09,3.512,3.144,4.75,2.69,8842,15808
+1483,WEU,Western Europe,NL,Netherlands,1.38E+10,2.898,3.313,2.983,2.048,7528,15899
+1744,WEU,Western Europe,FR,France,3.62E+09,1.553,1.079,2.011,1.857,104501,15900
+2509,NAM,Northern America,US,United States of America,3305200000,3.021,3.1,3,2.905,4463,16104
+2174,WEU,Western Europe,DE,Germany,1.01E+09,2.536,2.389,2.509,2.833,7107,16160
+3990,WEU,Western Europe,ES,Spain,4353201000,2.138,2.293,2.078,1.929,4980,16529
+3377,NAM,Northern America,US,United States of America,2.33E+09,2.649,3,2.9,1.714,2862,16675
+1647,NAM,Northern America,US,United States of America,2.90E+10,3.366,4.545,2.953,1.738,129340,16734
+1211,WEU,Western Europe,NL,Netherlands,3.08E+09,2.926,3.557,2.75,2,50000,17000
+3036,NAM,Northern America,US,United States of America,1.61E+09,3.692,4.5,3.235,2.786,6409.88,17366.52
+2633,NAM,Northern America,US,United States of America,6255284000,2.999,3.816,2.963,1.571,128220,17432
+3937,NAM,Northern America,US,United States of America,1657225000,2.905,3,2.9,2.738,3749,17537
+3003,NAM,Northern America,US,United States of America,6.73E+09,3.249,3.25,3.355,3.119,1919,18408
+3350,WEU,Western Europe,FR,France,1655100000,2.666,3.888,1.249,2.167,40835,19248
+10704,WEU,Western Europe,FR,France,993053000,1.917,1.662,2.528,1.643,1928,19276
+1157,WEU,Western Europe,DK,Denmark,7.78E+09,3.185,3.65,2.9,2.69,74384,19399
+3671,WEU,Western Europe,ES,Spain,2396700000,3.732,3.537,4.554,3.095,12770,19805
+10184,WEU,Western Europe,IT,Italy,879900000,3.446,3.9,3.85,2.143,44644.49,19807.5
+2693,NAM,Northern America,US,United States of America,1409281000,3.177,3.9,3.55,1.429,70379,19815
+3689,NAM,Northern America,US,United States of America,2.49E+09,2.895,3.15,2.9,2.429,3286,20375
+1456,WEU,Western Europe,FR,France,1.08E+09,2.95,3.871,2.954,1.286,3000,21000
+1171,WEU,Western Europe,ES,Spain,951029000,3.892,4.823,3.894,2.214,9866,21117
+1710,WEU,Western Europe,FR,France,1.52E+09,3.157,3.548,2.878,2.786,33357,21636
+10213,NAM,Northern America,US,United States of America,7659832000,3.126,3.086,4.124,2,4012.22,21970.65
+37,WEU,Western Europe,ES,Spain,1279737000,3.796,4.05,3.8,3.333,10327,22314
+1798,NAM,Northern America,US,United States of America,1.61E+10,2.739,3.216,2.639,2,29072,22926
+1267,NAM,Northern America,US,United States of America,17400700000,3.297,3.621,3.417,2.571,40498,25105
+1419,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,4.31E+09,3.487,3.233,4.75,2.429,29145,26129
+3536,NAM,Northern America,US,United States of America,1737342000,3.024,3.621,2.743,2.286,55237,26914
+1380,WEU,Western Europe,NL,Netherlands,456800000,3.054,3.294,2.956,2.738,1639,27296
+1328,NAM,Northern America,US,United States of America,6.26E+09,2.764,3.9,1.738,1.952,19100,28000
+3858,NAM,Northern America,US,United States of America,1537617000,1.77,1.1,3,1.5,22310,28446
+1575,NAM,Northern America,US,United States of America,6967200000,2.845,3.834,2.362,1.643,26095,28933
+2865,NAM,Northern America,US,United States of America,264700000,3.483,3.9,3,3.31,252,29030
+1747,NAM,Northern America,US,United States of America,2997800000,3.007,4,1.8,2.667,22544,29690
+90,WEU,Western Europe,IT,Italy,686200000,3.181,3.957,2.585,2.5,46555,29729
+2775,WEU,Western Europe,DE,Germany,4058900000,2.866,3.9,2.014,2.029,40923.1,29853.6
+4131,WEU,Western Europe,DE,Germany,2.24E+10,2.774,3.65,2.8,1.167,21200,29900
+1182,WEU,Western Europe,FR,France,1.21E+09,2.703,3.103,2.47,2.262,14193,30353
+29,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,10912700000,2.164,2.381,1.955,2.024,24850,30357
+1318,WEU,Western Europe,ES,Spain,2518339000,2.461,2.107,2.127,3.5,200665,30664
+1615,WEU,Western Europe,FR,France,2.82E+09,2.942,2.899,2.841,3.138,1900,30900
+2051,WEU,Western Europe,NL,Netherlands,685100000,3.393,3.7,3,3.31,76472,31323
+2269,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1015194000,3.058,3.65,2,3.262,9110.18,31589.14
+2030,NAM,Northern America,CA,Canada,7829700000,3.527,4.595,3.029,2.2,32296,33387
+2684,NAM,Northern America,US,United States of America,1049288000,3.034,3.722,2.506,2.429,39206,33697
+2066,NAM,Northern America,US,United States of America,6355800000,3.213,3.939,2.977,2.19,33805,33752
+3981,WEU,Western Europe,SE,Sweden,1.29E+10,2.755,3.05,3,1.929,1231,33791
+1484,NAM,Northern America,US,United States of America,391110000,3.292,4.056,2.57,2.786,146713,33991
+1246,WEU,Western Europe,IT,Italy,830700000,3.089,2.863,3.917,2.5,36110,34481
+1179,WEU,Western Europe,ES,Spain,4.21E+08,3.252,3.52,2.88,3.214,21074.42,34687.78
+1245,WEU,Western Europe,DE,Germany,8.17E+08,3.235,4,2.72,2.476,38092,35629
+3346,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,794970000,3.235,3.8,3,2.5,49281,35641
+1650,WEU,Western Europe,FR,France,1.77E+09,3.137,4,2.332,2.548,19731,36015
+3343,NAM,Northern America,US,United States of America,1085677000,3.117,3.875,2.375,2.643,27000,38000
+4030,NAM,Northern America,US,United States of America,3.36E+09,2.605,3.039,2.816,1.571,17927,38893
+1869,NAM,Northern America,US,United States of America,10043408000,3.404,4.612,3,1.714,51703,39724
+2121,WEU,Western Europe,LU,Luxembourg,2.80E+08,3.376,3.875,3,2.929,3252,42384
+10765,NAM,Northern America,US,United States of America,567694000,3.985,3.75,5,3.19,105911,42438
+2756,NAM,Northern America,US,United States of America,4283800000,3.051,4.125,2.077,2.286,6151,44551
+4134,WEU,Western Europe,LU,Luxembourg,5.57E+09,3.118,3.85,3.25,1.643,59481,44652
+1238,NAM,Northern America,CA,Canada,1.94E+10,3.544,3.418,3.652,3.643,205624,47661
+2785,NAM,Northern America,US,United States of America,5769577000,2.836,3.138,2.9,2.214,4938,49196
+3005,NAM,Northern America,US,United States of America,1178166000,3.109,4,2.159,2.643,14557,49401
+3976,WEU,Western Europe,CH,Switzerland,2.70E+09,3.663,4.765,2.286,3.333,114964,49621
+3576,WEU,Western Europe,LU,Luxembourg,3.74E+09,2.909,3.01,2.94,2.69,1620,50164
+2627,NAM,Northern America,US,United States of America,1.43E+09,3.163,3.838,3,2.143,112617,51469
+1658,WEU,Western Europe,FR,France,10368400000,2.441,2.507,1.935,2.929,24264,51841
+4049,NAM,Northern America,US,United States of America,6149909000,2.981,3.45,2.975,2.143,115728,51927
+2897,NAM,Northern America,US,United States of America,4160300000,3.141,4.036,3.046,1.643,19844,53514
+3601,WEU,Western Europe,LU,Luxembourg,1087500000,3.201,3.5,2.9,3.024,215581,54611
+2925,NAM,Northern America,US,United States of America,1.54E+11,3.07,3.516,2.814,2.571,9998,54646
+1312,WEU,Western Europe,LU,Luxembourg,1.25E+09,3.331,3.818,2.935,2.929,8662,55328
+1055,WEU,Western Europe,LU,Luxembourg,1704800000,3.133,3.8,2.8,2.333,63214,56730
+1132,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1115200000,3.244,3.913,3,2.333,173229,57301
+2289,CAR,Caribbean,PR,Puerto Rico,1260500000,2.294,2.631,1.973,2.071,7530,57601
+1835,NAM,Northern America,US,United States of America,4.30E+09,2.786,1.955,3.993,2.833,59511,58870
+1639,WEU,Western Europe,ES,Spain,1439919000,3.832,3.595,4.9,2.976,4992,59700
+2165,NAM,Northern America,US,United States of America,8.30E+09,3.261,3.619,3,2.929,126198,60378
+3606,WEU,Western Europe,FR,France,4.41E+08,3.242,3.65,2.575,3.31,138437,61295
+2377,EA,Eastern Asia,JP,Japan,725006000,2.792,3.5,2.926,1.357,1681,62624
+4225,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2972737000,3.258,4.043,2.83,2.357,412225,62720
+3468,NAM,Northern America,US,United States of America,1323649000,3.006,3.952,2.9,1.429,208797,63336
+2805,NAM,Northern America,US,United States of America,840400000,3.376,3.94,2.981,2.833,36538,65205
+3337,NAM,Northern America,US,United States of America,5636523000,3.185,3.8,3.25,2,39516,66078
+1768,NAM,Northern America,CA,Canada,4.45E+10,3.38,3.999,3.9,1.643,128994,66114
+2215,NAM,Northern America,US,United States of America,4.79E+09,2.774,3.806,1.992,1.857,51517,67484
+2889,WEU,Western Europe,NL,Netherlands,856263000,3.388,3.9,3.5,2.333,36217,67558
+3345,NAM,Northern America,US,United States of America,607851000,3.144,3.44,2.96,2.833,4972,68798
+1406,WEU,Western Europe,NL,Netherlands,2.94E+09,3.019,3.65,2.803,2.143,127587,69470
+1954,NAM,Northern America,US,United States of America,6269305000,3.661,4.888,2.905,2.357,65760.4,70023.7
+1973,NAM,Northern America,US,United States of America,1.92E+09,3.569,4.25,3,3.024,70259,70666
+3564,NAM,Northern America,US,United States of America,823265000,3.07,3.213,2.893,3.024,3542,72532
+2216,NAM,Northern America,US,United States of America,3142800000,3.037,3.79,2.89,1.857,33384,72976
+1493,NAM,Northern America,US,United States of America,2.89E+09,3.088,3.962,2.802,1.857,30424,73210
+10039,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2.06E+09,3.414,4,3,2.857,23678,73649
+1063,WEU,Western Europe,PT,Portugal,5142600000,2.727,2.54,2.203,3.69,31861,74807
+10695,NAM,Northern America,US,United States of America,8969351000,3.191,3.9,3,2.143,15854,75148
+2876,NAM,Northern America,US,United States of America,4655600000,2.842,3.75,2.181,2,68712,77715
+2041,NAM,Northern America,US,United States of America,4.21E+09,2.451,2.86,2.093,2.143,38175,79809
+3395,NAM,Northern America,US,United States of America,3.73E+10,3.824,4.798,3.703,2.214,1712,82042
+2739,NAM,Northern America,US,United States of America,6929249000,3.115,3.74,3.406,1.643,101923,84032
+1302,WEU,Western Europe,LU,Luxembourg,828400000,3.009,3.032,2.961,3.024,4282,84778
+60,WEU,Western Europe,IT,Italy,7.87E+08,1.902,1.34,2.9,1.714,416298,85145
+1334,WEU,Western Europe,NL,Netherlands,2791300000,2.467,2.655,2.218,2.429,21100,86300
+1929,NAM,Northern America,US,United States of America,7.94E+09,3.381,4.508,3.198,1.571,51376,87920
+46,EEU,Eastern Europe,EE,Estonia,492307000,2.988,3.172,3,2.643,36653,89702
+1748,NAM,Northern America,US,United States of America,1.40E+09,3.119,3.9,3,1.857,19758,90611
+2601,NAM,Northern America,US,United States of America,10333967000,2.595,3.521,2,1.643,18968,91901
+1432,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,4.12E+09,3.28,3.76,3.17,2.548,67117.59,95402.05
+3217,NAM,Northern America,US,United States of America,2.30E+09,3.346,4,3.15,2.405,183000,97000
+2416,NAM,Northern America,US,United States of America,1078309000,3.038,3.291,2.988,2.643,13375,101806
+3634,NAM,Northern America,US,United States of America,2339226000,3.173,3.981,3.296,1.571,76338,106545
+2605,NAM,Northern America,US,United States of America,3202053000,3.143,4.099,2.9,1.714,23200,107300
+3789,NAM,Northern America,US,United States of America,1761185000,3.346,3.708,2.993,3.119,63122,108288
+1791,WEU,Western Europe,NL,Netherlands,9.89E+08,3.114,3.545,3,2.476,7019,108836
+10054,NAM,Northern America,US,United States of America,2307900000,2.867,3.71,2.801,1.429,512369,109701
+3618,NAM,Northern America,US,United States of America,3.75E+09,3.093,4,3,1.571,56535,110884
+2090,NAM,Northern America,US,United States of America,1542533000,3.481,4.145,2.865,3.024,309419,111164
+3489,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1334100000,3.324,4.05,2.9,2.524,113811,111919
+1538,WEU,Western Europe,NL,Netherlands,6.10E+08,2.805,3.9,1.655,2.214,142884,118052
+2827,NAM,Northern America,US,United States of America,1.77E+10,2.629,3.093,2.85,1.529,17636,120793
+3540,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1.90E+09,3.061,3.562,2.677,2.619,15339,123741
+1478,WEU,Western Europe,DE,Germany,1636372108,2.621,2.466,2.517,3.024,344641,126727
+1363,NAM,Northern America,US,United States of America,1.90E+09,3.166,3.688,2.5,3.024,101173,131121
+1843,NAM,Northern America,US,United States of America,1439800000,3.01,3.732,3.066,1.643,129280,131187
+2790,NAM,Northern America,US,United States of America,3.03E+10,3.02,3.8,2.94,1.714,344074,137440
+10368,NAM,Northern America,US,United States of America,5.16E+10,2.902,3.604,2.896,1.643,58764,140005
+1796,NAM,Northern America,US,United States of America,1.44E+09,3.201,3.75,2.981,2.476,10991,142319
+1711,WEU,Western Europe,FR,France,3331900000,2.886,3.695,2.948,1.357,106232,144872
+2918,NAM,Northern America,US,United States of America,1.45E+09,2.955,3.36,2.707,2.524,259057,148507
+1274,WEU,Western Europe,ES,Spain,4617380000,3.09,3.9,3,1.738,24138,154895
+1644,WEU,Western Europe,CH,Switzerland,2.00E+09,3.445,4.067,2.6,3.338,190865,155446
+3351,NAM,Northern America,US,United States of America,8702604000,3.24,3.833,3.265,2.143,39715,158233
+3435,NAM,Northern America,US,United States of America,4.73E+09,3.057,4,3,1.429,63857.044,159892.851
+1284,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,3360300000,3.153,4.2,3,1.452,24136,162242
+102,WEU,Western Europe,DE,Germany,1316803000,3.355,4.4,2.876,2.048,577624,170126
+4109,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,13816800000,3.17,3.664,3.404,2,210164,175168
+1276,NAM,Northern America,US,United States of America,7.31E+09,3.309,3.929,2.873,2.714,212712,175456
+1327,NAM,Northern America,US,United States of America,925735000,2.861,3.36,2.849,1.976,350599,176658
+1813,LATAM,Latin America,MX,Mexico,6667600000,3.064,3.8,2.964,1.857,91346,176823
+2998,NAM,Northern America,US,United States of America,5152500000,2.628,3.364,2.379,1.6,285855,188735
+3989,NAM,Northern America,US,United States of America,1.18E+10,3.026,3.16,3.5,2.214,387349,190200
+4092,WEU,Western Europe,CH,Switzerland,1.70E+10,3.291,3.929,3.033,2.452,406000,196000
+3148,WEU,Western Europe,FR,France,1.36E+09,3.143,3.939,2.346,2.667,65556,203288
+3694,WEU,Western Europe,FR,France,9.24E+09,2.23,2.471,2,2.071,24215,205362
+1401,NAM,Northern America,US,United States of America,1.47E+10,3.089,3.9,2.9,1.857,54917,208413
+1296,WEU,Western Europe,IT,Italy,527797000,2.884,3.1,2.8,2.595,1651,213461
+3592,NAM,Northern America,US,United States of America,6362900000,3.649,3.775,4.857,1.943,64080,215068
+3723,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,1.84E+10,3.332,4.007,3.311,2.143,195846,223116
+972,WEU,Western Europe,IT,Italy,1.63E+10,2.218,2.407,2.056,2.071,104418,232269
+1283,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2.56E+10,3.23,3.781,3.152,2.333,345723,238147
+10282,NAM,Northern America,US,United States of America,2.19E+09,3.255,3.946,2.708,2.667,331192,243753
+2901,NAM,Northern America,US,United States of America,3874140000,2.757,2.745,3.108,2.357,71217,266271
+2084,WEU,Western Europe,FR,France,26974200000,2.592,3.262,2.796,1.143,106000,283000
+1762,NAM,Northern America,US,United States of America,4.44E+09,3.059,3.9,2.439,2.286,175807,302607
+3035,NAM,Northern America,US,United States of America,1186077000,3.558,4.875,3,1.857,559769,310903
+1263,WEU,Western Europe,GB,United Kingdom of Great Britain and Northern Ireland,2.83E+10,3.553,4.709,3.153,1.952,44840,311882
+1207,EEU,Eastern Europe,CZ,Czechia,1114065013,2.646,3.8,1.75,1.643,13722,370328
+2774,NAM,Northern America,US,United States of America,6.65E+10,3.805,4.518,3.769,2.571,517000,464000
+1205,WEU,Western Europe,CH,Switzerland,5305365000,2.879,3.25,2.5,2.667,637605,503162
+1314,WEU,Western Europe,NL,Netherlands,5.13E+09,3,3.602,2.653,2.333,598000,640000
+2098,WEU,Western Europe,DE,Germany,4.14E+10,3.228,4.254,2.692,2.024,229000,649000
+1289,NAM,Northern America,CA,Canada,1.00E+10,2.773,3.338,2.925,1.571,534314,715990
+1750,NAM,Northern America,US,United States of America,5.51E+09,2.994,3.875,2.56,1.929,631252,862769
+4090,NAM,Northern America,US,United States of America,5.51E+10,2.425,2.629,2.354,2.143,431504,1105788
+4098,WEU,Western Europe,NO,Norway,1.02E+10,2.358,2.354,3,1.595,250372,1503357
+1777,NAM,Northern America,US,United States of America,6.09E+08,2.958,3.5,3.063,1.857,144025,1597469
+3387,NAM,Northern America,US,United States of America,1.54E+09,3.102,3.9,3,1.786,442406,2061608

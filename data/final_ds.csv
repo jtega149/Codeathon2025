@@ -1,0 +1,877 @@
+entity_id,region_name,country_name,revenue,overall_score,environmental_score,social_score,governance_score,target_scope_1,target_scope_2,nace_level_1_name,nace_level_2_name,revenue_pct,activity_type,env_score_adjustment
+1782,Western Europe,United Kingdom of Great Britain and Northern Ireland,352806000,2.988,3.9,1.75,2.833,60,0,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Other,Other
+3918,Northern America,United States of America,1513700000,2.77,3.004,2.942,2.143,265,0,Information and communication,Publishing activities,0.862102273,Operation,Operation
+3918,Northern America,United States of America,1513700000,2.77,3.004,2.942,2.143,265,0,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.137897727,Operation,Operation
+10299,Western Europe,France,1560000000,2.501,2.979,2.56,1.571,1136,0,Information and communication,Publishing activities,1,End-use,End-use
+10299,Western Europe,France,1560000000,2.501,2.979,2.56,1.571,1136,0,Information and communication,Publishing activities,1,Operation,Operation
+2324,Northern America,United States of America,12385107000,3.207,3.776,3,2.429,1468,0,Financial and insurance activities,"Financial service activities, except insurance and pension funding",1,N/A,N/A
+1206,Western Europe,Spain,2980000000,1.998,2.138,1.785,2,1802,0,Information and communication,Telecommunications,1,Operation,Operation
+1206,Western Europe,Spain,2980000000,1.998,2.138,1.785,2,1802,0,Information and communication,Telecommunications,1,Other,Other
+1206,Western Europe,Spain,2980000000,1.998,2.138,1.785,2,1802,0,Information and communication,Telecommunications,1,Operation,Operation
+1418,Northern America,United States of America,3588600000,2.77,3.083,3,1.929,2659,0,Manufacturing,Manufacture of leather and related products of other materials,1,Other,Other
+1418,Northern America,United States of America,3588600000,2.77,3.083,3,1.929,2659,0,Manufacturing,Manufacture of leather and related products of other materials,1,Operation,Operation
+4021,Western Europe,United Kingdom of Great Britain and Northern Ireland,1470000000,2.466,2.45,2.5,2.452,2913,0,Information and communication,Telecommunications,1,Operation,Operation
+1494,Northern America,United States of America,14000000000,3.383,3.022,4.9,2.214,4319,0,Human Health And Social Work Activities,Gambling and betting activities,1,N/A,N/A
+3173,Western Europe,Spain,857984000,3.397,3.815,3,3.119,10494,0,Human Health And Social Work Activities,Sports activities and amusement and recreation activities,1,Operation,Operation
+1331,Northern America,United States of America,2360000000,2.499,2.65,2.45,2.286,10725,0,Information and communication,Telecommunications,1,N/A,N/A
+10153,Western Europe,United Kingdom of Great Britain and Northern Ireland,1686002000,3.5,4.65,2.25,2.929,57313,0,Transportation And Storage,Postal and courier activities,1,N/A,N/A
+4037,Western Europe,Italy,1276800000,3.028,3.569,3.013,2.071,59534,0,Manufacturing,Manufacture of food products,1,Farming,Farming
+1735,Western Europe,United Kingdom of Great Britain and Northern Ireland,756321000,3.073,3.807,2.112,2.905,71077,0,"Agriculture, Forestry And Fishing","Crop and animal production, hunting and related service activities",0.031104959,Operation,Operation
+1735,Western Europe,United Kingdom of Great Britain and Northern Ireland,756321000,3.073,3.807,2.112,2.905,71077,0,Manufacturing,Manufacture of food products,0.031104959,Operation,Operation
+1735,Western Europe,United Kingdom of Great Britain and Northern Ireland,756321000,3.073,3.807,2.112,2.905,71077,0,Accommodation And Food Service Activities,Accommodation,0.809806947,Operation,Operation
+1735,Western Europe,United Kingdom of Great Britain and Northern Ireland,756321000,3.073,3.807,2.112,2.905,71077,0,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.096878177,Operation,Operation
+1735,Western Europe,United Kingdom of Great Britain and Northern Ireland,756321000,3.073,3.807,2.112,2.905,71077,0,Other Service Activities,Activities of households as employers of domestic personnel,0.031104959,Operation,Operation
+2862,Northern America,United States of America,203366562,3.039,3.258,2.9,2.81,6.11,1.76,Information and communication,Publishing activities,0.311598558,N/A,N/A
+2862,Northern America,United States of America,203366562,3.039,3.258,2.9,2.81,6.11,1.76,Information and communication,Information service activities,0.208533654,N/A,N/A
+2862,Northern America,United States of America,203366562,3.039,3.258,2.9,2.81,6.11,1.76,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,0.479867788,N/A,N/A
+1618,Western Europe,Germany,1540000000,2.843,3.9,1.9,2.071,112,3,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Operation,Operation
+2306,Western Europe,Ireland,2470000000,3.79,4.9,3,2.738,184,43,Financial and insurance activities,"Financial service activities, except insurance and pension funding",1,Transportation,Transportation
+1645,Western Europe,United Kingdom of Great Britain and Northern Ireland,535412000,2.992,3.1,3,2.786,21,44,Information and communication,"Computer programming, consultancy and related activities",1,N/A,N/A
+2149,Western Europe,France,580900000,2.915,3.65,2,2.69,1290.68,76.4,Manufacturing,Other manufacturing,1,N/A,N/A
+4176,Western Europe,Spain,936000000,2.925,3.5,2.1,2.881,3342.11,88.81,Manufacturing,Other manufacturing,1,Manufacturing,Manufacturing
+4176,Western Europe,Spain,936000000,2.925,3.5,2.1,2.881,3342.11,88.81,Manufacturing,Other manufacturing,1,Operation,Operation
+1227,Western Europe,Jersey,661000000,3.374,4,2.012,3.881,637,91,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,N/A,N/A
+1665,Western Europe,Sweden,1040000000,2.743,2.948,3.053,2,354,93,Information and communication,"Computer programming, consultancy and related activities",0.803451582,Operation,Operation
+1665,Western Europe,Sweden,1040000000,2.743,2.948,3.053,2,354,93,Information and communication,"Computer programming, consultancy and related activities",0.803451582,End-use,End-use
+1665,Western Europe,Sweden,1040000000,2.743,2.948,3.053,2,354,93,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.196548418,Operation,Operation
+1665,Western Europe,Sweden,1040000000,2.743,2.948,3.053,2,354,93,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.196548418,End-use,End-use
+3800,Western Europe,United Kingdom of Great Britain and Northern Ireland,469000000,3.264,3.944,3,2.357,26,108,Financial and insurance activities,"Financial service activities, except insurance and pension funding",1,N/A,N/A
+1214,Western Europe,Luxembourg,1116728000,2.449,2.465,2.143,2.786,747,111,Manufacturing,"Manufacture of computer, electronic and optical products",0.5,N/A,N/A
+1214,Western Europe,Luxembourg,1116728000,2.449,2.465,2.143,2.786,747,111,Information and communication,Telecommunications,0.5,N/A,N/A
+2279,Western Europe,Ireland,7996644000,3.147,4.238,3,1.357,3478,118,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.081426909,Transportation,Transportation
+2279,Western Europe,Ireland,7996644000,3.147,4.238,3,1.357,3478,118,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.918573091,Transportation,Transportation
+2929,Northern America,United States of America,1120000000,2.984,3.1,2.935,2.833,18.88,126,"Professional, scientific and technical activities",Legal and accounting activities,1,Transportation,Transportation
+1140,Western Europe,Netherlands,417000000,2.776,2.793,3,2.476,78,126,Information and communication,Publishing activities,1,Operation,Operation
+3632,Western Europe,United Kingdom of Great Britain and Northern Ireland,1380000000,2.557,2.6,2.5,2.548,1037,126,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,1,Transportation,Transportation
+3954,Northern America,United States of America,2983781000,2.573,3.1,2.678,1.5,120,130,Information and communication,"Computer programming, consultancy and related activities",0.41165,N/A,N/A
+3954,Northern America,United States of America,2983781000,2.573,3.1,2.678,1.5,120,130,"Professional, Scientific And Technical Activities",Employment activities,0.523,N/A,N/A
+3954,Northern America,United States of America,2983781000,2.573,3.1,2.678,1.5,120,130,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.06535,N/A,N/A
+106,Western Europe,Germany,426258000,2.162,1.95,2.375,2.286,2223,131,Information and communication,Telecommunications,0.5,Other,Other
+106,Western Europe,Germany,426258000,2.162,1.95,2.375,2.286,2223,131,Information and communication,Telecommunications,0.5,Operation,Operation
+106,Western Europe,Germany,426258000,2.162,1.95,2.375,2.286,2223,131,Information and communication,Information service activities,0.5,Other,Other
+106,Western Europe,Germany,426258000,2.162,1.95,2.375,2.286,2223,131,Information and communication,Information service activities,0.5,Operation,Operation
+10600,Northern America,United States of America,775586000,2.865,3.25,3.008,2,131.2,145.8,Information and communication,Publishing activities,1,N/A,N/A
+1794,Western Europe,United Kingdom of Great Britain and Northern Ireland,458900000,3.15,3.105,2.966,3.452,89.58,154.55,Information and communication,Information service activities,1,N/A,N/A
+1807,Western Europe,Netherlands,2272329000,2.347,2.598,2,2.31,2071,160,Wholesale And Retail Trade,Retail trade,0.098819757,Raw materials,Raw materials
+1807,Western Europe,Netherlands,2272329000,2.347,2.598,2,2.31,2071,160,Information and communication,Telecommunications,0.901180243,Raw materials,Raw materials
+1060,Western Europe,France,563108000,2.769,2.798,2.434,3.119,16227,163,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",0.265734104,Disposal ,Disposal 
+1060,Western Europe,France,563108000,2.769,2.798,2.434,3.119,16227,163,Construction,Specialised construction activities,0.734265896,Disposal ,Disposal 
+10477,Northern America,United States of America,2730000000,3.016,2.988,2.95,3.143,424,166,"Professional, scientific and technical activities",Legal and accounting activities,0.667884879,End-use,End-use
+10477,Northern America,United States of America,2730000000,3.016,2.988,2.95,3.143,424,166,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.332115121,End-use,End-use
+1268,Western Europe,United Kingdom of Great Britain and Northern Ireland,5121400000,3.851,4.941,3.024,2.881,1051,180,Wholesale And Retail Trade,Retail trade,0.971761628,N/A,N/A
+1268,Western Europe,United Kingdom of Great Britain and Northern Ireland,5121400000,3.851,4.941,3.024,2.881,1051,180,Manufacturing,Manufacture of electrical equipment,0.004205881,N/A,N/A
+1268,Western Europe,United Kingdom of Great Britain and Northern Ireland,5121400000,3.851,4.941,3.024,2.881,1051,180,Accommodation And Food Service Activities,Food and beverage service activities,0.018518374,N/A,N/A
+1268,Western Europe,United Kingdom of Great Britain and Northern Ireland,5121400000,3.851,4.941,3.024,2.881,1051,180,"Arts, Sports And Recreation",Other personal service activities,0.005514117,N/A,N/A
+3539,Western Europe,Germany,1847100000,2.4,2.994,1.9,1.929,2009,187,Information and communication,Publishing activities,1,N/A,N/A
+1383,Western Europe,United Kingdom of Great Britain and Northern Ireland,1015900000,3.062,3.492,2.744,2.667,5640,199,"Agriculture, Forestry And Fishing",Forestry and logging,0.009548184,Operation,Operation
+1383,Western Europe,United Kingdom of Great Britain and Northern Ireland,1015900000,3.062,3.492,2.744,2.667,5640,199,Financial And Insurance Activities,Real estate activities,0.990451816,Operation,Operation
+1588,Western Europe,Spain,211200000,3.524,3.9,3,3.476,734,202,Transportation And Storage,"Warehousing, storage and support activities for transportation",1,End-use,End-use
+999,Western Europe,Netherlands,4110000000,1.987,2.12,2.014,1.714,3684,204,Information and communication,Telecommunications,1,Operation,Operation
+3535,Western Europe,Belgium,817500000,3.091,3.421,2.572,3.119,40732,215,"Water Supply; Sewerage, Waste Management And Remediation Activities",Sewerage,0.230110159,Operation,Operation
+3535,Western Europe,Belgium,817500000,3.091,3.421,2.572,3.119,40732,215,"Water Supply; Sewerage, Waste Management And Remediation Activities",Sewerage,0.230110159,Manufacturing,Manufacturing
+3535,Western Europe,Belgium,817500000,3.091,3.421,2.572,3.119,40732,215,Construction,Civil engineering,0.769889841,Operation,Operation
+3535,Western Europe,Belgium,817500000,3.091,3.421,2.572,3.119,40732,215,Construction,Civil engineering,0.769889841,Manufacturing,Manufacturing
+1467,Western Europe,Spain,462000000,3.359,3.594,3.086,3.262,49,226,Information and communication,"Programming, broadcasting, news agency and other content distribution activities",0.45021645,Other,Other
+1467,Western Europe,Spain,462000000,3.359,3.594,3.086,3.262,49,226,Human Health And Social Work Activities,Sports activities and amusement and recreation activities,0.54978355,Other,Other
+1320,Western Europe,United Kingdom of Great Britain and Northern Ireland,387691000,3.237,3.893,3.027,2.31,290.5,231.3,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,0.71768008,N/A,N/A
+1320,Western Europe,United Kingdom of Great Britain and Northern Ireland,387691000,3.237,3.893,3.027,2.31,290.5,231.3,Financial And Insurance Activities,Real estate activities,0.14115996,N/A,N/A
+1320,Western Europe,United Kingdom of Great Britain and Northern Ireland,387691000,3.237,3.893,3.027,2.31,290.5,231.3,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.14115996,N/A,N/A
+3850,Western Europe,Sweden,16400000000,2.665,3.102,2.205,2.429,20943,257,"Water Supply; Sewerage, Waste Management And Remediation Activities",Sewerage,0.065,Manufacturing,Manufacturing
+3850,Western Europe,Sweden,16400000000,2.665,3.102,2.205,2.429,20943,257,"Water Supply; Sewerage, Waste Management And Remediation Activities",Sewerage,0.065,Other,Other
+3850,Western Europe,Sweden,16400000000,2.665,3.102,2.205,2.429,20943,257,Construction,Construction of residential and non-residential buildings,0.165,Manufacturing,Manufacturing
+3850,Western Europe,Sweden,16400000000,2.665,3.102,2.205,2.429,20943,257,Construction,Construction of residential and non-residential buildings,0.165,Other,Other
+3850,Western Europe,Sweden,16400000000,2.665,3.102,2.205,2.429,20943,257,Construction,Civil engineering,0.77,Manufacturing,Manufacturing
+3850,Western Europe,Sweden,16400000000,2.665,3.102,2.205,2.429,20943,257,Construction,Civil engineering,0.77,Other,Other
+1249,Western Europe,Luxembourg,515654000,3.439,3.734,3.461,2.881,1720,273,Manufacturing,Manufacture of food products,0.02295506,Farming,Farming
+1249,Western Europe,Luxembourg,515654000,3.439,3.734,3.461,2.881,1720,273,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.48852247,Farming,Farming
+1249,Western Europe,Luxembourg,515654000,3.439,3.734,3.461,2.881,1720,273,Wholesale And Retail Trade,Retail trade,0.48852247,Farming,Farming
+3992,Western Europe,Italy,266100000,2.907,4,1.906,2.143,679.44,306.87,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,N/A,N/A
+2285,Western Europe,France,2500000000,2.949,3.058,2.92,2.786,6231,317,Information and communication,"Computer programming, consultancy and related activities",1,N/A,N/A
+3312,Western Europe,United Kingdom of Great Britain and Northern Ireland,995153000,2.937,3.15,3,2.476,172,355,Information and communication,"Motion picture, video and television programme production, sound recording and music publishing activities",1,N/A,N/A
+1443,Western Europe,Italy,435361000,2.861,3,2.953,2.5,666,369,Financial and insurance activities,"Financial service activities, except insurance and pension funding",0.772508958,N/A,N/A
+1443,Western Europe,Italy,435361000,2.861,3,2.953,2.5,666,369,Information and communication,"Computer programming, consultancy and related activities",0.227491042,N/A,N/A
+4233,Western Europe,United Kingdom of Great Britain and Northern Ireland,1040000000,2.477,2.442,2.889,2.048,210,371,Financial and insurance activities,"Insurance, reinsurance and pension funding, except compulsory social security",1,N/A,N/A
+10204,Western Europe,United Kingdom of Great Britain and Northern Ireland,610600000,2.441,3.017,2.042,1.881,22931.48,380.51,"Water Supply; Sewerage, Waste Management And Remediation Activities",Sewerage,0.288861689,Manufacturing,Manufacturing
+10204,Western Europe,United Kingdom of Great Britain and Northern Ireland,610600000,2.441,3.017,2.042,1.881,22931.48,380.51,Construction,Civil engineering,0.5,Manufacturing,Manufacturing
+10204,Western Europe,United Kingdom of Great Britain and Northern Ireland,610600000,2.441,3.017,2.042,1.881,22931.48,380.51,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,0.211138311,Manufacturing,Manufacturing
+3673,Western Europe,Switzerland,422300000,2.956,3.218,3,2.429,883,400,Information and communication,Publishing activities,0.73889414,End-use,End-use
+3673,Western Europe,Switzerland,422300000,2.956,3.218,3,2.429,883,400,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,0.26110586,End-use,End-use
+1242,Western Europe,Italy,440714000,3.042,3.53,3,2.214,1962,400,Manufacturing,Manufacture of electrical equipment,0.851329887,Raw materials,Raw materials
+1242,Western Europe,Italy,440714000,3.042,3.53,3,2.214,1962,400,Manufacturing,Manufacture of electrical equipment,0.851329887,Operation,Operation
+1242,Western Europe,Italy,440714000,3.042,3.53,3,2.214,1962,400,Manufacturing,Manufacture of electrical equipment,0.851329887,Raw materials,Raw materials
+1242,Western Europe,Italy,440714000,3.042,3.53,3,2.214,1962,400,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.148670113,Raw materials,Raw materials
+1242,Western Europe,Italy,440714000,3.042,3.53,3,2.214,1962,400,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.148670113,Operation,Operation
+1242,Western Europe,Italy,440714000,3.042,3.53,3,2.214,1962,400,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.148670113,Raw materials,Raw materials
+2365,Western Europe,France,872000000,3.339,4,2.769,2.833,1144,421,Manufacturing,Manufacture of chemicals and chemical products,1,N/A,N/A
+2944,Northern America,United States of America,583000000,2.851,3,2.9,2.524,92,432,"Professional, scientific and technical activities",Activities of head offices and management consultancy,1,Transportation,Transportation
+2944,Northern America,United States of America,583000000,2.851,3,2.9,2.524,92,432,"Professional, scientific and technical activities",Activities of head offices and management consultancy,1,End-use,End-use
+3668,Western Europe,Sweden,16900000000,3.031,3.805,2.907,1.786,54334,443,Financial and insurance activities,"Insurance, reinsurance and pension funding, except compulsory social security",0.09,N/A,N/A
+3668,Western Europe,Sweden,16900000000,3.031,3.805,2.907,1.786,54334,443,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,0.91,N/A,N/A
+87,Western Europe,Italy,568178000,2.726,3,2.677,2.286,2440,447.22,Information and communication,Publishing activities,1,N/A,N/A
+4061,Northern America,United States of America,2420000000,3.274,4.084,3,2.143,425,448,Transportation And Storage,Air transport,0.265786215,Operation,Operation
+4061,Northern America,United States of America,2420000000,3.274,4.084,3,2.143,425,448,Accommodation And Food Service Activities,Accommodation,0.265786215,Operation,Operation
+4061,Northern America,United States of America,2420000000,3.274,4.084,3,2.143,425,448,"Professional, Scientific And Technical Activities",Employment activities,0.202641354,Operation,Operation
+4061,Northern America,United States of America,2420000000,3.274,4.084,3,2.143,425,448,"Professional, Scientific And Technical Activities","Travel agency, tour operator and other reservation service and related activities",0.265786215,Operation,Operation
+1295,Western Europe,Italy,419900000,2.476,3.102,1.754,2.214,405,462,Public Administration And Defence; Compulsory Social Security,Education,1,N/A,N/A
+2677,Northern America,Canada,843323000,2.912,3.2,3,2.286,8,482,Financial and insurance activities,"Financial service activities, except insurance and pension funding",1,Operation,Operation
+10372,Western Europe,Germany,571300000,3.264,3.469,3,3.214,1210,529,Information and communication,Information service activities,1,N/A,N/A
+3429,Western Europe,Sweden,14800000000,2.479,2.62,2.607,2.071,10617,558,Construction,Specialised construction activities,1,N/A,N/A
+2951,Northern America,United States of America,1576551000,1.803,1,3,1.81,375,574,Manufacturing,Manufacture of machinery and equipment n.e.c.,1,N/A,N/A
+3546,Western Europe,Netherlands,669369000,1.939,1,3,2.357,735,581,Manufacturing,Manufacture of machinery and equipment n.e.c.,1,N/A,N/A
+1757,Northern America,United States of America,4183800000,2.902,3.086,2.9,2.571,254,584,Information and communication,Publishing activities,0.429856544,Operation,Operation
+1757,Northern America,United States of America,4183800000,2.902,3.086,2.9,2.571,254,584,Information and communication,"Computer programming, consultancy and related activities",0.429856544,Operation,Operation
+1757,Northern America,United States of America,4183800000,2.902,3.086,2.9,2.571,254,584,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.140286913,Operation,Operation
+10589,Western Europe,United Kingdom of Great Britain and Northern Ireland,20215000,3.446,3.876,2.915,3.31,570.2,598.2,Manufacturing,Manufacture of machinery and equipment n.e.c.,1,N/A,N/A
+4051,Northern America,United States of America,1583900000,3.568,4.897,3,1.857,8574.81,599.49,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",0.999245744,Operation,Operation
+4051,Northern America,United States of America,1583900000,3.568,4.897,3,1.857,8574.81,599.49,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.000754256,Operation,Operation
+1784,Western Europe,Belgium,506778000,2.651,3.213,1.833,2.619,484,610,Public Administration And Defence; Compulsory Social Security,Education,1,N/A,N/A
+3048,Western Europe,United Kingdom of Great Britain and Northern Ireland,2955207000,3.13,3.25,2.8,3.31,17835,628,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,1,N/A,N/A
+3179,Western Europe,United Kingdom of Great Britain and Northern Ireland,693000000,3.134,3.633,2.992,2.405,81,636,Information and communication,Publishing activities,0.033478894,Operation,Operation
+3179,Western Europe,United Kingdom of Great Britain and Northern Ireland,693000000,3.134,3.633,2.992,2.405,81,636,"Professional, Scientific And Technical Activities","Travel agency, tour operator and other reservation service and related activities",0.966521106,Operation,Operation
+10233,Western Europe,Italy,642500000,3.329,3.75,3.27,2.643,1344,690,Manufacturing,Manufacture of machinery and equipment n.e.c.,1,N/A,N/A
+2193,Northern America,United States of America,3010000000,3.526,4.739,3,1.976,14499,780,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",1,Operation,Operation
+3289,Western Europe,Netherlands,578600000,2.827,3.144,2.981,2.071,1969.17,784.22,Information and communication,Publishing activities,0.528301887,N/A,N/A
+3289,Western Europe,Netherlands,578600000,2.827,3.144,2.981,2.071,1969.17,784.22,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.471698113,N/A,N/A
+3498,Western Europe,Sweden,10300000000,2.817,3.262,2.394,2.524,38927,853,Construction,Civil engineering,1,N/A,N/A
+2292,Western Europe,United Kingdom of Great Britain and Northern Ireland,773000000,3.002,3.051,2.987,2.933,874,895,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,1,N/A,N/A
+10432,Western Europe,Sweden,4006800000,3.255,3.5,3,3.119,97,909,Manufacturing,"Manufacture of computer, electronic and optical products",1,Operation,Operation
+1170,Northern America,Canada,2664900000,3.213,3.913,2.977,2.238,22879,910,Manufacturing,Manufacture of chemicals and chemical products,0.62,N/A,N/A
+1170,Northern America,Canada,2664900000,3.213,3.913,2.977,2.238,22879,910,Manufacturing,Other manufacturing,0.19,N/A,N/A
+1170,Northern America,Canada,2664900000,3.213,3.913,2.977,2.238,22879,910,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.19,N/A,N/A
+2545,Western Europe,Sweden,567000000,3.903,4.9,3,3.19,62.86,942.93,Transportation And Storage,Air transport,1,N/A,N/A
+1368,Western Europe,Italy,502076000,2.953,3.136,2.86,2.738,1036.8,948.05,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.86442902,End-use,End-use
+1368,Western Europe,Italy,502076000,2.953,3.136,2.86,2.738,1036.8,948.05,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.13557098,End-use,End-use
+1160,Western Europe,United Kingdom of Great Britain and Northern Ireland,754600000,2.729,3,2.988,1.929,1293,1005,Information and communication,"Computer programming, consultancy and related activities",0.114895309,N/A,N/A
+1160,Western Europe,United Kingdom of Great Britain and Northern Ireland,754600000,2.729,3,2.988,1.929,1293,1005,"Professional, scientific and technical activities","Activities of advertising, market research and public relations",0.885104691,N/A,N/A
+4146,Western Europe,Netherlands,1070000000,3.245,3.741,2.607,3.119,19413,1066,Construction,Civil engineering,0.8,N/A,N/A
+4146,Western Europe,Netherlands,1070000000,3.245,3.741,2.607,3.119,19413,1066,Construction,Specialised construction activities,0.2,N/A,N/A
+3114,Northern America,United States of America,965617000,2.895,2.75,3.125,2.881,27859,1082,Manufacturing,Manufacture of chemicals and chemical products,0.333333333,Raw materials,Raw materials
+3114,Northern America,United States of America,965617000,2.895,2.75,3.125,2.881,27859,1082,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.333333333,Raw materials,Raw materials
+3114,Northern America,United States of America,965617000,2.895,2.75,3.125,2.881,27859,1082,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.333333333,Raw materials,Raw materials
+3102,Northern America,United States of America,555124000,2.403,2.884,1.9,2.143,291,1086,Information and communication,Publishing activities,0.5,Operation,Operation
+3102,Northern America,United States of America,555124000,2.403,2.884,1.9,2.143,291,1086,Public Administration And Defence; Compulsory Social Security,Education,0.5,Operation,Operation
+3985,Western Europe,Denmark,14500000000,2.17,2.491,2.286,1.452,1057,1112,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.058928571,Disposal ,Disposal 
+3985,Western Europe,Denmark,14500000000,2.17,2.491,2.286,1.452,1057,1112,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.058928571,End-use,End-use
+3985,Western Europe,Denmark,14500000000,2.17,2.491,2.286,1.452,1057,1112,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.058928571,Operation,Operation
+3985,Western Europe,Denmark,14500000000,2.17,2.491,2.286,1.452,1057,1112,Information and communication,Telecommunications,0.941071429,Disposal ,Disposal 
+3985,Western Europe,Denmark,14500000000,2.17,2.491,2.286,1.452,1057,1112,Information and communication,Telecommunications,0.941071429,End-use,End-use
+3985,Western Europe,Denmark,14500000000,2.17,2.491,2.286,1.452,1057,1112,Information and communication,Telecommunications,0.941071429,Operation,Operation
+10045,Western Europe,Luxembourg,759000000,3.022,3.65,2,3.119,134.8,1142.8,Information and communication,Telecommunications,1,Operation,Operation
+1925,Northern America,United States of America,1318471000,2.948,3.097,3,2.619,358,1166,Manufacturing,Manufacture of chemicals and chemical products,0.06484936,Disposal ,Disposal 
+1925,Northern America,United States of America,1318471000,2.948,3.097,3,2.619,358,1166,Information and communication,Publishing activities,0.870301281,Disposal ,Disposal 
+1925,Northern America,United States of America,1318471000,2.948,3.097,3,2.619,358,1166,"Professional, scientific and technical activities",Scientific research and development,0.06484936,Disposal ,Disposal 
+3115,Northern America,United States of America,860205000,2.794,3.2,3,1.814,294,1178,"Professional, Scientific And Technical Activities",Employment activities,1,Operation,Operation
+3555,Northern America,United States of America,1020000000,3.531,4.373,3.267,2.333,1471.12,1204.88,Manufacturing,Manufacture of chemicals and chemical products,1,Manufacturing,Manufacturing
+1637,Western Europe,France,1160000000,2.97,3,3,2.881,3389,1220,"Professional, scientific and technical activities",Activities of head offices and management consultancy,1,Other,Other
+1637,Western Europe,France,1160000000,2.97,3,3,2.881,3389,1220,"Professional, scientific and technical activities",Activities of head offices and management consultancy,1,Transportation,Transportation
+1366,Western Europe,United Kingdom of Great Britain and Northern Ireland,2611800000,2.39,2.32,2.938,1.857,37827,1250,Construction,Construction of residential and non-residential buildings,1,N/A,N/A
+10314,Western Europe,Germany,1018100000,2.961,3.013,2.992,2.833,2295,1303,"Professional, Scientific And Technical Activities",Employment activities,1,N/A,N/A
+1476,Western Europe,Germany,1230000000,3.254,3.55,3,3.024,1500,1324,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,Raw materials,Raw materials
+1476,Western Europe,Germany,1230000000,3.254,3.55,3,3.024,1500,1324,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,End-use,End-use
+1226,Western Europe,Switzerland,828744000,3.128,3.6,3.1,2.31,441,1357,Wholesale And Retail Trade,Retail trade,0.5,N/A,N/A
+1226,Western Europe,Switzerland,828744000,3.128,3.6,3.1,2.31,441,1357,Manufacturing,Other manufacturing,0.5,N/A,N/A
+2589,Northern America,United States of America,852427000,3.067,3.047,3.15,3.005,87.79,1375.38,Information and communication,Publishing activities,1,N/A,N/A
+3705,Western Europe,Belgium,2854600000,2.252,2.265,2.267,2.214,8072,1389,Manufacturing,"Manufacture of computer, electronic and optical products",0.061115784,Operation,Operation
+3705,Western Europe,Belgium,2854600000,2.252,2.265,2.267,2.214,8072,1389,Information and communication,Telecommunications,0.938884216,Operation,Operation
+98,Western Europe,Germany,616338000,3.376,3.821,3,3.024,4709.6,1410.4,Transportation And Storage,"Warehousing, storage and support activities for transportation",1,N/A,N/A
+4215,Western Europe,Netherlands,417000000,2.913,3.327,2,3.262,1560,1428,Manufacturing,Other manufacturing,0.94,Manufacturing,Manufacturing
+4215,Western Europe,Netherlands,417000000,2.913,3.327,2,3.262,1560,1428,Manufacturing,Other manufacturing,0.94,Other,Other
+4215,Western Europe,Netherlands,417000000,2.913,3.327,2,3.262,1560,1428,Manufacturing,Other manufacturing,0.94,Operation,Operation
+4215,Western Europe,Netherlands,417000000,2.913,3.327,2,3.262,1560,1428,Financial and insurance activities,"Insurance, reinsurance and pension funding, except compulsory social security",0.06,Manufacturing,Manufacturing
+4215,Western Europe,Netherlands,417000000,2.913,3.327,2,3.262,1560,1428,Financial and insurance activities,"Insurance, reinsurance and pension funding, except compulsory social security",0.06,Other,Other
+4215,Western Europe,Netherlands,417000000,2.913,3.327,2,3.262,1560,1428,Financial and insurance activities,"Insurance, reinsurance and pension funding, except compulsory social security",0.06,Operation,Operation
+3942,Northern America,United States of America,849300000,3.084,3.093,3,3.167,329,1476,Information and communication,Publishing activities,0.9339254,Operation,Operation
+3942,Northern America,United States of America,849300000,3.084,3.093,3,3.167,329,1476,Information and communication,"Computer programming, consultancy and related activities",0.0660746,Operation,Operation
+2265,Western Europe,France,573000000,3.071,3.638,2.419,2.833,987,1476,Financial and insurance activities,"Insurance, reinsurance and pension funding, except compulsory social security",0.856643357,N/A,N/A
+2265,Western Europe,France,573000000,3.071,3.638,2.419,2.833,987,1476,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,0.143356643,N/A,N/A
+3936,Western Europe,Netherlands,468000000,2.872,2.93,2.855,2.786,10900,1477,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,1,N/A,N/A
+3160,Western Europe,France,1600000000,2.903,3.675,2,2.595,23843,1535,Financial And Insurance Activities,Real estate activities,0.03,N/A,N/A
+3160,Western Europe,France,1600000000,2.903,3.675,2,2.595,23843,1535,Education,Human health activities,0.04,N/A,N/A
+3160,Western Europe,France,1600000000,2.903,3.675,2,2.595,23843,1535,Education,Residential care activities,0.87,N/A,N/A
+3160,Western Europe,France,1600000000,2.903,3.675,2,2.595,23843,1535,Education,Social work activities without accommodation,0.06,N/A,N/A
+2807,Western Europe,Malta,435800000,4.006,4.699,3.309,3.595,84709,1537,Transportation And Storage,Water transport,0.824919688,Transportation,Transportation
+2807,Western Europe,Malta,435800000,4.006,4.699,3.309,3.595,84709,1537,"Professional, Scientific And Technical Activities","Travel agency, tour operator and other reservation service and related activities",0.175080312,Transportation,Transportation
+1358,Western Europe,Germany,1058223000,2.317,2.182,2.783,2,141933,1558,"Professional, scientific and technical activities",Activities of head offices and management consultancy,1,N/A,N/A
+1078,Northern America,United States of America,6120000000,3.068,3.8,3.039,1.786,8825,1597,Manufacturing,Manufacture of chemicals and chemical products,0.666666667,Operation,Operation
+1078,Northern America,United States of America,6120000000,3.068,3.8,3.039,1.786,8825,1597,Manufacturing,Manufacture of chemicals and chemical products,0.666666667,Manufacturing,Manufacturing
+1078,Northern America,United States of America,6120000000,3.068,3.8,3.039,1.786,8825,1597,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.333333333,Operation,Operation
+1078,Northern America,United States of America,6120000000,3.068,3.8,3.039,1.786,8825,1597,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.333333333,Manufacturing,Manufacturing
+1785,Western Europe,Sweden,827000000,3.01,4,1.95,2.5,22773,1600,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,N/A,N/A
+2132,Western Europe,France,932923000,3.565,4.25,2.945,3.119,28423,1601,Construction,Civil engineering,0.870517928,N/A,N/A
+2132,Western Europe,France,932923000,3.565,4.25,2.945,3.119,28423,1601,Information and communication,Publishing activities,0.129482072,N/A,N/A
+1655,Western Europe,Luxembourg,504771299,2.559,2.891,2.189,2.405,348,1608,Information and communication,Information service activities,0.562946718,Operation,Operation
+1655,Western Europe,Luxembourg,504771299,2.559,2.891,2.189,2.405,348,1608,Information and communication,"Computer programming, consultancy and related activities",0.437053282,Operation,Operation
+1425,Western Europe,United Kingdom of Great Britain and Northern Ireland,1706700000,3.382,3.351,4.818,1.714,2743,1630,Human Health And Social Work Activities,Gambling and betting activities,1,N/A,N/A
+4188,Western Europe,United Kingdom of Great Britain and Northern Ireland,1216795000,2.821,3.565,2.43,1.952,79,1663,Financial and insurance activities,"Insurance, reinsurance and pension funding, except compulsory social security",1,N/A,N/A
+1332,Western Europe,Italy,2341600000,2.682,3.9,1.661,1.714,37280,1714,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Other,Other
+3410,Western Europe,Netherlands,2400000000,3.504,4,3.059,3.143,4815.7,1714.3,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,N/A,N/A
+1091,Western Europe,United Kingdom of Great Britain and Northern Ireland,2350200000,3.07,3.653,2.711,2.452,242.4,1726,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,1,N/A,N/A
+2575,Western Europe,Germany,248316000,2.979,3.1,2.917,2.833,524,1726,"Professional, Scientific And Technical Activities",Employment activities,1,Operation,Operation
+1866,Western Europe,United Kingdom of Great Britain and Northern Ireland,9446500000,2.847,3.097,3,2.214,16309,1741,Financial and insurance activities,"Financial service activities, except insurance and pension funding",0.109542888,Other,Other
+1866,Western Europe,United Kingdom of Great Britain and Northern Ireland,9446500000,2.847,3.097,3,2.214,16309,1741,Financial And Insurance Activities,Real estate activities,0.890457112,Other,Other
+3389,Western Europe,Germany,412000000,2.98,3.9,1.8,2.738,1655,1757,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Manufacturing,Manufacturing
+3785,Western Europe,France,599700000,3.028,4,1.75,2.81,1655.64,1757.36,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,N/A,N/A
+1504,Western Europe,United Kingdom of Great Britain and Northern Ireland,1402367000,3.156,3.744,3,2.286,31283,1758,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1,Other,Other
+2254,Western Europe,Luxembourg,557000000,2.908,2.937,2.926,2.833,556,1783,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,1,N/A,N/A
+1064,Western Europe,France,715000000,3.177,3.742,2.617,2.833,12698,1814,Manufacturing,Manufacture of food products,1,Farming,Farming
+1375,Western Europe,United Kingdom of Great Britain and Northern Ireland,1529800000,3.522,3.775,3.598,2.976,8391,1823,Accommodation And Food Service Activities,Food and beverage service activities,1,Other,Other
+1375,Western Europe,United Kingdom of Great Britain and Northern Ireland,1529800000,3.522,3.775,3.598,2.976,8391,1823,Accommodation And Food Service Activities,Food and beverage service activities,1,Other,Other
+1264,Western Europe,Italy,787770000,3.043,3.4,3,2.452,4485.4,1840.6,Manufacturing,Manufacture of electrical equipment,0.5,Raw materials,Raw materials
+1264,Western Europe,Italy,787770000,3.043,3.4,3,2.452,4485.4,1840.6,Manufacturing,Manufacture of furniture,0.5,Raw materials,Raw materials
+1672,Western Europe,Sweden,49800000000,2.789,3.25,2.596,2.19,4200,1852,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,Operation,Operation
+3311,Western Europe,Netherlands,4950000000,2.85,3.35,2.65,2.19,35400,1880,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.5,Operation,Operation
+3311,Western Europe,Netherlands,4950000000,2.85,3.35,2.65,2.19,35400,1880,Wholesale And Retail Trade,Retail trade,0.5,Operation,Operation
+3573,Western Europe,United Kingdom of Great Britain and Northern Ireland,2240600000,2.848,3.287,2.938,1.952,5919,1945,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.813472823,Transportation,Transportation
+3573,Western Europe,United Kingdom of Great Britain and Northern Ireland,2240600000,2.848,3.287,2.938,1.952,5919,1945,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.813472823,End-use,End-use
+3573,Western Europe,United Kingdom of Great Britain and Northern Ireland,2240600000,2.848,3.287,2.938,1.952,5919,1945,Human Health And Social Work Activities,Sports activities and amusement and recreation activities,0.186527177,Transportation,Transportation
+3573,Western Europe,United Kingdom of Great Britain and Northern Ireland,2240600000,2.848,3.287,2.938,1.952,5919,1945,Human Health And Social Work Activities,Sports activities and amusement and recreation activities,0.186527177,End-use,End-use
+3647,Western Europe,Spain,1310000000,3.853,4.9,3.25,2.69,7867,1949,Manufacturing,Manufacture of other transport equipment,1,Operation,Operation
+3753,Western Europe,United Kingdom of Great Britain and Northern Ireland,51219000,3.224,3.699,2.974,2.667,82,1959,Information and communication,Publishing activities,0.102717763,N/A,N/A
+3753,Western Europe,United Kingdom of Great Britain and Northern Ireland,51219000,3.224,3.699,2.974,2.667,82,1959,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.897282237,N/A,N/A
+3086,Northern America,United States of America,288945000,2.77,4,1.922,1.571,1548.82,1992.79,Manufacturing,Manufacture of chemicals and chemical products,0.000318575,N/A,N/A
+3086,Northern America,United States of America,288945000,2.77,4,1.922,1.571,1548.82,1992.79,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.999681425,N/A,N/A
+1316,Western Europe,Italy,1651017000,3.384,3.441,4.75,1.643,5020,2142,Human Health And Social Work Activities,Gambling and betting activities,1,N/A,N/A
+1696,Western Europe,Finland,2063500000,2.651,3.543,1.975,1.857,2096,2143,Education,Human health activities,1,N/A,N/A
+3042,Western Europe,France,1950000000,2.933,3.503,2,3.024,2682,2164,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,Other,Other
+3042,Western Europe,France,1950000000,2.933,3.503,2,3.024,2682,2164,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,Other,Other
+4155,Western Europe,Germany,3610000000,2.922,3.015,2.858,2.833,30240,2205,Construction,Civil engineering,0.052075376,Operation,Operation
+4155,Western Europe,Germany,3610000000,2.922,3.015,2.858,2.833,30240,2205,Construction,Specialised construction activities,0.318309142,Operation,Operation
+4155,Western Europe,Germany,3610000000,2.922,3.015,2.858,2.833,30240,2205,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,0.266233766,Operation,Operation
+4155,Western Europe,Germany,3610000000,2.922,3.015,2.858,2.833,30240,2205,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,0.363381716,Operation,Operation
+2709,Northern America,United States of America,1126816000,2.577,3,2.9,1.429,1219,2226,Information and communication,"Computer programming, consultancy and related activities",1,Transportation,Transportation
+2709,Northern America,United States of America,1126816000,2.577,3,2.9,1.429,1219,2226,Information and communication,"Computer programming, consultancy and related activities",1,End-use,End-use
+1564,Western Europe,United Kingdom of Great Britain and Northern Ireland,581000000,2.822,3,3,2.286,426,2280,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",1,N/A,N/A
+1079,Western Europe,Luxembourg,715000000,3.083,3.25,3,2.881,2203,2288,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,1,N/A,N/A
+1776,Western Europe,Norway,645700000,3.017,3.509,3.006,2.143,180.1,2298.2,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.999736422,N/A,N/A
+1776,Western Europe,Norway,645700000,3.017,3.509,3.006,2.143,180.1,2298.2,Manufacturing,"Repair, maintenance and installation of machinery and equipment",0.000263578,N/A,N/A
+1437,Western Europe,Sweden,19900000000,3.032,3.643,3.034,1.929,37,2299,Financial and insurance activities,"Financial service activities, except insurance and pension funding",0.569989422,N/A,N/A
+1437,Western Europe,Sweden,19900000000,3.032,3.643,3.034,1.929,37,2299,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.430010578,N/A,N/A
+1926,Western Europe,France,569700000,2.96,3.084,3,2.69,7166,2386,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",1,Other,Other
+10286,Western Europe,United Kingdom of Great Britain and Northern Ireland,2120000000,2.928,3.269,3.011,2.214,16912,2388,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,1,N/A,N/A
+3438,Northern America,United States of America,1680000000,2.861,2.905,2.837,2.81,804,2456,Information and communication,Publishing activities,0.045821049,End-use,End-use
+3438,Northern America,United States of America,1680000000,2.861,2.905,2.837,2.81,804,2456,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,0.954178951,End-use,End-use
+1553,Western Europe,Gibraltar,1754500000,3.507,3.072,5,2.5,892,2497,Human Health And Social Work Activities,Gambling and betting activities,1,N/A,N/A
+1054,Western Europe,France,1250000000,2.885,3.46,1.984,2.929,1375,2510,Public Administration And Defence; Compulsory Social Security,Education,1,Operation,Operation
+2708,Western Europe,France,4180000000,2.662,3,2.25,2.548,84296,2526,Construction,Civil engineering,0.5,Manufacturing,Manufacturing
+2708,Western Europe,France,4180000000,2.662,3,2.25,2.548,84296,2526,Information and communication,Telecommunications,0.5,Manufacturing,Manufacturing
+4192,Western Europe,Italy,797200000,3.407,3.725,2.99,3.333,7.6,2549.4,Wholesale And Retail Trade,Retail trade,1,Other,Other
+3232,Western Europe,Netherlands,2210571000,3.467,4.05,3.08,2.881,4768,2550,Manufacturing,Manufacture of chemicals and chemical products,0.25,N/A,N/A
+3232,Western Europe,Netherlands,2210571000,3.467,4.05,3.08,2.881,4768,2550,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.25,N/A,N/A
+3232,Western Europe,Netherlands,2210571000,3.467,4.05,3.08,2.881,4768,2550,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.5,N/A,N/A
+3310,Western Europe,France,1476111000,2.836,3.042,2.886,2.405,30793,2598,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,1,N/A,N/A
+1799,Northern America,United States of America,2240000000,3.205,4.75,2.25,1.571,59459,2751,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",1,N/A,N/A
+10760,Northern America,United States of America,2787586000,2.736,3.33,2.281,2.214,1916,2808,Transportation And Storage,"Warehousing, storage and support activities for transportation",0.351069886,N/A,N/A
+10760,Northern America,United States of America,2787586000,2.736,3.33,2.281,2.214,1916,2808,Information and communication,Publishing activities,0.366318205,N/A,N/A
+10760,Northern America,United States of America,2787586000,2.736,3.33,2.281,2.214,1916,2808,Education,Human health activities,0.148930114,N/A,N/A
+10760,Northern America,United States of America,2787586000,2.736,3.33,2.281,2.214,1916,2808,Education,Social work activities without accommodation,0.133681795,N/A,N/A
+2616,Western Europe,France,5610000000,2.845,3.405,2.985,1.667,612,2811,Accommodation And Food Service Activities,Food and beverage service activities,0.194410265,N/A,N/A
+2616,Western Europe,France,5610000000,2.845,3.405,2.985,1.667,612,2811,Accommodation And Food Service Activities,Accommodation,0.805589735,N/A,N/A
+1203,Western Europe,United Kingdom of Great Britain and Northern Ireland,1630000000,2.943,3.15,3,2.5,16965,2851,Construction,Construction of residential and non-residential buildings,1,Operation,Operation
+4198,Western Europe,Spain,2210000000,2.707,2.989,2.755,2.143,43950,2936,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,1,Other,Other
+1077,Western Europe,France,1406689000,3.077,3.29,3.12,2.643,3008,3062,"Professional, scientific and technical activities",Scientific research and development,0.5,Transportation,Transportation
+1077,Western Europe,France,1406689000,3.077,3.29,3.12,2.643,3008,3062,"Professional, scientific and technical activities","Other professional, scientific and technical activities",0.5,Transportation,Transportation
+3419,Northern America,United States of America,1850000000,3.77,4.804,3,2.833,568478,3064,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",0.4,N/A,N/A
+3419,Northern America,United States of America,1850000000,3.77,4.804,3,2.833,568478,3064,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.382113821,N/A,N/A
+3419,Northern America,United States of America,1850000000,3.77,4.804,3,2.833,568478,3064,Transportation And Storage,Land transport and transport via pipelines,0.217886179,N/A,N/A
+3683,Western Europe,Denmark,2370000000,2.657,3.3,2,2.286,2673,3067,Manufacturing,"Manufacture of computer, electronic and optical products",1,Other,Other
+3683,Western Europe,Denmark,2370000000,2.657,3.3,2,2.286,2673,3067,Manufacturing,"Manufacture of computer, electronic and optical products",1,Operation,Operation
+1824,Western Europe,United Kingdom of Great Britain and Northern Ireland,3044500000,3.226,3.625,3.233,2.5,108280,3070,Manufacturing,Manufacture of food products,1,Operation,Operation
+1824,Western Europe,United Kingdom of Great Britain and Northern Ireland,3044500000,3.226,3.625,3.233,2.5,108280,3070,Manufacturing,Manufacture of food products,1,Other,Other
+1852,Western Europe,Luxembourg,678999000,2.687,3.098,3,1.571,415.63,3074.36,Information and communication,Publishing activities,0.5,Operation,Operation
+1852,Western Europe,Luxembourg,678999000,2.687,3.098,3,1.571,415.63,3074.36,Information and communication,"Computer programming, consultancy and related activities",0.5,Operation,Operation
+10100,Western Europe,Sweden,13538600000,2.824,3.176,2.943,2.048,614,3089,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.215008494,Operation,Operation
+10100,Western Europe,Sweden,13538600000,2.824,3.176,2.943,2.048,614,3089,Information and communication,Publishing activities,0.5,Operation,Operation
+10100,Western Europe,Sweden,13538600000,2.824,3.176,2.943,2.048,614,3089,Information and communication,"Computer programming, consultancy and related activities",0.284991506,Operation,Operation
+3669,Australia and New Zealand,New Zealand,475078000,2.531,3.04,2.11,2.119,176,3161,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",0.425389002,N/A,N/A
+3669,Australia and New Zealand,New Zealand,475078000,2.531,3.04,2.11,2.119,176,3161,Information and communication,Telecommunications,0.574610998,N/A,N/A
+4075,Western Europe,United Kingdom of Great Britain and Northern Ireland,193600000,3.351,4.358,2.907,2.071,2487,3192,Construction,Construction of residential and non-residential buildings,0.107647086,N/A,N/A
+4075,Western Europe,United Kingdom of Great Britain and Northern Ireland,193600000,3.351,4.358,2.907,2.071,2487,3192,Transportation And Storage,Water transport,0.725142966,N/A,N/A
+4075,Western Europe,United Kingdom of Great Britain and Northern Ireland,193600000,3.351,4.358,2.907,2.071,2487,3192,Transportation And Storage,"Warehousing, storage and support activities for transportation",0.074058385,N/A,N/A
+4075,Western Europe,United Kingdom of Great Britain and Northern Ireland,193600000,3.351,4.358,2.907,2.071,2487,3192,Financial And Insurance Activities,Real estate activities,0.093151562,N/A,N/A
+1243,Western Europe,Sweden,3410000000,2.752,2.961,2.9,2.2,48140,3215,"Professional, Scientific And Technical Activities",Investigation and security activities,1,Other,Other
+3769,Western Europe,Germany,1820000000,2.901,4,1.942,2.071,18137,3248,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,N/A,N/A
+3309,Western Europe,Germany,732700000,2.745,2.7,2.5,3.119,48719,3253,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,Other,Other
+1367,Western Europe,Ireland,744117000,2.027,1.479,1.979,3.071,54564,3311,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.013131,Operation,Operation
+1367,Western Europe,Ireland,744117000,2.027,1.479,1.979,3.071,54564,3311,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.013131,Operation,Operation
+1367,Western Europe,Ireland,744117000,2.027,1.479,1.979,3.071,54564,3311,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",0.012144596,Operation,Operation
+1367,Western Europe,Ireland,744117000,2.027,1.479,1.979,3.071,54564,3311,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",0.012144596,Operation,Operation
+1367,Western Europe,Ireland,744117000,2.027,1.479,1.979,3.071,54564,3311,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.974724405,Operation,Operation
+1367,Western Europe,Ireland,744117000,2.027,1.479,1.979,3.071,54564,3311,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.974724405,Operation,Operation
+2037,Northern America,United States of America,599383000,2.539,3,1.9,2.476,2841,3373,Information and communication,Publishing activities,1,N/A,N/A
+2246,Western Europe,Netherlands,635625000,2.327,2.25,2,2.857,8186,3378,Manufacturing,Manufacture of other transport equipment,1,N/A,N/A
+1400,Western Europe,Italy,1700000000,2.853,3.045,2.857,2.5,5265,3400,Information and communication,"Computer programming, consultancy and related activities",1,Operation,Operation
+1400,Western Europe,Italy,1700000000,2.853,3.045,2.857,2.5,5265,3400,Information and communication,"Computer programming, consultancy and related activities",1,Operation,Operation
+1400,Western Europe,Italy,1700000000,2.853,3.045,2.857,2.5,5265,3400,Information and communication,"Computer programming, consultancy and related activities",1,Operation,Operation
+58,Western Europe,Norway,655579000,3.682,4.566,3.084,2.81,231720,3401,Transportation And Storage,Water transport,0.718942559,Other,Other
+58,Western Europe,Norway,655579000,3.682,4.566,3.084,2.81,231720,3401,Transportation And Storage,Water transport,0.718942559,Other,Other
+58,Western Europe,Norway,655579000,3.682,4.566,3.084,2.81,231720,3401,Accommodation And Food Service Activities,Accommodation,0.281057441,Other,Other
+58,Western Europe,Norway,655579000,3.682,4.566,3.084,2.81,231720,3401,Accommodation And Food Service Activities,Accommodation,0.281057441,Other,Other
+2645,Northern America,United States of America,1561252000,2.895,3.65,2.35,2.19,281,3425,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.333333333,N/A,N/A
+2645,Northern America,United States of America,1561252000,2.895,3.65,2.35,2.19,281,3425,Manufacturing,Other manufacturing,0.333333333,N/A,N/A
+2645,Northern America,United States of America,1561252000,2.895,3.65,2.35,2.19,281,3425,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.333333333,N/A,N/A
+1415,Eastern Asia,China,18200000000,3.091,3.944,3.079,1.571,194982,3486,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.335484407,N/A,N/A
+1415,Eastern Asia,China,18200000000,3.091,3.944,3.079,1.571,194982,3486,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",0.664515593,N/A,N/A
+1195,Western Europe,France,6050000000,3.17,3.859,3.449,1.595,45800,3500,"Agriculture, Forestry And Fishing","Crop and animal production, hunting and related service activities",0.362905898,Farming,Farming
+1195,Western Europe,France,6050000000,3.17,3.859,3.449,1.595,45800,3500,Manufacturing,Manufacture of food products,0.362905898,Farming,Farming
+1195,Western Europe,France,6050000000,3.17,3.859,3.449,1.595,45800,3500,Manufacturing,Other manufacturing,0.091396068,Farming,Farming
+1195,Western Europe,France,6050000000,3.17,3.859,3.449,1.595,45800,3500,"Professional, Scientific And Technical Activities",Employment activities,0.091396068,Farming,Farming
+1195,Western Europe,France,6050000000,3.17,3.859,3.449,1.595,45800,3500,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,0.091396068,Farming,Farming
+10451,Western Europe,France,5280000000,3.091,3.79,2.017,3.119,37806,3509,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Manufacturing,Manufacturing
+10451,Western Europe,France,5280000000,3.091,3.79,2.017,3.119,37806,3509,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Operation,Operation
+2953,Northern America,United States of America,648407000,3.029,3.867,2.986,1.571,21400,3600,Manufacturing,"Manufacture of computer, electronic and optical products",1,N/A,N/A
+1142,Western Europe,United Kingdom of Great Britain and Northern Ireland,716484000,2.943,3.761,2.383,2.143,6347,3709,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.5,Manufacturing,Manufacturing
+1142,Western Europe,United Kingdom of Great Britain and Northern Ireland,716484000,2.943,3.761,2.383,2.143,6347,3709,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.5,Operation,Operation
+1142,Western Europe,United Kingdom of Great Britain and Northern Ireland,716484000,2.943,3.761,2.383,2.143,6347,3709,"Professional, scientific and technical activities",Scientific research and development,0.5,Manufacturing,Manufacturing
+1142,Western Europe,United Kingdom of Great Britain and Northern Ireland,716484000,2.943,3.761,2.383,2.143,6347,3709,"Professional, scientific and technical activities",Scientific research and development,0.5,Operation,Operation
+1939,Northern America,United States of America,2907738000,2.725,2.984,3,1.929,29,3830,Information and communication,Publishing activities,1,Operation,Operation
+1224,Western Europe,Netherlands,1732400000,2.978,3.413,2.9,2.286,32666,3860,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.29468599,Raw materials,Raw materials
+1224,Western Europe,Netherlands,1732400000,2.978,3.413,2.9,2.286,32666,3860,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.70531401,Raw materials,Raw materials
+1162,Western Europe,United Kingdom of Great Britain and Northern Ireland,1123600000,2.857,3.2,2.4,2.786,205.9,3932.5,Information and communication,"Computer programming, consultancy and related activities",1,Operation,Operation
+4205,Western Europe,Italy,362000000,3.304,3.9,3,2.595,14043,4081,Manufacturing,Manufacture of textiles,0.164354644,Other,Other
+4205,Western Europe,Italy,362000000,3.304,3.9,3,2.595,14043,4081,Manufacturing,Manufacture of leather and related products of other materials,0.662092883,Other,Other
+4205,Western Europe,Italy,362000000,3.304,3.9,3,2.595,14043,4081,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",0.173552473,Other,Other
+1225,Western Europe,Belgium,3360000000,2.686,3.012,2.827,1.929,24256,4085,"Professional, Scientific And Technical Activities",Employment activities,1,N/A,N/A
+3313,Western Europe,Italy,462689000,3.064,3.094,2.974,3.119,1044,4099,Information and communication,"Computer programming, consultancy and related activities",0.895069907,End-use,End-use
+3313,Western Europe,Italy,462689000,3.064,3.094,2.974,3.119,1044,4099,Information and communication,"Computer programming, consultancy and related activities",0.895069907,Operation,Operation
+3313,Western Europe,Italy,462689000,3.064,3.094,2.974,3.119,1044,4099,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.104930093,End-use,End-use
+3313,Western Europe,Italy,462689000,3.064,3.094,2.974,3.119,1044,4099,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.104930093,Operation,Operation
+1349,Western Europe,Netherlands,943000000,3.284,3.895,3,2.524,2071,4120,Transportation And Storage,"Warehousing, storage and support activities for transportation",1,Operation,Operation
+2703,Northern America,United States of America,2550000000,2.79,3.101,2.9,2.095,1506,4151,Financial and insurance activities,Activities auxiliary to financial services and insurance activities,1,N/A,N/A
+3725,Western Europe,Luxembourg,649600000,3.346,3.802,3.211,2.69,15211,4263,Manufacturing,Manufacture of food products,1,Farming,Farming
+2380,Northern America,United States of America,5693603000,2.64,3.168,2.042,2.405,441976,4397,Construction,Civil engineering,0.168258834,N/A,N/A
+2380,Northern America,United States of America,5693603000,2.64,3.168,2.042,2.405,441976,4397,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,0.168258834,N/A,N/A
+2380,Northern America,United States of America,5693603000,2.64,3.168,2.042,2.405,441976,4397,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,0.663482333,N/A,N/A
+2690,Western Europe,United Kingdom of Great Britain and Northern Ireland,720000000,2.745,2.5,2.9,3,18069,4467,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",1,N/A,N/A
+3518,Northern America,United States of America,2849600000,3.504,3.953,3.15,3.119,2807,4488,Manufacturing,Manufacture of rubber and plastic products,0.333333333,Raw materials,Raw materials
+3518,Northern America,United States of America,2849600000,3.504,3.953,3.15,3.119,2807,4488,Manufacturing,Manufacture of rubber and plastic products,0.333333333,Operation,Operation
+3518,Northern America,United States of America,2849600000,3.504,3.953,3.15,3.119,2807,4488,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.333333333,Raw materials,Raw materials
+3518,Northern America,United States of America,2849600000,3.504,3.953,3.15,3.119,2807,4488,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.333333333,Operation,Operation
+3518,Northern America,United States of America,2849600000,3.504,3.953,3.15,3.119,2807,4488,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.333333333,Raw materials,Raw materials
+3518,Northern America,United States of America,2849600000,3.504,3.953,3.15,3.119,2807,4488,"Professional, Scientific And Technical Activities","Office administrative, office support and other business support activities",0.333333333,Operation,Operation
+1281,Western Europe,France,1089600000,3.011,3.407,3.1,2.19,828,4546,Wholesale And Retail Trade,Retail trade,1,End-use,End-use
+1609,Western Europe,United Kingdom of Great Britain and Northern Ireland,6253400000,3.329,3.836,2.92,2.905,95262,4562,Wholesale And Retail Trade,Wholesale and retail trade and repair of motor vehicles and motorcycles,1,Other,Other
+1181,Western Europe,United Kingdom of Great Britain and Northern Ireland,3050000000,2.853,3.387,2.882,1.857,18199,4680,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,N/A,N/A
+3908,Western Europe,Denmark,2380000000,3.219,4.235,2.653,2.071,6511,4695,Transportation And Storage,Land transport and transport via pipelines,0.394880403,Other,Other
+3908,Western Europe,Denmark,2380000000,3.219,4.235,2.653,2.071,6511,4695,Transportation And Storage,Water transport,0.298363407,Other,Other
+3908,Western Europe,Denmark,2380000000,3.219,4.235,2.653,2.071,6511,4695,Transportation And Storage,Air transport,0.298363407,Other,Other
+3908,Western Europe,Denmark,2380000000,3.219,4.235,2.653,2.071,6511,4695,Transportation And Storage,"Warehousing, storage and support activities for transportation",0.008392782,Other,Other
+10702,Western Europe,Luxembourg,534970000,3.322,3.9,3.1,2.548,5656.54,4697.11,Manufacturing,Manufacture of food products,1,Farming,Farming
+3991,Western Europe,Sweden,9850000000,2.729,3.31,3,1.357,842,4743,Financial And Insurance Activities,Real estate activities,1,N/A,N/A
+1262,Western Europe,Italy,3510000000,2.67,3.1,3,1.5,6176.45,4761.1,Information and communication,Publishing activities,1,Operation,Operation
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,Manufacturing,Other manufacturing,0.31,Manufacturing,Manufacturing
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,Manufacturing,Other manufacturing,0.31,Raw materials,Raw materials
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,Manufacturing,Other manufacturing,0.31,Manufacturing,Manufacturing
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,Manufacturing,Other manufacturing,0.31,Disposal ,Disposal 
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,Manufacturing,Other manufacturing,0.31,Manufacturing,Manufacturing
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,Manufacturing,Other manufacturing,0.31,Raw materials,Raw materials
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,Manufacturing,Other manufacturing,0.31,Manufacturing,Manufacturing
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,Manufacturing,Other manufacturing,0.31,Disposal ,Disposal 
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.69,Manufacturing,Manufacturing
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.69,Raw materials,Raw materials
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.69,Manufacturing,Manufacturing
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.69,Disposal ,Disposal 
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.69,Manufacturing,Manufacturing
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.69,Raw materials,Raw materials
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.69,Manufacturing,Manufacturing
+1190,Western Europe,United Kingdom of Great Britain and Northern Ireland,2850000000,2.548,2.495,2.905,2.214,134278,4842,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.69,Disposal ,Disposal 
+3256,Western Europe,Sweden,1498917000,2.634,2.579,2.711,2.643,38064,4997,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",0.052370166,N/A,N/A
+3256,Western Europe,Sweden,1498917000,2.634,2.579,2.711,2.643,38064,4997,Construction,Specialised construction activities,0.947629834,N/A,N/A
+1074,Western Europe,France,1283277000,3.37,3.9,3.3,2.5,13537.81,5076.68,Manufacturing,Manufacture of food products,1,Operation,Operation
+1557,Western Europe,France,2402800000,3.018,3.4,2.995,2.357,41609,5271,Wholesale And Retail Trade,Retail trade,0.05,Raw materials,Raw materials
+1557,Western Europe,France,2402800000,3.018,3.4,2.995,2.357,41609,5271,Wholesale And Retail Trade,Retail trade,0.05,Raw materials,Raw materials
+1557,Western Europe,France,2402800000,3.018,3.4,2.995,2.357,41609,5271,Transportation And Storage,Land transport and transport via pipelines,0.316666667,Raw materials,Raw materials
+1557,Western Europe,France,2402800000,3.018,3.4,2.995,2.357,41609,5271,Transportation And Storage,Land transport and transport via pipelines,0.316666667,Raw materials,Raw materials
+1557,Western Europe,France,2402800000,3.018,3.4,2.995,2.357,41609,5271,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.633333333,Raw materials,Raw materials
+1557,Western Europe,France,2402800000,3.018,3.4,2.995,2.357,41609,5271,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.633333333,Raw materials,Raw materials
+2126,Western Europe,Spain,843000000,2.996,3.75,2,2.833,380.42,5296.02,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.065718391,Disposal ,Disposal 
+2126,Western Europe,Spain,843000000,2.996,3.75,2,2.833,380.42,5296.02,Education,Human health activities,0.934281609,Disposal ,Disposal 
+1208,Western Europe,United Kingdom of Great Britain and Northern Ireland,3371500000,3.16,3.602,2.807,2.786,41015,5405,"Professional, scientific and technical activities",Veterinary activities,1,Operation,Operation
+1343,Western Europe,Finland,494000000,2.92,3.192,3,2.333,3301,5431,"Professional, Scientific And Technical Activities",Rental and leasing activities,1,Operation,Operation
+1213,Western Europe,Switzerland,4440000000,3.129,3.9,2.675,2.286,7600,5500,Manufacturing,Manufacture of chemicals and chemical products,0.8194,N/A,N/A
+1213,Western Europe,Switzerland,4440000000,3.129,3.9,2.675,2.286,7600,5500,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.1806,N/A,N/A
+1198,Western Europe,Austria,1855872600,2.972,3.028,2.827,3.048,35049,5536,Manufacturing,Manufacture of electrical equipment,1,Raw materials,Raw materials
+1198,Western Europe,Austria,1855872600,2.972,3.028,2.827,3.048,35049,5536,Manufacturing,Manufacture of electrical equipment,1,Manufacturing,Manufacturing
+1198,Western Europe,Austria,1855872600,2.972,3.028,2.827,3.048,35049,5536,Manufacturing,Manufacture of electrical equipment,1,Disposal ,Disposal 
+66,Western Europe,France,4800000000,2.971,3.215,3.593,1.786,17567,5803,Information and communication,"Motion picture, video and television programme production, sound recording and music publishing activities",0.696919234,N/A,N/A
+66,Western Europe,France,4800000000,2.971,3.215,3.593,1.786,17567,5803,Human Health And Social Work Activities,Gambling and betting activities,0.303080766,N/A,N/A
+1491,Northern America,United States of America,1870000000,2.99,3.229,2.8,2.786,1012,5847,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,N/A,N/A
+2339,Northern America,United States of America,790723000,2.803,3.901,2.184,1.571,183,6091,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.110049333,End-use,End-use
+2339,Northern America,United States of America,790723000,2.803,3.901,2.184,1.571,183,6091,Information and communication,Telecommunications,0.889950667,End-use,End-use
+63,Western Europe,France,1926233000,2.908,3.65,1.797,2.905,12879,6132,"Professional, scientific and technical activities",Scientific research and development,0.5,Operation,Operation
+63,Western Europe,France,1926233000,2.908,3.65,1.797,2.905,12879,6132,"Professional, scientific and technical activities",Scientific research and development,0.5,Disposal ,Disposal 
+63,Western Europe,France,1926233000,2.908,3.65,1.797,2.905,12879,6132,Education,Human health activities,0.5,Operation,Operation
+63,Western Europe,France,1926233000,2.908,3.65,1.797,2.905,12879,6132,Education,Human health activities,0.5,Disposal ,Disposal 
+2209,Western Europe,Germany,306500000,3.007,3.968,1.948,2.548,6364,6257,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.920982736,N/A,N/A
+2209,Western Europe,Germany,306500000,3.007,3.968,1.948,2.548,6364,6257,Transportation And Storage,"Warehousing, storage and support activities for transportation",0.079017264,N/A,N/A
+3665,Northern America,United States of America,4300000000,3.149,3,3,3.595,1034,6364.095,Information and communication,Publishing activities,1,N/A,N/A
+10801,Western Europe,United Kingdom of Great Britain and Northern Ireland,1298700000,3.176,3.469,2.942,2.929,4326.6,6568,Manufacturing,"Manufacture of computer, electronic and optical products",0.333333333,N/A,N/A
+10801,Western Europe,United Kingdom of Great Britain and Northern Ireland,1298700000,3.176,3.469,2.942,2.929,4326.6,6568,Information and communication,"Computer programming, consultancy and related activities",0.333333333,N/A,N/A
+10801,Western Europe,United Kingdom of Great Britain and Northern Ireland,1298700000,3.176,3.469,2.942,2.929,4326.6,6568,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,0.333333333,N/A,N/A
+1511,Western Europe,Portugal,715595511,3.054,3.504,2.799,2.548,21603,6759,Manufacturing,Manufacture of chemicals and chemical products,1,N/A,N/A
+2026,Northern America,United States of America,1900000000,2.96,3.25,2.65,2.81,66,7096,Information and communication,Publishing activities,1,N/A,N/A
+1204,Western Europe,Germany,1490000000,3.162,3.702,2.862,2.548,4920,7419,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.817,Operation,Operation
+1204,Western Europe,Germany,1490000000,3.162,3.702,2.862,2.548,4920,7419,Manufacturing,"Repair, maintenance and installation of machinery and equipment",0.183,Operation,Operation
+2143,Northern America,United States of America,2767100000,2.668,3.159,2.768,1.667,161700,7500,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,1,N/A,N/A
+2977,Northern America,United States of America,721900000,2.845,3.633,2.049,2.381,404,7644,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.265479983,N/A,N/A
+2977,Northern America,United States of America,721900000,2.845,3.633,2.049,2.381,404,7644,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.234520017,N/A,N/A
+2977,Northern America,United States of America,721900000,2.845,3.633,2.049,2.381,404,7644,"Professional, scientific and technical activities",Scientific research and development,0.265479983,N/A,N/A
+2977,Northern America,United States of America,721900000,2.845,3.633,2.049,2.381,404,7644,"Professional, scientific and technical activities","Activities of advertising, market research and public relations",0.234520017,N/A,N/A
+1252,Western Europe,Italy,1890600000,2.926,3.134,3.088,2.357,317414,7644,Manufacturing,Manufacture of paper and paper products,1,Disposal ,Disposal 
+1252,Western Europe,Italy,1890600000,2.926,3.134,3.088,2.357,317414,7644,Manufacturing,Manufacture of paper and paper products,1,Operation,Operation
+1239,Western Europe,Germany,1392163000,2.023,1,3,2.69,7650,7760,Transportation And Storage,"Warehousing, storage and support activities for transportation",1,N/A,N/A
+2517,Western Europe,United Kingdom of Great Britain and Northern Ireland,871900000,2.805,3.75,2,2.071,8153,7799,Public Administration And Defence; Compulsory Social Security,Education,0.5,N/A,N/A
+2517,Western Europe,United Kingdom of Great Britain and Northern Ireland,871900000,2.805,3.75,2,2.071,8153,7799,Education,Social work activities without accommodation,0.5,N/A,N/A
+3320,Western Europe,Netherlands,338730000,2.998,3.988,1.67,2.81,3730,7845,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.977514391,N/A,N/A
+3320,Western Europe,Netherlands,338730000,2.998,3.988,1.67,2.81,3730,7845,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.022485609,N/A,N/A
+2169,Northern America,United States of America,6430000000,2.777,3.141,3,1.857,1877,7869,Information and communication,"Motion picture, video and television programme production, sound recording and music publishing activities",1,Other,Other
+3642,Northern America,United States of America,195000000,3.376,3.75,2.87,3.31,196,7919,Manufacturing,Manufacture of rubber and plastic products,1,Raw materials,Raw materials
+10234,Western Europe,France,629000000,2.737,2.941,2.431,2.738,7065,8083,Manufacturing,Manufacture of rubber and plastic products,0.210721868,Operation,Operation
+10234,Western Europe,France,629000000,2.737,2.941,2.431,2.738,7065,8083,Manufacturing,Manufacture of other non-metallic mineral products,0.146496815,Operation,Operation
+10234,Western Europe,France,629000000,2.737,2.941,2.431,2.738,7065,8083,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.210721868,Operation,Operation
+10234,Western Europe,France,629000000,2.737,2.941,2.431,2.738,7065,8083,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.210721868,Operation,Operation
+10234,Western Europe,France,629000000,2.737,2.941,2.431,2.738,7065,8083,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.11066879,Operation,Operation
+10234,Western Europe,France,629000000,2.737,2.941,2.431,2.738,7065,8083,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,0.11066879,Operation,Operation
+1229,Western Europe,Germany,9300000000,2.352,2.13,2.9,2.095,115383,8264,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.188333333,N/A,N/A
+1229,Western Europe,Germany,9300000000,2.352,2.13,2.9,2.095,115383,8264,Construction,Specialised construction activities,0.811666667,N/A,N/A
+1272,Western Europe,Italy,2363600000,3.175,3.8,2.977,2.286,10729.51,8302.15,Manufacturing,Manufacture of machinery and equipment n.e.c.,1,Other,Other
+1272,Western Europe,Italy,2363600000,3.175,3.8,2.977,2.286,10729.51,8302.15,Manufacturing,Manufacture of machinery and equipment n.e.c.,1,Operation,Operation
+3355,Northern America,United States of America,4573200000,2.474,2.947,2.236,1.905,832,8770,Information and communication,Information service activities,0.944625407,N/A,N/A
+3355,Northern America,United States of America,4573200000,2.474,2.947,2.236,1.905,832,8770,Information and communication,"Computer programming, consultancy and related activities",0.055374593,N/A,N/A
+1722,Western Europe,Italy,355000000,3.244,4,2.471,2.81,5242,8772,Manufacturing,Manufacture of chemicals and chemical products,0.101442741,N/A,N/A
+1722,Western Europe,Italy,355000000,3.244,4,2.471,2.81,5242,8772,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.898557259,N/A,N/A
+1975,Northern America,United States of America,992452000,3.012,3.9,3,1.429,1605,8843,Manufacturing,Manufacture of machinery and equipment n.e.c.,1,Raw materials,Raw materials
+10700,Western Europe,France,568241000,3.04,3.243,3.028,2.69,14644,8895,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,1,N/A,N/A
+2226,Western Europe,Luxembourg,926836000,3.081,3.562,2.251,3.214,37881,8966,Transportation And Storage,"Warehousing, storage and support activities for transportation",1,N/A,N/A
+2581,Northern America,United States of America,5501907000,2.89,3.523,2.959,1.667,104515,8991,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,Raw materials,Raw materials
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Manufacturing,Manufacture of food products,0.131396046,Manufacturing,Manufacturing
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Manufacturing,Manufacture of food products,0.131396046,End-use,End-use
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Manufacturing,Manufacture of wearing apparel,0.065698023,Manufacturing,Manufacturing
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Manufacturing,Manufacture of wearing apparel,0.065698023,End-use,End-use
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Manufacturing,Manufacture of chemicals and chemical products,0.234012383,Manufacturing,Manufacturing
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Manufacturing,Manufacture of chemicals and chemical products,0.234012383,End-use,End-use
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Wholesale And Retail Trade,Retail trade,0.299710405,Manufacturing,Manufacturing
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Wholesale And Retail Trade,Retail trade,0.299710405,End-use,End-use
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Information and communication,Information service activities,0.134591572,Manufacturing,Manufacturing
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,Information and communication,Information service activities,0.134591572,End-use,End-use
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.134591572,Manufacturing,Manufacturing
+1248,Western Europe,United Kingdom of Great Britain and Northern Ireland,2045400000,3.017,3.658,3.004,1.881,5520.24,9060.42,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.134591572,End-use,End-use
+3342,Western Europe,Belgium,976893000,3.294,3.944,3,2.476,19518,9123,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.905864827,N/A,N/A
+3342,Western Europe,Belgium,976893000,3.294,3.944,3,2.476,19518,9123,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.094135173,N/A,N/A
+10764,Northern America,United States of America,656323000,2.815,3.939,2.124,1.619,4147,9989,Manufacturing,Other manufacturing,0.612154381,N/A,N/A
+10764,Northern America,United States of America,656323000,2.815,3.939,2.124,1.619,4147,9989,"Professional, scientific and technical activities",Scientific research and development,0.387845619,N/A,N/A
+1766,Northern America,United States of America,782009000,2.996,3.75,2,2.833,1590,10254,Education,Human health activities,1,Manufacturing,Manufacturing
+3916,Western Europe,Spain,436699000,3.023,3.171,3,2.786,30446,10330,Manufacturing,Manufacture of other non-metallic mineral products,0.957114626,N/A,N/A
+3916,Western Europe,Spain,436699000,3.023,3.171,3,2.786,30446,10330,"Professional, scientific and technical activities",Scientific research and development,0.042885374,N/A,N/A
+3157,Western Europe,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380,Manufacturing,Manufacture of chemicals and chemical products,0.420139896,Operation,Operation
+3157,Western Europe,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380,Manufacturing,Manufacture of chemicals and chemical products,0.420139896,Manufacturing,Manufacturing
+3157,Western Europe,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380,Manufacturing,Manufacture of chemicals and chemical products,0.420139896,Manufacturing,Manufacturing
+3157,Western Europe,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380,Manufacturing,Manufacture of electrical equipment,0.079860104,Operation,Operation
+3157,Western Europe,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380,Manufacturing,Manufacture of electrical equipment,0.079860104,Manufacturing,Manufacturing
+3157,Western Europe,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380,Manufacturing,Manufacture of electrical equipment,0.079860104,Manufacturing,Manufacturing
+3157,Western Europe,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.5,Operation,Operation
+3157,Western Europe,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.5,Manufacturing,Manufacturing
+3157,Western Europe,United Kingdom of Great Britain and Northern Ireland,2476130000,3.179,3.645,2.925,2.643,13060,10380,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.5,Manufacturing,Manufacturing
+3595,Northern America,United States of America,3760500000,2.83,3.351,2.979,1.714,76040,10583,Manufacturing,"Manufacture of computer, electronic and optical products",1,Disposal ,Disposal 
+10061,Western Europe,Finland,624900000,2.768,2.972,2.901,2.238,35600,10600,Financial And Insurance Activities,Real estate activities,1,N/A,N/A
+3356,Northern America,United States of America,702727000,3.698,4.75,3,2.643,63384,10645,Mining And Quarrying,Extraction of crude petroleum and natural gas,1,Farming,Farming
+1303,Western Europe,Luxembourg,451800000,2.348,2.669,2.455,1.643,2780,10680,Wholesale And Retail Trade,Retail trade,0.182049676,Operation,Operation
+1303,Western Europe,Luxembourg,451800000,2.348,2.669,2.455,1.643,2780,10680,Information and communication,Telecommunications,0.817950324,Operation,Operation
+3958,Northern America,United States of America,19857200000,2.907,3.572,3.022,1.571,308000,11000,"Agriculture, Forestry And Fishing","Crop and animal production, hunting and related service activities",1,Farming,Farming
+1851,Western Europe,Ireland,1392010000,3.56,3.855,3.583,3,48501,11141,Manufacturing,Manufacture of food products,1,Operation,Operation
+1378,Western Europe,Sweden,737895000,2.698,3,2.864,1.952,2347,11307,Information and communication,"Computer programming, consultancy and related activities",1,N/A,N/A
+2957,Northern America,United States of America,514711000,2.907,3,2.65,3.048,378,11430,Information and communication,Publishing activities,0.821983599,Operation,Operation
+2957,Northern America,United States of America,514711000,2.907,3,2.65,3.048,378,11430,Information and communication,"Computer programming, consultancy and related activities",0.178016401,Operation,Operation
+2426,Northern America,United States of America,2071600000,2.893,3.6,2,2.69,1383,11467,Manufacturing,Other manufacturing,1,Manufacturing,Manufacturing
+1490,Western Europe,Germany,2640000000,2.502,3.5,1.9,1.429,19929,11527,Education,Human health activities,1,N/A,N/A
+3236,Northern America,United States of America,3810000000,2.759,2.9,3,2.214,423,11583,Information and communication,Publishing activities,1,Operation,Operation
+1589,Western Europe,Italy,353567895,3.375,3.9,3,2.881,7593,11597,Manufacturing,Manufacture of leather and related products of other materials,1,Other,Other
+3295,Western Europe,France,19300000000,2.508,3.053,2.742,1.243,72515,12224,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",1,N/A,N/A
+2435,Northern America,United States of America,2679634000,2.119,2.543,1.938,1.571,10200,12300,Information and communication,Telecommunications,1,N/A,N/A
+3308,Western Europe,Germany,2900000000,2.956,3.14,2.624,3.024,5300,12496,Information and communication,Publishing activities,0.911359215,N/A,N/A
+3308,Western Europe,Germany,2900000000,2.956,3.14,2.624,3.024,5300,12496,Information and communication,Information service activities,0.088640785,N/A,N/A
+2920,Western Europe,United Kingdom of Great Britain and Northern Ireland,549000000,2.924,3.75,1.9,2.667,3217,12858,Human Health And Social Work Activities,Sports activities and amusement and recreation activities,1,N/A,N/A
+2014,Northern America,United States of America,48040364000,2.787,3.652,2.502,1.571,9519,12919,Manufacturing,"Manufacture of computer, electronic and optical products",0.983361207,Disposal ,Disposal 
+2014,Northern America,United States of America,48040364000,2.787,3.652,2.502,1.571,9519,12919,Information and communication,Publishing activities,0.012309052,Disposal ,Disposal 
+2014,Northern America,United States of America,48040364000,2.787,3.652,2.502,1.571,9519,12919,"Arts, Sports And Recreation","Repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",0.004329741,Disposal ,Disposal 
+1958,Northern America,United States of America,4982659000,2.791,3.088,2.765,2.286,54129,13085,Construction,Specialised construction activities,0.123502229,N/A,N/A
+1958,Northern America,United States of America,4982659000,2.791,3.088,2.765,2.286,54129,13085,Information and communication,Publishing activities,0.876497771,N/A,N/A
+1594,Western Europe,Netherlands,857000000,2.741,3.484,1.765,2.571,1683,13541,Education,Human health activities,1,N/A,N/A
+2465,Northern America,United States of America,4102108000,2.974,3.577,3,1.857,4098,13651,Manufacturing,Manufacture of wearing apparel,1,End-use,End-use
+2465,Northern America,United States of America,4102108000,2.974,3.577,3,1.857,4098,13651,Manufacturing,Manufacture of wearing apparel,1,Other,Other
+3053,Northern America,United States of America,4301200000,3.054,3.758,2.995,1.857,67853,13816,Wholesale And Retail Trade,Retail trade,0.48230043,Other,Other
+3053,Northern America,United States of America,4301200000,3.054,3.758,2.995,1.857,67853,13816,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.51769957,Other,Other
+1337,Western Europe,France,2394700000,3.214,4.019,3.019,2,13839,14613,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.538689606,Operation,Operation
+1337,Western Europe,France,2394700000,3.214,4.019,3.019,2,13839,14613,Manufacturing,"Repair, maintenance and installation of machinery and equipment",0.461310394,Operation,Operation
+1301,Western Europe,Ireland,3291856000,2.895,3.348,2.9,2.071,6680,14714,Manufacturing,Printing and reproduction of recorded media,1,Manufacturing,Manufacturing
+1457,Western Europe,Italy,583000000,2.454,2.437,2.263,2.714,187900,14900,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.883,N/A,N/A
+1457,Western Europe,Italy,583000000,2.454,2.437,2.263,2.714,187900,14900,"Water Supply; Sewerage, Waste Management And Remediation Activities",Remediation activities and other waste management service activities,0.117,N/A,N/A
+1129,Western Europe,United Kingdom of Great Britain and Northern Ireland,1041090000,3.119,3.714,1.988,3.405,11057,14914,Public Administration And Defence; Compulsory Social Security,Education,1,N/A,N/A
+1131,Western Europe,United Kingdom of Great Britain and Northern Ireland,5100000000,3.482,3.071,5,2.4,7455,14923,Human Health And Social Work Activities,Gambling and betting activities,1,N/A,N/A
+1860,Western Europe,Spain,1885982000,2.929,3,3,2.714,5139.36,15118.61,Information and communication,Information service activities,0.5,N/A,N/A
+1860,Western Europe,Spain,1885982000,2.929,3,3,2.714,5139.36,15118.61,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.5,N/A,N/A
+3591,Northern America,United States of America,2628800000,2.746,2.95,2.783,2.333,180,15590,Information and communication,Publishing activities,1,Operation,Operation
+3591,Northern America,United States of America,2628800000,2.746,2.95,2.783,2.333,180,15590,Information and communication,Publishing activities,1,Operation,Operation
+1827,Northern America,United States of America,1210000000,3.512,3.144,4.75,2.69,8842,15808,Human Health And Social Work Activities,Gambling and betting activities,1,Other,Other
+1483,Western Europe,Netherlands,13800000000,2.898,3.313,2.983,2.048,7528,15899,Wholesale And Retail Trade,Retail trade,1,Raw materials,Raw materials
+1483,Western Europe,Netherlands,13800000000,2.898,3.313,2.983,2.048,7528,15899,Wholesale And Retail Trade,Retail trade,1,Manufacturing,Manufacturing
+1483,Western Europe,Netherlands,13800000000,2.898,3.313,2.983,2.048,7528,15899,Wholesale And Retail Trade,Retail trade,1,Operation,Operation
+1744,Western Europe,France,3620000000,1.553,1.079,2.011,1.857,104501,15900,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.97465,N/A,N/A
+1744,Western Europe,France,3620000000,1.553,1.079,2.011,1.857,104501,15900,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,0.02535,N/A,N/A
+2509,Northern America,United States of America,3305200000,3.021,3.1,3,2.905,4463,16104,Information and communication,"Computer programming, consultancy and related activities",0.316666667,N/A,N/A
+2509,Northern America,United States of America,3305200000,3.021,3.1,3,2.905,4463,16104,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.341666667,N/A,N/A
+2509,Northern America,United States of America,3305200000,3.021,3.1,3,2.905,4463,16104,"Professional, scientific and technical activities","Activities of advertising, market research and public relations",0.341666667,N/A,N/A
+2174,Western Europe,Germany,1010000000,2.536,2.389,2.509,2.833,7107,16160,Manufacturing,Manufacture of electrical equipment,0.955675402,Raw materials,Raw materials
+2174,Western Europe,Germany,1010000000,2.536,2.389,2.509,2.833,7107,16160,Manufacturing,Manufacture of electrical equipment,0.955675402,Disposal ,Disposal 
+2174,Western Europe,Germany,1010000000,2.536,2.389,2.509,2.833,7107,16160,Manufacturing,"Repair, maintenance and installation of machinery and equipment",0.044324598,Raw materials,Raw materials
+2174,Western Europe,Germany,1010000000,2.536,2.389,2.509,2.833,7107,16160,Manufacturing,"Repair, maintenance and installation of machinery and equipment",0.044324598,Disposal ,Disposal 
+3990,Western Europe,Spain,4353201000,2.138,2.293,2.078,1.929,4980,16529,Information and communication,"Programming, broadcasting, news agency and other content distribution activities",0.065973103,Operation,Operation
+3990,Western Europe,Spain,4353201000,2.138,2.293,2.078,1.929,4980,16529,Information and communication,Telecommunications,0.934026897,Operation,Operation
+3377,Northern America,United States of America,2330000000,2.649,3,2.9,1.714,2862,16675,Information and communication,Publishing activities,1,N/A,N/A
+1647,Northern America,United States of America,29000000000,3.366,4.545,2.953,1.738,129340,16734,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",1,N/A,N/A
+1211,Western Europe,Netherlands,3080000000,2.926,3.557,2.75,2,50000,17000,Manufacturing,Manufacture of food products,1,Operation,Operation
+3036,Northern America,United States of America,1610000000,3.692,4.5,3.235,2.786,6409.88,17366.52,Manufacturing,Manufacture of other transport equipment,0.183685446,N/A,N/A
+3036,Northern America,United States of America,1610000000,3.692,4.5,3.235,2.786,6409.88,17366.52,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,0.183685446,N/A,N/A
+3036,Northern America,United States of America,1610000000,3.692,4.5,3.235,2.786,6409.88,17366.52,"Professional, scientific and technical activities","Other professional, scientific and technical activities",0.632629108,N/A,N/A
+2633,Northern America,United States of America,6255284000,2.999,3.816,2.963,1.571,128220,17432,Wholesale And Retail Trade,Retail trade,0.843080826,N/A,N/A
+2633,Northern America,United States of America,6255284000,2.999,3.816,2.963,1.571,128220,17432,"Professional, scientific and technical activities",Veterinary activities,0.156919174,N/A,N/A
+3937,Northern America,United States of America,1657225000,2.905,3,2.9,2.738,3749,17537,Information and communication,Publishing activities,1,N/A,N/A
+3003,Northern America,United States of America,6730000000,3.249,3.25,3.355,3.119,1919,18408,Administrative And Support Service Activities,Public administration and defence; compulsory social security,1,N/A,N/A
+3350,Western Europe,France,1655100000,2.666,3.888,1.249,2.167,40835,19248,Education,Residential care activities,0.91,N/A,N/A
+3350,Western Europe,France,1655100000,2.666,3.888,1.249,2.167,40835,19248,Education,Social work activities without accommodation,0.09,N/A,N/A
+10704,Western Europe,France,993053000,1.917,1.662,2.528,1.643,1928,19276,Information and communication,Publishing activities,0.5,N/A,N/A
+10704,Western Europe,France,993053000,1.917,1.662,2.528,1.643,1928,19276,Information and communication,Information service activities,0.5,N/A,N/A
+1157,Western Europe,Denmark,7780000000,3.185,3.65,2.9,2.69,74384,19399,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",1,N/A,N/A
+3671,Western Europe,Spain,2396700000,3.732,3.537,4.554,3.095,12770,19805,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.225551007,Operation,Operation
+3671,Western Europe,Spain,2396700000,3.732,3.537,4.554,3.095,12770,19805,Information and communication,Publishing activities,0.078319481,Operation,Operation
+3671,Western Europe,Spain,2396700000,3.732,3.537,4.554,3.095,12770,19805,Human Health And Social Work Activities,Gambling and betting activities,0.696129512,Operation,Operation
+10184,Western Europe,Italy,879900000,3.446,3.9,3.85,2.143,44644.49,19807.5,Manufacturing,Manufacture of food products,1,Other,Other
+2693,Northern America,United States of America,1409281000,3.177,3.9,3.55,1.429,70379,19815,Manufacturing,Manufacture of food products,1,Manufacturing,Manufacturing
+3689,Northern America,United States of America,2490000000,2.895,3.15,2.9,2.429,3286,20375,Information and communication,Publishing activities,0.262248996,Operation,Operation
+3689,Northern America,United States of America,2490000000,2.895,3.15,2.9,2.429,3286,20375,Information and communication,"Computer programming, consultancy and related activities",0.737751004,Operation,Operation
+1456,Western Europe,France,1080000000,2.95,3.871,2.954,1.286,3000,21000,Mining And Quarrying,Mining support service activities,0.5,Operation,Operation
+1456,Western Europe,France,1080000000,2.95,3.871,2.954,1.286,3000,21000,Manufacturing,Manufacture of electrical equipment,0.201333333,Operation,Operation
+1456,Western Europe,France,1080000000,2.95,3.871,2.954,1.286,3000,21000,Information and communication,Information service activities,0.298666667,Operation,Operation
+1171,Western Europe,Spain,951029000,3.892,4.823,3.894,2.214,9866,21117,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",0.1061,N/A,N/A
+1171,Western Europe,Spain,951029000,3.892,4.823,3.894,2.214,9866,21117,Manufacturing,Manufacture of other transport equipment,0.861266667,N/A,N/A
+1171,Western Europe,Spain,951029000,3.892,4.823,3.894,2.214,9866,21117,"Professional, scientific and technical activities",Scientific research and development,0.032633333,N/A,N/A
+1710,Western Europe,France,1520000000,3.157,3.548,2.878,2.786,33357,21636,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.333333333,Other,Other
+1710,Western Europe,France,1520000000,3.157,3.548,2.878,2.786,33357,21636,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.333333333,Operation,Operation
+1710,Western Europe,France,1520000000,3.157,3.548,2.878,2.786,33357,21636,Manufacturing,Manufacture of rubber and plastic products,0.333333333,Other,Other
+1710,Western Europe,France,1520000000,3.157,3.548,2.878,2.786,33357,21636,Manufacturing,Manufacture of rubber and plastic products,0.333333333,Operation,Operation
+1710,Western Europe,France,1520000000,3.157,3.548,2.878,2.786,33357,21636,Construction,Specialised construction activities,0.333333333,Other,Other
+1710,Western Europe,France,1520000000,3.157,3.548,2.878,2.786,33357,21636,Construction,Specialised construction activities,0.333333333,Operation,Operation
+10213,Northern America,United States of America,7659832000,3.126,3.086,4.124,2,4012.22,21970.65,Administrative And Support Service Activities,Public administration and defence; compulsory social security,1,N/A,N/A
+37,Western Europe,Spain,1279737000,3.796,4.05,3.8,3.333,10327,22314,Accommodation And Food Service Activities,Food and beverage service activities,1,Other,Other
+1798,Northern America,United States of America,16100000000,2.739,3.216,2.639,2,29072,22926,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.13,N/A,N/A
+1798,Northern America,United States of America,16100000000,2.739,3.216,2.639,2,29072,22926,"Professional, scientific and technical activities",Architectural and engineering activities; technical testing and analysis,0.87,N/A,N/A
+1267,Northern America,United States of America,17400700000,3.297,3.621,3.417,2.571,40498,25105,Wholesale And Retail Trade,Retail trade,0.333333333,Farming,Farming
+1267,Northern America,United States of America,17400700000,3.297,3.621,3.417,2.571,40498,25105,Accommodation And Food Service Activities,Food and beverage service activities,0.333333333,Farming,Farming
+1267,Northern America,United States of America,17400700000,3.297,3.621,3.417,2.571,40498,25105,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,0.333333333,Farming,Farming
+1419,Western Europe,United Kingdom of Great Britain and Northern Ireland,4310000000,3.487,3.233,4.75,2.429,29145,26129,Human Health And Social Work Activities,Gambling and betting activities,1,End-use,End-use
+1419,Western Europe,United Kingdom of Great Britain and Northern Ireland,4310000000,3.487,3.233,4.75,2.429,29145,26129,Human Health And Social Work Activities,Gambling and betting activities,1,Operation,Operation
+3536,Northern America,United States of America,1737342000,3.024,3.621,2.743,2.286,55237,26914,"Agriculture, Forestry And Fishing","Crop and animal production, hunting and related service activities",1,N/A,N/A
+1380,Western Europe,Netherlands,456800000,3.054,3.294,2.956,2.738,1639,27296,Manufacturing,Other manufacturing,1,Raw materials,Raw materials
+1380,Western Europe,Netherlands,456800000,3.054,3.294,2.956,2.738,1639,27296,Manufacturing,Other manufacturing,1,Operation,Operation
+1380,Western Europe,Netherlands,456800000,3.054,3.294,2.956,2.738,1639,27296,Manufacturing,Other manufacturing,1,Operation,Operation
+1328,Northern America,United States of America,6260000000,2.764,3.9,1.738,1.952,19100,28000,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Manufacturing,Manufacturing
+3858,Northern America,United States of America,1537617000,1.77,1.1,3,1.5,22310,28446,Wholesale And Retail Trade,Retail trade,1,Disposal ,Disposal 
+1575,Northern America,United States of America,6967200000,2.845,3.834,2.362,1.643,26095,28933,Manufacturing,Manufacture of chemicals and chemical products,0.773468365,Other,Other
+1575,Northern America,United States of America,6967200000,2.845,3.834,2.362,1.643,26095,28933,Manufacturing,Other manufacturing,0.226531635,Other,Other
+2865,Northern America,United States of America,264700000,3.483,3.9,3,3.31,252,29030,Manufacturing,Manufacture of rubber and plastic products,1,Raw materials,Raw materials
+1747,Northern America,United States of America,2997800000,3.007,4,1.8,2.667,22544,29690,Manufacturing,Manufacture of chemicals and chemical products,1,N/A,N/A
+90,Western Europe,Italy,686200000,3.181,3.957,2.585,2.5,46555,29729,Manufacturing,Manufacture of chemicals and chemical products,1,Other,Other
+2775,Western Europe,Germany,4058900000,2.866,3.9,2.014,2.029,40923.1,29853.6,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Other,Other
+4131,Western Europe,Germany,22400000000,2.774,3.65,2.8,1.167,21200,29900,Wholesale And Retail Trade,Retail trade,1,Other,Other
+1182,Western Europe,France,1210000000,2.703,3.103,2.47,2.262,14193,30353,Manufacturing,Manufacture of basic metals,0.11,End-use,End-use
+1182,Western Europe,France,1210000000,2.703,3.103,2.47,2.262,14193,30353,Manufacturing,Other manufacturing,0.36,End-use,End-use
+1182,Western Europe,France,1210000000,2.703,3.103,2.47,2.262,14193,30353,Manufacturing,Manufacture of other transport equipment,0.53,End-use,End-use
+29,Western Europe,United Kingdom of Great Britain and Northern Ireland,10912700000,2.164,2.381,1.955,2.024,24850,30357,Information and communication,Telecommunications,0.75,Operation,Operation
+29,Western Europe,United Kingdom of Great Britain and Northern Ireland,10912700000,2.164,2.381,1.955,2.024,24850,30357,Information and communication,Information service activities,0.25,Operation,Operation
+1318,Western Europe,Spain,2518339000,2.461,2.107,2.127,3.5,200665,30664,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",1,Operation,Operation
+1615,Western Europe,France,2820000000,2.942,2.899,2.841,3.138,1900,30900,"Professional, Scientific And Technical Activities",Investigation and security activities,0.648792614,Operation,Operation
+1615,Western Europe,France,2820000000,2.942,2.899,2.841,3.138,1900,30900,Administrative And Support Service Activities,Public administration and defence; compulsory social security,0.351207386,Operation,Operation
+2051,Western Europe,Netherlands,685100000,3.393,3.7,3,3.31,76472,31323,Manufacturing,Manufacture of paper and paper products,0.5,N/A,N/A
+2051,Western Europe,Netherlands,685100000,3.393,3.7,3,3.31,76472,31323,Manufacturing,Manufacture of rubber and plastic products,0.5,N/A,N/A
+2269,Western Europe,United Kingdom of Great Britain and Northern Ireland,1015194000,3.058,3.65,2,3.262,9110.18,31589.14,Public Administration And Defence; Compulsory Social Security,Education,1,Other,Other
+2030,Northern America,Canada,7829700000,3.527,4.595,3.029,2.2,32296,33387,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",0.848627661,Operation,Operation
+2030,Northern America,Canada,7829700000,3.527,4.595,3.029,2.2,32296,33387,Manufacturing,Manufacture of other transport equipment,0.151372339,Operation,Operation
+2684,Northern America,United States of America,1049288000,3.034,3.722,2.506,2.429,39206,33697,Manufacturing,"Manufacture of computer, electronic and optical products",0.419695982,Manufacturing,Manufacturing
+2684,Northern America,United States of America,1049288000,3.034,3.722,2.506,2.429,39206,33697,Manufacturing,"Manufacture of computer, electronic and optical products",0.419695982,Disposal ,Disposal 
+2684,Northern America,United States of America,1049288000,3.034,3.722,2.506,2.429,39206,33697,Manufacturing,Other manufacturing,0.21138586,Manufacturing,Manufacturing
+2684,Northern America,United States of America,1049288000,3.034,3.722,2.506,2.429,39206,33697,Manufacturing,Other manufacturing,0.21138586,Disposal ,Disposal 
+2684,Northern America,United States of America,1049288000,3.034,3.722,2.506,2.429,39206,33697,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.078766149,Manufacturing,Manufacturing
+2684,Northern America,United States of America,1049288000,3.034,3.722,2.506,2.429,39206,33697,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.078766149,Disposal ,Disposal 
+2684,Northern America,United States of America,1049288000,3.034,3.722,2.506,2.429,39206,33697,Education,Human health activities,0.290152009,Manufacturing,Manufacturing
+2684,Northern America,United States of America,1049288000,3.034,3.722,2.506,2.429,39206,33697,Education,Human health activities,0.290152009,Disposal ,Disposal 
+2066,Northern America,United States of America,6355800000,3.213,3.939,2.977,2.19,33805,33752,Manufacturing,Manufacture of basic metals,0.19053463,Other,Other
+2066,Northern America,United States of America,6355800000,3.213,3.939,2.977,2.19,33805,33752,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.029264609,Other,Other
+2066,Northern America,United States of America,6355800000,3.213,3.939,2.977,2.19,33805,33752,Manufacturing,Manufacture of other non-metallic mineral products,0.118844205,Other,Other
+2066,Northern America,United States of America,6355800000,3.213,3.939,2.977,2.19,33805,33752,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.366798829,Other,Other
+2066,Northern America,United States of America,6355800000,3.213,3.939,2.977,2.19,33805,33752,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.117184304,Other,Other
+2066,Northern America,United States of America,6355800000,3.213,3.939,2.977,2.19,33805,33752,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.148108814,Other,Other
+2066,Northern America,United States of America,6355800000,3.213,3.939,2.977,2.19,33805,33752,"Professional, Scientific And Technical Activities",Rental and leasing activities,0.029264609,Other,Other
+3981,Western Europe,Sweden,12900000000,2.755,3.05,3,1.929,1231,33791,Financial And Insurance Activities,Real estate activities,1,Operation,Operation
+3981,Western Europe,Sweden,12900000000,2.755,3.05,3,1.929,1231,33791,Financial And Insurance Activities,Real estate activities,1,Operation,Operation
+1484,Northern America,United States of America,391110000,3.292,4.056,2.57,2.786,146713,33991,Manufacturing,Manufacture of chemicals and chemical products,1,N/A,N/A
+1246,Western Europe,Italy,830700000,3.089,2.863,3.917,2.5,36110,34481,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",1,Operation,Operation
+1246,Western Europe,Italy,830700000,3.089,2.863,3.917,2.5,36110,34481,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",1,Raw materials,Raw materials
+1179,Western Europe,Spain,421000000,3.252,3.52,2.88,3.214,21074.42,34687.78,Manufacturing,Manufacture of food products,1,Other,Other
+1245,Western Europe,Germany,817000000,3.235,4,2.72,2.476,38092,35629,Manufacturing,Manufacture of other non-metallic mineral products,1,N/A,N/A
+3346,Western Europe,United Kingdom of Great Britain and Northern Ireland,794970000,3.235,3.8,3,2.5,49281,35641,Manufacturing,Manufacture of food products,1,Farming,Farming
+3346,Western Europe,United Kingdom of Great Britain and Northern Ireland,794970000,3.235,3.8,3,2.5,49281,35641,Manufacturing,Manufacture of food products,1,Manufacturing,Manufacturing
+1650,Western Europe,France,1770000000,3.137,4,2.332,2.548,19731,36015,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.5,N/A,N/A
+1650,Western Europe,France,1770000000,3.137,4,2.332,2.548,19731,36015,"Professional, scientific and technical activities",Veterinary activities,0.5,N/A,N/A
+3343,Northern America,United States of America,1085677000,3.117,3.875,2.375,2.643,27000,38000,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,N/A,N/A
+4030,Northern America,United States of America,3360000000,2.605,3.039,2.816,1.571,17927,38893,Information and communication,Publishing activities,1,N/A,N/A
+1869,Northern America,United States of America,10043408000,3.404,4.612,3,1.714,51703,39724,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",1,N/A,N/A
+2121,Western Europe,Luxembourg,280000000,3.376,3.875,3,2.929,3252,42384,Manufacturing,Manufacture of rubber and plastic products,0.5,Raw materials,Raw materials
+2121,Western Europe,Luxembourg,280000000,3.376,3.875,3,2.929,3252,42384,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.5,Raw materials,Raw materials
+10765,Northern America,United States of America,567694000,3.985,3.75,5,3.19,105911,42438,Manufacturing,Manufacture of beverages,1,N/A,N/A
+2756,Northern America,United States of America,4283800000,3.051,4.125,2.077,2.286,6151,44551,Information and communication,Telecommunications,1,N/A,N/A
+4134,Western Europe,Luxembourg,5570000000,3.118,3.85,3.25,1.643,59481,44652,Wholesale And Retail Trade,Retail trade,1,N/A,N/A
+1238,Northern America,Canada,19400000000,3.544,3.418,3.652,3.643,205624,47661,"Professional, Scientific And Technical Activities",Investigation and security activities,0.904671676,N/A,N/A
+1238,Northern America,Canada,19400000000,3.544,3.418,3.652,3.643,205624,47661,"Professional, Scientific And Technical Activities",Employment activities,0.047664162,N/A,N/A
+1238,Northern America,Canada,19400000000,3.544,3.418,3.652,3.643,205624,47661,"Professional, Scientific And Technical Activities",Services to buildings and landscape activities,0.047664162,N/A,N/A
+2785,Northern America,United States of America,5769577000,2.836,3.138,2.9,2.214,4938,49196,Information and communication,"Computer programming, consultancy and related activities",1,Operation,Operation
+2785,Northern America,United States of America,5769577000,2.836,3.138,2.9,2.214,4938,49196,Information and communication,"Computer programming, consultancy and related activities",1,Operation,Operation
+3005,Northern America,United States of America,1178166000,3.109,4,2.159,2.643,14557,49401,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,N/A,N/A
+3976,Western Europe,Switzerland,2700000000,3.663,4.765,2.286,3.333,114964,49621,Transportation And Storage,"Warehousing, storage and support activities for transportation",1,N/A,N/A
+3576,Western Europe,Luxembourg,3740000000,2.909,3.01,2.94,2.69,1620,50164,Information and communication,Publishing activities,0.333333333,N/A,N/A
+3576,Western Europe,Luxembourg,3740000000,2.909,3.01,2.94,2.69,1620,50164,Information and communication,"Computer programming, consultancy and related activities",0.333333333,N/A,N/A
+3576,Western Europe,Luxembourg,3740000000,2.909,3.01,2.94,2.69,1620,50164,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.333333333,N/A,N/A
+2627,Northern America,United States of America,1430000000,3.163,3.838,3,2.143,112617,51469,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1,Other,Other
+1658,Western Europe,France,10368400000,2.441,2.507,1.935,2.929,24264,51841,Information and communication,Telecommunications,1,N/A,N/A
+4049,Northern America,United States of America,6149909000,2.981,3.45,2.975,2.143,115728,51927,Transportation And Storage,"Warehousing, storage and support activities for transportation",0.220137404,Operation,Operation
+4049,Northern America,United States of America,6149909000,2.981,3.45,2.975,2.143,115728,51927,Information and communication,Information service activities,0.559725193,Operation,Operation
+4049,Northern America,United States of America,6149909000,2.981,3.45,2.975,2.143,115728,51927,Financial And Insurance Activities,Real estate activities,0.220137404,Operation,Operation
+2897,Northern America,United States of America,4160300000,3.141,4.036,3.046,1.643,19844,53514,Manufacturing,Other manufacturing,0.329960098,N/A,N/A
+2897,Northern America,United States of America,4160300000,3.141,4.036,3.046,1.643,19844,53514,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.670039902,N/A,N/A
+3601,Western Europe,Luxembourg,1087500000,3.201,3.5,2.9,3.024,215581,54611,Manufacturing,Manufacture of other non-metallic mineral products,1,N/A,N/A
+2925,Northern America,United States of America,1.54E+11,3.07,3.516,2.814,2.571,9998,54646,Financial and insurance activities,"Insurance, reinsurance and pension funding, except compulsory social security",0.960168573,N/A,N/A
+2925,Northern America,United States of America,1.54E+11,3.07,3.516,2.814,2.571,9998,54646,Education,Human health activities,0.039831427,N/A,N/A
+1312,Western Europe,Luxembourg,1250000000,3.331,3.818,2.935,2.929,8662,55328,Manufacturing,Manufacture of paper and paper products,0.333333333,Operation,Operation
+1312,Western Europe,Luxembourg,1250000000,3.331,3.818,2.935,2.929,8662,55328,Manufacturing,Manufacture of rubber and plastic products,0.666666667,Operation,Operation
+1055,Western Europe,Luxembourg,1704800000,3.133,3.8,2.8,2.333,63214,56730,Manufacturing,Manufacture of chemicals and chemical products,1,Other,Other
+1132,Western Europe,United Kingdom of Great Britain and Northern Ireland,1115200000,3.244,3.913,3,2.333,173229,57301,Manufacturing,Other manufacturing,1,Raw materials,Raw materials
+2289,Caribbean,Puerto Rico,1260500000,2.294,2.631,1.973,2.071,7530,57601,Wholesale And Retail Trade,Retail trade,0.212894286,N/A,N/A
+2289,Caribbean,Puerto Rico,1260500000,2.294,2.631,1.973,2.071,7530,57601,Information and communication,Telecommunications,0.787105714,N/A,N/A
+1835,Northern America,United States of America,4300000000,2.786,1.955,3.993,2.833,59511,58870,Manufacturing,Manufacture of basic metals,0.374060764,N/A,N/A
+1835,Northern America,United States of America,4300000000,2.786,1.955,3.993,2.833,59511,58870,Construction,Civil engineering,0.076118915,N/A,N/A
+1835,Northern America,United States of America,4300000000,2.786,1.955,3.993,2.833,59511,58870,Construction,Specialised construction activities,0.54982032,N/A,N/A
+1639,Western Europe,Spain,1439919000,3.832,3.595,4.9,2.976,4992,59700,Human Health And Social Work Activities,Gambling and betting activities,1,N/A,N/A
+2165,Northern America,United States of America,8300000000,3.261,3.619,3,2.929,126198,60378,Manufacturing,Manufacture of basic metals,0.131,N/A,N/A
+2165,Northern America,United States of America,8300000000,3.261,3.619,3,2.929,126198,60378,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.476,N/A,N/A
+2165,Northern America,United States of America,8300000000,3.261,3.619,3,2.929,126198,60378,Manufacturing,Manufacture of other non-metallic mineral products,0.131,N/A,N/A
+2165,Northern America,United States of America,8300000000,3.261,3.619,3,2.929,126198,60378,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.262,N/A,N/A
+3606,Western Europe,France,441000000,3.242,3.65,2.575,3.31,138437,61295,Manufacturing,Manufacture of other non-metallic mineral products,0.95455,N/A,N/A
+3606,Western Europe,France,441000000,3.242,3.65,2.575,3.31,138437,61295,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.04545,N/A,N/A
+2377,Eastern Asia,Japan,725006000,2.792,3.5,2.926,1.357,1681,62624,Manufacturing,"Manufacture of computer, electronic and optical products",1,N/A,N/A
+4225,Western Europe,United Kingdom of Great Britain and Northern Ireland,2972737000,3.258,4.043,2.83,2.357,412225,62720,Manufacturing,Manufacture of chemicals and chemical products,1,Other,Other
+3468,Northern America,United States of America,1323649000,3.006,3.952,2.9,1.429,208797,63336,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",1,N/A,N/A
+2805,Northern America,United States of America,840400000,3.376,3.94,2.981,2.833,36538,65205,Manufacturing,Manufacture of chemicals and chemical products,0.8059,N/A,N/A
+2805,Northern America,United States of America,840400000,3.376,3.94,2.981,2.833,36538,65205,Manufacturing,Manufacture of basic metals,0.1941,N/A,N/A
+3337,Northern America,United States of America,5636523000,3.185,3.8,3.25,2,39516,66078,Manufacturing,Manufacture of wearing apparel,1,Raw materials,Raw materials
+3337,Northern America,United States of America,5636523000,3.185,3.8,3.25,2,39516,66078,Manufacturing,Manufacture of wearing apparel,1,End-use,End-use
+3337,Northern America,United States of America,5636523000,3.185,3.8,3.25,2,39516,66078,Manufacturing,Manufacture of wearing apparel,1,Operation,Operation
+1768,Northern America,Canada,44500000000,3.38,3.999,3.9,1.643,128994,66114,Accommodation And Food Service Activities,Food and beverage service activities,1,Other,Other
+2215,Northern America,United States of America,4790000000,2.774,3.806,1.992,1.857,51517,67484,Manufacturing,Manufacture of chemicals and chemical products,0.571696932,Manufacturing,Manufacturing
+2215,Northern America,United States of America,4790000000,2.774,3.806,1.992,1.857,51517,67484,Manufacturing,Manufacture of chemicals and chemical products,0.571696932,Other,Other
+2215,Northern America,United States of America,4790000000,2.774,3.806,1.992,1.857,51517,67484,Manufacturing,"Manufacture of computer, electronic and optical products",0.428303068,Manufacturing,Manufacturing
+2215,Northern America,United States of America,4790000000,2.774,3.806,1.992,1.857,51517,67484,Manufacturing,"Manufacture of computer, electronic and optical products",0.428303068,Other,Other
+2889,Western Europe,Netherlands,856263000,3.388,3.9,3.5,2.333,36217,67558,Accommodation And Food Service Activities,Accommodation,1,N/A,N/A
+3345,Northern America,United States of America,607851000,3.144,3.44,2.96,2.833,4972,68798,Manufacturing,Manufacture of rubber and plastic products,0.98,Raw materials,Raw materials
+3345,Northern America,United States of America,607851000,3.144,3.44,2.96,2.833,4972,68798,Manufacturing,Manufacture of rubber and plastic products,0.98,Operation,Operation
+3345,Northern America,United States of America,607851000,3.144,3.44,2.96,2.833,4972,68798,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.02,Raw materials,Raw materials
+3345,Northern America,United States of America,607851000,3.144,3.44,2.96,2.833,4972,68798,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.02,Operation,Operation
+1406,Western Europe,Netherlands,2940000000,3.019,3.65,2.803,2.143,127587,69470,Manufacturing,Other manufacturing,1,Other,Other
+1406,Western Europe,Netherlands,2940000000,3.019,3.65,2.803,2.143,127587,69470,Manufacturing,Other manufacturing,1,Operation,Operation
+1954,Northern America,United States of America,6269305000,3.661,4.888,2.905,2.357,65760.4,70023.7,Manufacturing,Manufacture of machinery and equipment n.e.c.,1,N/A,N/A
+1973,Northern America,United States of America,1920000000,3.569,4.25,3,3.024,70259,70666,Manufacturing,"Repair, maintenance and installation of machinery and equipment",0.333333333,N/A,N/A
+1973,Northern America,United States of America,1920000000,3.569,4.25,3,3.024,70259,70666,Accommodation And Food Service Activities,Accommodation,0.333333333,N/A,N/A
+1973,Northern America,United States of America,1920000000,3.569,4.25,3,3.024,70259,70666,Human Health And Social Work Activities,Sports activities and amusement and recreation activities,0.333333333,N/A,N/A
+3564,Northern America,United States of America,823265000,3.07,3.213,2.893,3.024,3542,72532,Manufacturing,Manufacture of rubber and plastic products,0.5,Raw materials,Raw materials
+3564,Northern America,United States of America,823265000,3.07,3.213,2.893,3.024,3542,72532,Manufacturing,Other manufacturing,0.5,Raw materials,Raw materials
+2216,Northern America,United States of America,3142800000,3.037,3.79,2.89,1.857,33384,72976,Manufacturing,Manufacture of chemicals and chemical products,1,Operation,Operation
+1493,Northern America,United States of America,2890000000,3.088,3.962,2.802,1.857,30424,73210,Manufacturing,Manufacture of textiles,0.072451218,End-use,End-use
+1493,Northern America,United States of America,2890000000,3.088,3.962,2.802,1.857,30424,73210,Manufacturing,Manufacture of chemicals and chemical products,0.144902436,End-use,End-use
+1493,Northern America,United States of America,2890000000,3.088,3.962,2.802,1.857,30424,73210,Manufacturing,Manufacture of electrical equipment,0.782646346,End-use,End-use
+10039,Western Europe,United Kingdom of Great Britain and Northern Ireland,2060000000,3.414,4,3,2.857,23678,73649,Human Health And Social Work Activities,Sports activities and amusement and recreation activities,1,Other,Other
+1063,Western Europe,Portugal,5142600000,2.727,2.54,2.203,3.69,31861,74807,Information and communication,Telecommunications,1,N/A,N/A
+10695,Northern America,United States of America,8969351000,3.191,3.9,3,2.143,15854,75148,Wholesale And Retail Trade,Retail trade,1,Other,Other
+2876,Northern America,United States of America,4655600000,2.842,3.75,2.181,2,68712,77715,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Other,Other
+2041,Northern America,United States of America,4210000000,2.451,2.86,2.093,2.143,38175,79809,Manufacturing,Other manufacturing,0.164,Operation,Operation
+2041,Northern America,United States of America,4210000000,2.451,2.86,2.093,2.143,38175,79809,Construction,Civil engineering,0.164,Operation,Operation
+2041,Northern America,United States of America,4210000000,2.451,2.86,2.093,2.143,38175,79809,Information and communication,Telecommunications,0.672,Operation,Operation
+3395,Northern America,United States of America,37300000000,3.824,4.798,3.703,2.214,1712,82042,Transportation And Storage,Land transport and transport via pipelines,0.42498413,N/A,N/A
+3395,Northern America,United States of America,37300000000,3.824,4.798,3.703,2.214,1712,82042,Transportation And Storage,Postal and courier activities,0.163675867,N/A,N/A
+3395,Northern America,United States of America,37300000000,3.824,4.798,3.703,2.214,1712,82042,Information and communication,Publishing activities,0.411340003,N/A,N/A
+2739,Northern America,United States of America,6929249000,3.115,3.74,3.406,1.643,101923,84032,Manufacturing,Manufacture of wearing apparel,1,End-use,End-use
+1302,Western Europe,Luxembourg,828400000,3.009,3.032,2.961,3.024,4282,84778,Manufacturing,Manufacture of rubber and plastic products,0.255,Raw materials,Raw materials
+1302,Western Europe,Luxembourg,828400000,3.009,3.032,2.961,3.024,4282,84778,Manufacturing,Manufacture of rubber and plastic products,0.255,Operation,Operation
+1302,Western Europe,Luxembourg,828400000,3.009,3.032,2.961,3.024,4282,84778,Manufacturing,Other manufacturing,0.745,Raw materials,Raw materials
+1302,Western Europe,Luxembourg,828400000,3.009,3.032,2.961,3.024,4282,84778,Manufacturing,Other manufacturing,0.745,Operation,Operation
+60,Western Europe,Italy,787000000,1.902,1.34,2.9,1.714,416298,85145,Manufacturing,Manufacture of paper and paper products,1,N/A,N/A
+1334,Western Europe,Netherlands,2791300000,2.467,2.655,2.218,2.429,21100,86300,Manufacturing,"Manufacture of computer, electronic and optical products",0.140809915,Manufacturing,Manufacturing
+1334,Western Europe,Netherlands,2791300000,2.467,2.655,2.218,2.429,21100,86300,Information and communication,"Programming, broadcasting, news agency and other content distribution activities",0.140809915,Manufacturing,Manufacturing
+1334,Western Europe,Netherlands,2791300000,2.467,2.655,2.218,2.429,21100,86300,Information and communication,Telecommunications,0.71838017,Manufacturing,Manufacturing
+1929,Northern America,United States of America,7940000000,3.381,4.508,3.198,1.571,51376,87920,Manufacturing,"Manufacture of computer, electronic and optical products",0.159907641,N/A,N/A
+1929,Northern America,United States of America,7940000000,3.381,4.508,3.198,1.571,51376,87920,Manufacturing,Manufacture of electrical equipment,0.165449202,N/A,N/A
+1929,Northern America,United States of America,7940000000,3.381,4.508,3.198,1.571,51376,87920,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.177413938,N/A,N/A
+1929,Northern America,United States of America,7940000000,3.381,4.508,3.198,1.571,51376,87920,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",0.005982368,N/A,N/A
+1929,Northern America,United States of America,7940000000,3.381,4.508,3.198,1.571,51376,87920,Manufacturing,Manufacture of other transport equipment,0.331339211,N/A,N/A
+1929,Northern America,United States of America,7940000000,3.381,4.508,3.198,1.571,51376,87920,Manufacturing,Other manufacturing,0.159907641,N/A,N/A
+46,Eastern Europe,Estonia,492307000,2.988,3.172,3,2.643,36653,89702,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.928682768,Farming,Farming
+46,Eastern Europe,Estonia,492307000,2.988,3.172,3,2.643,36653,89702,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.928682768,Farming,Farming
+46,Eastern Europe,Estonia,492307000,2.988,3.172,3,2.643,36653,89702,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.928682768,Transportation,Transportation
+46,Eastern Europe,Estonia,492307000,2.988,3.172,3,2.643,36653,89702,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.049273762,Farming,Farming
+46,Eastern Europe,Estonia,492307000,2.988,3.172,3,2.643,36653,89702,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.049273762,Farming,Farming
+46,Eastern Europe,Estonia,492307000,2.988,3.172,3,2.643,36653,89702,"Water Supply; Sewerage, Waste Management And Remediation Activities","Waste collection, recovery and disposal activities",0.049273762,Transportation,Transportation
+46,Eastern Europe,Estonia,492307000,2.988,3.172,3,2.643,36653,89702,Transportation And Storage,"Warehousing, storage and support activities for transportation",0.02204347,Farming,Farming
+46,Eastern Europe,Estonia,492307000,2.988,3.172,3,2.643,36653,89702,Transportation And Storage,"Warehousing, storage and support activities for transportation",0.02204347,Farming,Farming
+46,Eastern Europe,Estonia,492307000,2.988,3.172,3,2.643,36653,89702,Transportation And Storage,"Warehousing, storage and support activities for transportation",0.02204347,Transportation,Transportation
+1748,Northern America,United States of America,1400000000,3.119,3.9,3,1.857,19758,90611,Accommodation And Food Service Activities,Accommodation,1,N/A,N/A
+2601,Northern America,United States of America,10333967000,2.595,3.521,2,1.643,18968,91901,Manufacturing,Other manufacturing,1,N/A,N/A
+1432,Western Europe,United Kingdom of Great Britain and Northern Ireland,4120000000,3.28,3.76,3.17,2.548,67117.59,95402.05,Wholesale And Retail Trade,Retail trade,1,N/A,N/A
+3217,Northern America,United States of America,2300000000,3.346,4,3.15,2.405,183000,97000,Manufacturing,Manufacture of chemicals and chemical products,1,N/A,N/A
+2416,Northern America,United States of America,1078309000,3.038,3.291,2.988,2.643,13375,101806,Manufacturing,Manufacture of paper and paper products,0.5,Operation,Operation
+2416,Northern America,United States of America,1078309000,3.038,3.291,2.988,2.643,13375,101806,Manufacturing,Manufacture of chemicals and chemical products,0.5,Operation,Operation
+3634,Northern America,United States of America,2339226000,3.173,3.981,3.296,1.571,76338,106545,Accommodation And Food Service Activities,Accommodation,0.853722556,N/A,N/A
+3634,Northern America,United States of America,2339226000,3.173,3.981,3.296,1.571,76338,106545,Human Health And Social Work Activities,"Creative, arts and entertainment activities",0.146277444,N/A,N/A
+2605,Northern America,United States of America,3202053000,3.143,4.099,2.9,1.714,23200,107300,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.265000757,N/A,N/A
+2605,Northern America,United States of America,3202053000,3.143,4.099,2.9,1.714,23200,107300,Manufacturing,Manufacture of electrical equipment,0.734999243,N/A,N/A
+3789,Northern America,United States of America,1761185000,3.346,3.708,2.993,3.119,63122,108288,Manufacturing,Manufacture of paper and paper products,0.5,Raw materials,Raw materials
+3789,Northern America,United States of America,1761185000,3.346,3.708,2.993,3.119,63122,108288,Manufacturing,Manufacture of paper and paper products,0.5,Operation,Operation
+3789,Northern America,United States of America,1761185000,3.346,3.708,2.993,3.119,63122,108288,Manufacturing,Manufacture of rubber and plastic products,0.5,Raw materials,Raw materials
+3789,Northern America,United States of America,1761185000,3.346,3.708,2.993,3.119,63122,108288,Manufacturing,Manufacture of rubber and plastic products,0.5,Operation,Operation
+1791,Western Europe,Netherlands,989000000,3.114,3.545,3,2.476,7019,108836,Manufacturing,Manufacture of chemicals and chemical products,0.5,Raw materials,Raw materials
+1791,Western Europe,Netherlands,989000000,3.114,3.545,3,2.476,7019,108836,Manufacturing,Manufacture of chemicals and chemical products,0.5,Operation,Operation
+1791,Western Europe,Netherlands,989000000,3.114,3.545,3,2.476,7019,108836,Manufacturing,Other manufacturing,0.5,Raw materials,Raw materials
+1791,Western Europe,Netherlands,989000000,3.114,3.545,3,2.476,7019,108836,Manufacturing,Other manufacturing,0.5,Operation,Operation
+10054,Northern America,United States of America,2307900000,2.867,3.71,2.801,1.429,512369,109701,Mining And Quarrying,Other mining and quarrying,0.216891219,N/A,N/A
+10054,Northern America,United States of America,2307900000,2.867,3.71,2.801,1.429,512369,109701,Manufacturing,Manufacture of other non-metallic mineral products,0.093900273,N/A,N/A
+10054,Northern America,United States of America,2307900000,2.867,3.71,2.801,1.429,512369,109701,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.47231729,N/A,N/A
+10054,Northern America,United States of America,2307900000,2.867,3.71,2.801,1.429,512369,109701,Manufacturing,Other manufacturing,0.216891219,N/A,N/A
+3618,Northern America,United States of America,3750000000,3.093,4,3,1.571,56535,110884,Accommodation And Food Service Activities,Accommodation,1,N/A,N/A
+2090,Northern America,United States of America,1542533000,3.481,4.145,2.865,3.024,309419,111164,Manufacturing,Manufacture of chemicals and chemical products,0.969387762,Manufacturing,Manufacturing
+2090,Northern America,United States of America,1542533000,3.481,4.145,2.865,3.024,309419,111164,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.030612238,Manufacturing,Manufacturing
+3489,Western Europe,United Kingdom of Great Britain and Northern Ireland,1334100000,3.324,4.05,2.9,2.524,113811,111919,Manufacturing,Manufacture of chemicals and chemical products,1,Manufacturing,Manufacturing
+3489,Western Europe,United Kingdom of Great Britain and Northern Ireland,1334100000,3.324,4.05,2.9,2.524,113811,111919,Manufacturing,Manufacture of chemicals and chemical products,1,Manufacturing,Manufacturing
+1538,Western Europe,Netherlands,610000000,2.805,3.9,1.655,2.214,142884,118052,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Other,Other
+2827,Northern America,United States of America,17700000000,2.629,3.093,2.85,1.529,17636,120793,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.364448898,N/A,N/A
+2827,Northern America,United States of America,17700000000,2.629,3.093,2.85,1.529,17636,120793,Information and communication,Publishing activities,0.364448898,N/A,N/A
+2827,Northern America,United States of America,17700000000,2.629,3.093,2.85,1.529,17636,120793,"Professional, scientific and technical activities",Activities of head offices and management consultancy,0.271102203,N/A,N/A
+3540,Western Europe,United Kingdom of Great Britain and Northern Ireland,1900000000,3.061,3.562,2.677,2.619,15339,123741,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.355,Operation,Operation
+3540,Western Europe,United Kingdom of Great Britain and Northern Ireland,1900000000,3.061,3.562,2.677,2.619,15339,123741,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.355,Raw materials,Raw materials
+3540,Western Europe,United Kingdom of Great Britain and Northern Ireland,1900000000,3.061,3.562,2.677,2.619,15339,123741,Manufacturing,Manufacture of rubber and plastic products,0.645,Operation,Operation
+3540,Western Europe,United Kingdom of Great Britain and Northern Ireland,1900000000,3.061,3.562,2.677,2.619,15339,123741,Manufacturing,Manufacture of rubber and plastic products,0.645,Raw materials,Raw materials
+1478,Western Europe,Germany,1636372108,2.621,2.466,2.517,3.024,344641,126727,Manufacturing,Manufacture of paper and paper products,1,Disposal ,Disposal 
+1363,Northern America,United States of America,1900000000,3.166,3.688,2.5,3.024,101173,131121,Manufacturing,Manufacture of rubber and plastic products,0.5,Raw materials,Raw materials
+1363,Northern America,United States of America,1900000000,3.166,3.688,2.5,3.024,101173,131121,Manufacturing,Other manufacturing,0.5,Raw materials,Raw materials
+1843,Northern America,United States of America,1439800000,3.01,3.732,3.066,1.643,129280,131187,Mining And Quarrying,Mining of metal ores,0.208593786,Raw materials,Raw materials
+1843,Northern America,United States of America,1439800000,3.01,3.732,3.066,1.643,129280,131187,Manufacturing,Manufacture of other non-metallic mineral products,0.145529472,Raw materials,Raw materials
+1843,Northern America,United States of America,1439800000,3.01,3.732,3.066,1.643,129280,131187,Manufacturing,Manufacture of basic metals,0.582812428,Raw materials,Raw materials
+1843,Northern America,United States of America,1439800000,3.01,3.732,3.066,1.643,129280,131187,Manufacturing,Manufacture of electrical equipment,0.063064314,Raw materials,Raw materials
+2790,Northern America,United States of America,30300000000,3.02,3.8,2.94,1.714,344074,137440,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.9151,N/A,N/A
+2790,Northern America,United States of America,30300000000,3.02,3.8,2.94,1.714,344074,137440,Wholesale And Retail Trade,Retail trade,0.0849,N/A,N/A
+10368,Northern America,United States of America,51600000000,2.902,3.604,2.896,1.643,58764,140005,Manufacturing,"Manufacture of computer, electronic and optical products",0.583549851,N/A,N/A
+10368,Northern America,United States of America,51600000000,2.902,3.604,2.896,1.643,58764,140005,Information and communication,Publishing activities,0.416450149,N/A,N/A
+1796,Northern America,United States of America,1440000000,3.201,3.75,2.981,2.476,10991,142319,Manufacturing,Manufacture of rubber and plastic products,1,Raw materials,Raw materials
+1711,Western Europe,France,3331900000,2.886,3.695,2.948,1.357,106232,144872,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.03030303,Raw materials,Raw materials
+1711,Western Europe,France,3331900000,2.886,3.695,2.948,1.357,106232,144872,Manufacturing,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",0.03030303,Operation,Operation
+1711,Western Europe,France,3331900000,2.886,3.695,2.948,1.357,106232,144872,Manufacturing,Manufacture of rubber and plastic products,0.045454545,Raw materials,Raw materials
+1711,Western Europe,France,3331900000,2.886,3.695,2.948,1.357,106232,144872,Manufacturing,Manufacture of rubber and plastic products,0.045454545,Operation,Operation
+1711,Western Europe,France,3331900000,2.886,3.695,2.948,1.357,106232,144872,Manufacturing,Other manufacturing,0.924242424,Raw materials,Raw materials
+1711,Western Europe,France,3331900000,2.886,3.695,2.948,1.357,106232,144872,Manufacturing,Other manufacturing,0.924242424,Operation,Operation
+2918,Northern America,United States of America,1450000000,2.955,3.36,2.707,2.524,259057,148507,Manufacturing,Manufacture of other non-metallic mineral products,1,N/A,N/A
+1274,Western Europe,Spain,4617380000,3.09,3.9,3,1.738,24138,154895,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",1,Manufacturing,Manufacturing
+1644,Western Europe,Switzerland,2000000000,3.445,4.067,2.6,3.338,190865,155446,Manufacturing,Manufacture of chemicals and chemical products,1,Other,Other
+3351,Northern America,United States of America,8702604000,3.24,3.833,3.265,2.143,39715,158233,Wholesale And Retail Trade,Retail trade,1,End-use,End-use
+3435,Northern America,United States of America,4730000000,3.057,4,3,1.429,63857.044,159892.851,Accommodation And Food Service Activities,Accommodation,1,Other,Other
+1284,Western Europe,United Kingdom of Great Britain and Northern Ireland,3360300000,3.153,4.2,3,1.452,24136,162242,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",1,Other,Other
+1284,Western Europe,United Kingdom of Great Britain and Northern Ireland,3360300000,3.153,4.2,3,1.452,24136,162242,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",1,Operation,Operation
+102,Western Europe,Germany,1316803000,3.355,4.4,2.876,2.048,577624,170126,Manufacturing,Manufacture of chemicals and chemical products,1,Other,Other
+4109,Western Europe,United Kingdom of Great Britain and Northern Ireland,13816800000,3.17,3.664,3.404,2,210164,175168,Manufacturing,Manufacture of furniture,0.315350395,Operation,Operation
+4109,Western Europe,United Kingdom of Great Britain and Northern Ireland,13816800000,3.17,3.664,3.404,2,210164,175168,Wholesale And Retail Trade,Retail trade,0.684649605,Operation,Operation
+1276,Northern America,United States of America,7310000000,3.309,3.929,2.873,2.714,212712,175456,Manufacturing,Manufacture of chemicals and chemical products,1,Operation,Operation
+1327,Northern America,United States of America,925735000,2.861,3.36,2.849,1.976,350599,176658,Manufacturing,Manufacture of chemicals and chemical products,1,Manufacturing,Manufacturing
+1813,Latin America,Mexico,6667600000,3.064,3.8,2.964,1.857,91346,176823,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",1,Operation,Operation
+2998,Northern America,United States of America,5152500000,2.628,3.364,2.379,1.6,285855,188735,Manufacturing,Manufacture of beverages,1,Other,Other
+3989,Northern America,United States of America,11800000000,3.026,3.16,3.5,2.214,387349,190200,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",1,Operation,Operation
+4092,Western Europe,Switzerland,17000000000,3.291,3.929,3.033,2.452,406000,196000,"Agriculture, Forestry And Fishing","Crop and animal production, hunting and related service activities",0.222189506,Operation,Operation
+4092,Western Europe,Switzerland,17000000000,3.291,3.929,3.033,2.452,406000,196000,Manufacturing,Manufacture of chemicals and chemical products,0.777810494,Operation,Operation
+3148,Western Europe,France,1360000000,3.143,3.939,2.346,2.667,65556,203288,Manufacturing,Manufacture of chemicals and chemical products,0.3864,N/A,N/A
+3148,Western Europe,France,1360000000,3.143,3.939,2.346,2.667,65556,203288,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.6136,N/A,N/A
+3694,Western Europe,France,9240000000,2.23,2.471,2,2.071,24215,205362,Wholesale And Retail Trade,"Wholesale trade, except of motor vehicles and motorcycles",0.189648929,N/A,N/A
+3694,Western Europe,France,9240000000,2.23,2.471,2,2.071,24215,205362,Information and communication,Telecommunications,0.472499286,N/A,N/A
+3694,Western Europe,France,9240000000,2.23,2.471,2,2.071,24215,205362,Information and communication,Information service activities,0.151448929,N/A,N/A
+3694,Western Europe,France,9240000000,2.23,2.471,2,2.071,24215,205362,Information and communication,"Computer programming, consultancy and related activities",0.186402857,N/A,N/A
+1401,Northern America,United States of America,14700000000,3.089,3.9,2.9,1.857,54917,208413,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",1,Other,Other
+1296,Western Europe,Italy,527797000,2.884,3.1,2.8,2.595,1651,213461,"Professional, scientific and technical activities",Activities of head offices and management consultancy,1,Transportation,Transportation
+1296,Western Europe,Italy,527797000,2.884,3.1,2.8,2.595,1651,213461,"Professional, scientific and technical activities",Activities of head offices and management consultancy,1,End-use,End-use
+3592,Northern America,United States of America,6362900000,3.649,3.775,4.857,1.943,64080,215068,"Agriculture, Forestry And Fishing","Crop and animal production, hunting and related service activities",0.063878628,Operation,Operation
+3592,Northern America,United States of America,6362900000,3.649,3.775,4.857,1.943,64080,215068,Accommodation And Food Service Activities,Accommodation,0.038004895,Operation,Operation
+3592,Northern America,United States of America,6362900000,3.649,3.775,4.857,1.943,64080,215068,Human Health And Social Work Activities,Gambling and betting activities,0.898116477,Operation,Operation
+3723,Western Europe,United Kingdom of Great Britain and Northern Ireland,18400000000,3.332,4.007,3.311,2.143,195846,223116,Wholesale And Retail Trade,Retail trade,1,Farming,Farming
+972,Western Europe,Italy,16300000000,2.218,2.407,2.056,2.071,104418,232269,Information and communication,Telecommunications,0.727491667,N/A,N/A
+972,Western Europe,Italy,16300000000,2.218,2.407,2.056,2.071,104418,232269,Information and communication,Information service activities,0.272508333,N/A,N/A
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Mining And Quarrying,Extraction of crude petroleum and natural gas,0.145158079,Farming,Farming
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Mining And Quarrying,Extraction of crude petroleum and natural gas,0.145158079,End-use,End-use
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Mining And Quarrying,Extraction of crude petroleum and natural gas,0.145158079,Manufacturing,Manufacturing
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Mining And Quarrying,Extraction of crude petroleum and natural gas,0.145158079,End-use,End-use
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Mining And Quarrying,Extraction of crude petroleum and natural gas,0.145158079,Operation,Operation
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,Manufacture of wearing apparel,0.059838934,Farming,Farming
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,Manufacture of wearing apparel,0.059838934,End-use,End-use
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,Manufacture of wearing apparel,0.059838934,Manufacturing,Manufacturing
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,Manufacture of wearing apparel,0.059838934,End-use,End-use
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,Manufacture of wearing apparel,0.059838934,Operation,Operation
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,"Manufacture of computer, electronic and optical products",0.059838934,Farming,Farming
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,"Manufacture of computer, electronic and optical products",0.059838934,End-use,End-use
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,"Manufacture of computer, electronic and optical products",0.059838934,Manufacturing,Manufacturing
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,"Manufacture of computer, electronic and optical products",0.059838934,End-use,End-use
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Manufacturing,"Manufacture of computer, electronic and optical products",0.059838934,Operation,Operation
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Wholesale And Retail Trade,Retail trade,0.735164052,Farming,Farming
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Wholesale And Retail Trade,Retail trade,0.735164052,End-use,End-use
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Wholesale And Retail Trade,Retail trade,0.735164052,Manufacturing,Manufacturing
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Wholesale And Retail Trade,Retail trade,0.735164052,End-use,End-use
+1283,Western Europe,United Kingdom of Great Britain and Northern Ireland,25600000000,3.23,3.781,3.152,2.333,345723,238147,Wholesale And Retail Trade,Retail trade,0.735164052,Operation,Operation
+10282,Northern America,United States of America,2190000000,3.255,3.946,2.708,2.667,331192,243753,Manufacturing,Manufacture of chemicals and chemical products,1,Manufacturing,Manufacturing
+10282,Northern America,United States of America,2190000000,3.255,3.946,2.708,2.667,331192,243753,Manufacturing,Manufacture of chemicals and chemical products,1,Operation,Operation
+2901,Northern America,United States of America,3874140000,2.757,2.745,3.108,2.357,71217,266271,Manufacturing,Manufacture of rubber and plastic products,1,Raw materials,Raw materials
+2901,Northern America,United States of America,3874140000,2.757,2.745,3.108,2.357,71217,266271,Manufacturing,Manufacture of rubber and plastic products,1,Operation,Operation
+2084,Western Europe,France,26974200000,2.592,3.262,2.796,1.143,106000,283000,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",0.0591,N/A,N/A
+2084,Western Europe,France,26974200000,2.592,3.262,2.796,1.143,106000,283000,Manufacturing,Manufacture of electrical equipment,0.3967,N/A,N/A
+2084,Western Europe,France,26974200000,2.592,3.262,2.796,1.143,106000,283000,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",0.5442,N/A,N/A
+1762,Northern America,United States of America,4440000000,3.059,3.9,2.439,2.286,175807,302607,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,0.5,Other,Other
+1762,Northern America,United States of America,4440000000,3.059,3.9,2.439,2.286,175807,302607,"Professional, scientific and technical activities",Veterinary activities,0.5,Other,Other
+3035,Northern America,United States of America,1186077000,3.558,4.875,3,1.857,559769,310903,Mining And Quarrying,Extraction of crude petroleum and natural gas,0.333333333,N/A,N/A
+3035,Northern America,United States of America,1186077000,3.558,4.875,3,1.857,559769,310903,"Electricity, Gas, Steam And Air Conditioning Supply","Electricity, gas, steam and air conditioning supply",0.333333333,N/A,N/A
+3035,Northern America,United States of America,1186077000,3.558,4.875,3,1.857,559769,310903,Transportation And Storage,Land transport and transport via pipelines,0.333333333,N/A,N/A
+1263,Western Europe,United Kingdom of Great Britain and Northern Ireland,28300000000,3.553,4.709,3.153,1.952,44840,311882,Wholesale And Retail Trade,Retail trade,0.949929909,End-use,End-use
+1263,Western Europe,United Kingdom of Great Britain and Northern Ireland,28300000000,3.553,4.709,3.153,1.952,44840,311882,Accommodation And Food Service Activities,Food and beverage service activities,0.050070091,End-use,End-use
+1207,Eastern Europe,Czechia,1114065013,2.646,3.8,1.75,1.643,13722,370328,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Manufacturing,Manufacturing
+1207,Eastern Europe,Czechia,1114065013,2.646,3.8,1.75,1.643,13722,370328,Manufacturing,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1,Operation,Operation
+2774,Northern America,United States of America,66500000000,3.805,4.518,3.769,2.571,517000,464000,Manufacturing,Manufacture of other transport equipment,0.800658345,N/A,N/A
+2774,Northern America,United States of America,66500000000,3.805,4.518,3.769,2.571,517000,464000,Manufacturing,"Repair, maintenance and installation of machinery and equipment",0.099670828,N/A,N/A
+2774,Northern America,United States of America,66500000000,3.805,4.518,3.769,2.571,517000,464000,Administrative And Support Service Activities,Public administration and defence; compulsory social security,0.099670828,N/A,N/A
+1205,Western Europe,Switzerland,5305365000,2.879,3.25,2.5,2.667,637605,503162,Manufacturing,"Manufacture of fabricated metal products, except machinery and equipment",1,N/A,N/A
+1314,Western Europe,Netherlands,5130000000,3,3.602,2.653,2.333,598000,640000,Manufacturing,Manufacture of chemicals and chemical products,1,Manufacturing,Manufacturing
+1314,Western Europe,Netherlands,5130000000,3,3.602,2.653,2.333,598000,640000,Manufacturing,Manufacture of chemicals and chemical products,1,Operation,Operation
+2098,Western Europe,Germany,41400000000,3.228,4.254,2.692,2.024,229000,649000,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.023700459,End-use,End-use
+2098,Western Europe,Germany,41400000000,3.228,4.254,2.692,2.024,229000,649000,Manufacturing,Manufacture of machinery and equipment n.e.c.,0.023700459,End-use,End-use
+2098,Western Europe,Germany,41400000000,3.228,4.254,2.692,2.024,229000,649000,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",0.952599081,End-use,End-use
+2098,Western Europe,Germany,41400000000,3.228,4.254,2.692,2.024,229000,649000,Manufacturing,"Manufacture of motor vehicles, trailers and semi-trailers",0.952599081,End-use,End-use
+2098,Western Europe,Germany,41400000000,3.228,4.254,2.692,2.024,229000,649000,Manufacturing,Manufacture of other transport equipment,0.023700459,End-use,End-use
+2098,Western Europe,Germany,41400000000,3.228,4.254,2.692,2.024,229000,649000,Manufacturing,Manufacture of other transport equipment,0.023700459,End-use,End-use
+1289,Northern America,Canada,10000000000,2.773,3.338,2.925,1.571,534314,715990,Manufacturing,Manufacture of electrical equipment,1,End-use,End-use
+1750,Northern America,United States of America,5510000000,2.994,3.875,2.56,1.929,631252,862769,Manufacturing,Manufacture of rubber and plastic products,0.5,N/A,N/A
+1750,Northern America,United States of America,5510000000,2.994,3.875,2.56,1.929,631252,862769,Manufacturing,Other manufacturing,0.5,N/A,N/A
+4090,Northern America,United States of America,55100000000,2.425,2.629,2.354,2.143,431504,1105788,Wholesale And Retail Trade,Retail trade,0.195180176,N/A,N/A
+4090,Northern America,United States of America,55100000000,2.425,2.629,2.354,2.143,431504,1105788,Information and communication,"Programming, broadcasting, news agency and other content distribution activities",0.257502042,N/A,N/A
+4090,Northern America,United States of America,55100000000,2.425,2.629,2.354,2.143,431504,1105788,Information and communication,Telecommunications,0.515004085,N/A,N/A
+4090,Northern America,United States of America,55100000000,2.425,2.629,2.354,2.143,431504,1105788,"Professional, scientific and technical activities","Activities of advertising, market research and public relations",0.032313697,N/A,N/A
+4098,Western Europe,Norway,10200000000,2.358,2.354,3,1.595,250372,1503357,Manufacturing,Manufacture of paper and paper products,1,Other,Other
+4098,Western Europe,Norway,10200000000,2.358,2.354,3,1.595,250372,1503357,Manufacturing,Manufacture of paper and paper products,1,Operation,Operation
+4098,Western Europe,Norway,10200000000,2.358,2.354,3,1.595,250372,1503357,Manufacturing,Manufacture of paper and paper products,1,Operation,Operation
+1777,Northern America,United States of America,609000000,2.958,3.5,3.063,1.857,144025,1597469,Manufacturing,Manufacture of rubber and plastic products,1,Raw materials,Raw materials
+1777,Northern America,United States of America,609000000,2.958,3.5,3.063,1.857,144025,1597469,Manufacturing,Manufacture of rubber and plastic products,1,Operation,Operation
+3387,Northern America,United States of America,1540000000,3.102,3.9,3,1.786,442406,2061608,Accommodation And Food Service Activities,Accommodation,1,Operation,Operation

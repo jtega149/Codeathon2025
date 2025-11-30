@@ -1,0 +1,356 @@
+entity_id,activity_type,activity_code,env_score_adjustment
+2709,Transportation,M.70.4.P,0.05
+107,Operation,MTH002,-0.1
+10045,Operation,MTH002,-0.1
+2709,End-use,J.58.16.B,-0.05
+2677,Operation,J.58.20.P,0.1
+1077,Transportation,M.70.4.P,0.1
+1296,Transportation,M.70.4.P,0.1
+2306,Transportation,H.51.1.B,-0.1
+3742,Farming,A.1.5.B,-0.048
+46,Farming,D.35.7.B,-0.232170692
+46,Farming,D.35.15.P,0.097795653
+3346,Farming,I.56.1.B,-0.1
+3591,Operation,J.63.5.B,-0.25
+1263,End-use,H.49.6.B,-0.078800187
+1248,Manufacturing,C.21.9.B,-0.073081686
+3389,Manufacturing,C.21.9.B,-0.1
+1328,Manufacturing,C.21.9.B,-0.161424238
+1314,Manufacturing,C.20.26.B,-0.2
+10282,Manufacturing,C.20.26.B,-0.027
+1419,End-use,C.28.1.P,0.180046404
+3114,Raw materials,C.28.94.P,0.25
+1224,Raw materials,C.28.94.P,0.176328502
+2098,End-use,C.29.6.B,-0.017434805
+2098,End-use,C.29.10.B,-0.057504922
+1807,Raw materials,C.14.45.B,-0.1
+1248,End-use,C.14.34.P,0.065698023
+3351,End-use,C.14.34.P,0.1325
+10282,Operation,MTH003,-0.027
+3540,Operation,MTH003,-0.3
+3157,Operation,MTH002,-0.1
+1337,Operation,MTH002,-0.1
+1400,Operation,MTH002,-0.1
+1672,Operation,MTH002,-0.141
+1211,Operation,MTH002,-0.1
+1314,Operation,MTH002,-0.2
+1054,Operation,X.XX.3.B,-0.25
+10234,Operation,MTH001,-0.416003185
+3311,Operation,MTH001,-0.5
+1495,Operation,MTH001,-0.112483311
+1141,Raw materials,C.32.47.B,-0.5
+3540,Raw materials,C.32.34.B,-0.5
+3157,Manufacturing,C.32.3.B,-0.1
+3346,Manufacturing,C.32.3.B,-0.1
+3742,Manufacturing,C.32.3.B,-0.09
+1296,End-use,M.74.2.B,-0.1
+10299,End-use,J.58.36.B,-0.226106479
+1400,Operation,J.58.94.P,0.1
+10100,Operation,J.58.20.P,0.043001699
+3591,Operation,J.58.20.P,0.1
+1400,Operation,J.58.20.P,0.1
+1419,Operation,J.58.20.P,0.1
+1262,Operation,J.58.20.P,0.1
+10299,Operation,J.58.45.P,0.226106479
+1383,Operation,L.68.6.B,-0.492174427
+3157,Manufacturing,G.47.44.B,-0.074713
+1851,Operation,G.47.4.B,-0.1
+1074,Operation,G.47.4.B,-0.1
+1208,Operation,M.75.2.P,0.090923921
+46,Transportation,H.50.62.B,-0.002204347
+1735,Operation,I.55.06.B,-0.080980695
+3387,Operation,I.55.06.B,-0.1
+3573,Transportation,M.70.4.P,0.1
+2929,Transportation,M.70.4.P,0.1
+3535,Operation,F.42.15.B,-0.013953488
+1182,End-use,F.42.12.P,0.1325
+3535,Manufacturing,F.42.41.B,-0.104651163
+1283,Farming,A.1.4.B,-0.073516405
+3725,Farming,A.1.4.B,-0.1
+1249,Farming,A.1.4.B,-0.097704494
+1283,End-use,H.49.6.B,-0.014515808
+1283,Manufacturing,C.11.2.B,-0.14703281
+3489,Manufacturing,C.20.26.B,-0.1
+3489,Manufacturing,C.20.3.B,-0.1
+1334,Manufacturing,C.26.1.B,-0.193190025
+1863,Manufacturing,C.26.1.B,-0.2
+1493,End-use,C.27.75.B,-0.074866644
+1289,End-use,C.27.70.B,-0.25
+2174,Raw materials,C.27.78.P,0.01108115
+1275,Raw materials,C.27.78.P,0.25
+2174,Disposal ,C.27.91.P,0.00443246
+1242,Raw materials,C.27.52.P,0.054485449
+1060,Disposal ,C.25.06.P,0.060046918
+1557,Raw materials,C.28.94.P,0.475
+1275,Disposal ,C.28.31.P,0.023363712
+1557,Raw materials,C.28.81.P,0.025
+3337,Raw materials,C.14.20.B,-0.1
+2739,End-use,C.14.34.P,0.119939602
+1283,End-use,C.14.34.P,0.089758402
+3337,End-use,C.14.34.P,0.25
+1349,Operation,MTH002,-0.2
+3337,Operation,MTH002,-0.1
+1242,Operation,MTH002,-0.2
+1246,Operation,MTH002,-0.3
+3236,Operation,MTH002,-0.1
+1078,Operation,MTH002,-0.1
+1318,Operation,MTH002,-0.189821267
+3647,Operation,MTH002,-0.2
+1665,Operation,MTH002,-0.1
+2865,Raw materials,C.32.41.B,-0.1
+1132,Raw materials,C.32.41.B,-0.087032617
+1242,Raw materials,C.32.34.B,-0.5
+1198,Raw materials,C.32.34.B,-0.443375166
+1246,Raw materials,C.32.34.B,-0.5
+2581,Raw materials,C.32.34.B,-0.5
+1274,Manufacturing,C.32.3.B,-0.1
+1078,Manufacturing,C.32.3.B,-0.3
+1301,Manufacturing,C.32.3.B,-0.1
+1198,Manufacturing,C.32.78.P,0.055662483
+1198,Disposal ,C.32.63.P,0.055662483
+3573,End-use,M.74.2.B,-0.006655676
+3438,End-use,M.74.2.B,-0.095417895
+1665,End-use,J.58.36.B,-0.049137105
+1456,Operation,J.58.101.B,-0.298666667
+1852,Operation,J.58.20.P,0.1
+2575,Operation,J.58.45.P,0.042420559
+1283,Operation,G.47.4.B,-0.073516405
+2807,Transportation,H.50.73.B,-0.082491969
+1064,Farming,A.1.3.B,-0.25
+2693,Manufacturing,C.11.2.B,-0.1
+1264,Raw materials,C.14.45.B,-0.1
+1975,Raw materials,C.14.45.B,-0.1
+1529,Raw materials,C.14.45.B,-0.1
+1281,End-use,C.14.30.B,-0.1
+1483,Raw materials,C.14.20.B,-0.009572589
+1529,End-use,C.14.34.P,0.25
+3858,Disposal ,C.14.87.P,0.1
+2090,Manufacturing,C.20.26.B,-0.096938776
+1327,Manufacturing,C.20.26.B,-0.295401515
+2684,Manufacturing,C.20.26.B,-0.020831012
+3555,Manufacturing,C.20.1.P,0.0175
+1207,Manufacturing,C.21.9.B,-0.1
+1142,Manufacturing,C.21.9.B,-0.138696255
+10451,Manufacturing,C.21.9.B,-0.1
+3345,Raw materials,C.22.34.B,-0.24
+1302,Raw materials,C.22.34.B,-0.1325
+3518,Raw materials,C.22.34.B,-0.25
+1777,Raw materials,C.22.34.B,-0.25
+2901,Raw materials,C.22.34.B,-0.75
+1380,Raw materials,C.22.34.B,-1
+1796,Raw materials,C.22.34.B,-0.75
+3642,Raw materials,C.22.34.B,-1
+3564,Raw materials,C.22.34.B,-0.25
+1363,Raw materials,C.22.34.B,-0.25
+3595,Disposal ,C.26.38.P,0.029036032
+2014,Disposal ,C.26.55.P,0.001298922
+3985,Disposal ,C.26.55.P,0.011785714
+1190,Manufacturing,C.27.12.P,0.069
+1190,Raw materials,C.27.78.P,0.1725
+1190,Manufacturing,C.27.61.P,0.031
+1190,Disposal ,C.27.46.P,0.031
+1190,Manufacturing,C.28.33.P,0.019
+1190,Raw materials,C.28.94.P,0.0475
+1190,Manufacturing,C.28.56.P,0.031
+1190,Disposal ,C.28.40.P,0.031
+1691,End-use,C.29.10.B,-0.245946989
+1483,Manufacturing,C.32.4.B,-0.226068527
+1791,Raw materials,C.32.34.B,-1
+1711,Raw materials,C.32.34.B,-0.484848485
+97,Manufacturing,C.32.3.B,-0.1
+3598,Manufacturing,C.32.3.B,-0.2
+1676,Manufacturing,C.32.1.P,0.25
+1766,Manufacturing,C.32.1.P,0.25
+3356,Farming,D.35.8.B,-0.25
+1367,Operation,E.38.34.B,-0.214874475
+1367,Operation,E.38.24.B,-0.644623426
+1588,End-use,H.49.6.B,-0.1
+3179,Operation,I.55.06.B,-0.1
+1195,Farming,I.56.1.B,-0.07258118
+3723,Farming,I.56.1.B,-0.081081817
+3673,End-use,J.58.36.B,-0.016245274
+3313,End-use,J.58.36.B,-0.025985057
+3102,Operation,J.58.101.B,-0.25
+1939,Operation,J.58.101.B,-0.25
+3689,Operation,J.58.20.P,0.1
+3381,Operation,J.58.20.P,0.084344697
+2578,Operation,J.58.20.P,0.065091687
+1757,Operation,J.58.20.P,0.085971309
+3313,Operation,J.58.20.P,0.015298181
+2339,End-use,J.61.2.B,-0.153072415
+3985,End-use,J.61.99.B,-0.072802198
+1368,End-use,M.74.2.B,-0.062139851
+10477,End-use,M.74.2.B,-0.033211512
+63,Operation,Q.86.2.B,-0.1
+1676,Operation,Q.86.2.B,-0.1
+63,Disposal ,Q.86.1.P,0.25
+1925,Disposal ,Q.86.1.P,0.03242468
+2126,Disposal ,Q.86.1.P,0.233570402
+2684,Disposal ,Q.86.1.P,0.039383075
+3598,Operation,MTH003,-0.2
+2957,Operation,MTH002,-0.1
+1207,Operation,MTH002,-0.1
+3671,Operation,MTH002,-0.1
+1302,Operation,MTH002,-0.053
+1483,Operation,MTH002,-0.090427411
+3518,Operation,MTH002,-0.1
+1142,Operation,MTH002,-0.138696255
+3551,Operation,MTH002,-0.1
+10432,Operation,MTH002,-0.1
+10451,Operation,MTH002,-0.1
+2216,Operation,MTH002,-0.1
+1303,Operation,MTH002,-0.1
+1711,Operation,MTH002,-0.1
+3985,Operation,MTH002,-0.111785714
+1277,Operation,MTH002,-0.2
+3345,Operation,MTH004,-0.24
+1777,Operation,MTH004,-0.25
+2901,Operation,MTH004,-0.75
+1380,Operation,MTH004,-1
+1791,Operation,MTH004,-0.5
+3705,Operation,MTH001,-0.301023269
+999,Operation,MTH001,-0.25
+3749,Operation,MTH001,-0.248734572
+1380,Operation,MTH001,-1
+1267,Farming,A.1.4.B,-0.433661864
+1476,Raw materials,C.14.20.B,-0.1
+1476,End-use,C.14.01.B,-0.25
+1252,Disposal ,C.17.1.B,-0.2
+1478,Disposal ,C.17.2.B,-0.2425
+3789,Raw materials,C.22.34.B,-0.25
+2121,Raw materials,C.22.34.B,-0.25
+1843,Raw materials,C.32.34.B,-0.936935686
+2426,Manufacturing,C.32.1.P,0.25
+1140,Operation,J.58.101.B,-0.25
+1206,Operation,J.58.94.P,0.014
+2041,Operation,J.58.20.P,0.0131
+3918,Operation,J.58.20.P,0.004255682
+2169,Other,ENVIB010,-0.081190735
+1827,Other,ENVIB010,-0.1
+3435,Other,ENVIB010,-0.1
+1179,Other,ENVIB010,-0.2
+1206,Other,ENVIB010,-0.064
+58,Other,ENVIB010,-0.112422977
+1406,Other,ENVIB010,-0.1
+90,Other,ENVIB010,-0.1
+4098,Other,ENVIB010,-0.1
+1575,Other,ENVIB010,-0.3
+1762,Other,ENVIB010,-0.1
+1768,Other,ENVIB010,-0.1
+1252,Operation,MTH003,-0.1
+3789,Operation,MTH003,-0.1
+1276,Operation,MTH002,-0.077
+4051,Operation,MTH002,-0.1
+4098,Operation,MTH002,-0.1
+1813,Operation,MTH002,-0.1
+2193,Operation,MTH002,-0.1
+2627,Other,ENVIB025,-0.25
+2266,Other,ENVIB025,-0.691477405
+58,Other,ENVIB025,-0.25
+2876,Other,ENVIB025,-0.25
+4130,Operation,MTH004,-0.142297866
+1406,Operation,MTH004,-0.25
+4098,Operation,MTH004,-0.75
+2416,Operation,MTH004,-0.25
+3173,Operation,MTH001,-1
+1206,Operation,MTH001,-0.25
+2066,Other,ENVIB050,-0.095267315
+10702,Farming,A.1.4.B,-0.1
+4037,Farming,A.1.4.B,-0.090452694
+3908,Other,ENVIB010,-0.1
+1272,Other,ENVIB010,-0.1
+10695,Other,ENVIB010,-0.1
+4131,Other,ENVIB010,-0.1
+1401,Other,ENVIB010,-0.1
+1609,Other,ENVIB010,-0.1
+1504,Other,ENVIB010,-0.2
+1866,Other,ENVIB010,-0.1
+1589,Other,ENVIB010,-0.1
+1538,Other,ENVIB010,-0.1
+2269,Other,ENVIB010,-0.1
+37,Other,ENVIB010,-0.1
+10039,Other,ENVIB010,-0.036652025
+1637,Other,ENVIB010,-0.1
+10727,Other,ENVIB010,-0.1
+1332,Other,ENVIB010,-0.1
+1055,Other,ENVIB010,-0.1
+1467,Other,ENVIB010,-0.054978355
+2279,Transportation,H.51.4.B,-0.656900288
+1596,Operation,J.58.101.B,-0.25
+2785,Operation,J.58.45.P,0.153713998
+2785,Operation,J.58.94.P,0.078581515
+3632,Transportation,M.70.5.P,0.25
+1637,Transportation,M.70.5.P,0.25
+29,Operation,MTH001,-1.5
+4061,Operation,MTH001,-0.25
+4049,Operation,MTH001,-0.025204763
+4021,Operation,MTH001,-0.25
+1343,Operation,MTH002,-0.267676768
+1272,Operation,MTH002,-0.1
+3989,Operation,MTH002,-0.1
+4092,Operation,MTH002,-0.077781049
+1204,Operation,MTH002,-0.1
+4109,Operation,MTH004,-0.175131
+2465,End-use,C.14.34.P,0.5
+4215,Manufacturing,C.32.1.P,0.0125
+2215,Manufacturing,C.32.1.P,0.186912962
+3850,Manufacturing,F.42.41.B,-0.2475
+10773,Operation,I.56.1.P,0.049722645
+1162,Operation,J.58.20.P,0.1
+3942,Operation,J.58.20.P,0.09339254
+3981,Operation,L.68.3.B,-0.25
+4155,Operation,L.68.3.B,-0.133116883
+2944,Transportation,M.70.5.P,0.25
+2944,End-use,M.74.2.B,-0.1
+1284,Other,ENVIB010,-0.1
+2744,Other,ENVIB010,-0.1
+4215,Other,ENVIB010,-0.085
+1926,Other,ENVIB010,-0.1
+3683,Other,ENVIB010,-0.1
+2465,Other,ENVIB010,-0.1
+102,Other,ENVIB010,-0.1
+3850,Other,ENVIB010,-0.087
+2215,Other,ENVIB010,-0.1
+4205,Other,ENVIB010,-0.1
+2775,Other,ENVIB010,-0.1
+1284,Operation,MTH002,-0.1
+4215,Operation,MTH002,-0.1
+3683,Operation,MTH002,-0.1
+4192,Other,ENVIB025,-0.25
+3981,Operation,MTH001,-0.25
+3990,Operation,MTH001,-0.25
+4176,Manufacturing,C.32.1.P,0.25
+1615,Operation,J.58.101.B,-0.25
+4198,Other,ENVIB010,-0.1
+3053,Other,ENVIB010,-0.332964806
+3309,Other,ENVIB010,-0.1
+10184,Other,ENVIB010,-0.2
+1710,Other,ENVIB010,-0.1
+4225,Other,ENVIB010,-0.1
+1782,Other,ENVIB010,-0.1
+2986,Other,ENVIB010,-0.1
+106,Other,ENVIB010,-0.1
+1203,Operation,MTH002,-0.1
+1710,Operation,MTH002,-0.2
+2030,Operation,MTH002,-0.114725979
+2998,Other,ENVIB025,-0.701411936
+1655,Operation,MTH001,-0.25
+106,Operation,MTH001,-0.5
+4176,Operation,MTH001,-0.25
+3958,Farming,A.1.6.B,-0.13702537
+10204,Manufacturing,F.42.41.B,-0.433292534
+2708,Manufacturing,F.42.41.B,-0.75
+3115,Operation,J.58.20.P,0.1
+3592,Operation,L.68.7.B,-0.093612137
+1312,Operation,MTH003,-0.1
+1243,Other,ENVIB010,-0.1
+1375,Other,ENVIB010,-0.1
+3042,Other,ENVIB010,-0.1
+1644,Other,ENVIB010,-0.1
+1618,Operation,MTH002,-0.1
+1824,Operation,MTH004,-0.25
+1824,Other,ENVIB025,-0.25
+1375,Other,ENVIB025,-0.25
+1418,Other,ENVIB025,-0.25
+3042,Other,ENVIB025,-0.25
+1418,Operation,MTH001,-0.25
